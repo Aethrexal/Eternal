@@ -1,0 +1,7 @@
+.git/**
+.gitattributes
+.gitignore
+.github/**
+README.md
+changelog.md
+Eternal Minimal.zip
