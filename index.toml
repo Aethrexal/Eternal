@@ -1,6 +1,66 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "27015059222ecd64324b1ecf708868f4a27c772a1209393153965992308aa8b7"
+
+[[files]]
+file = "config/camera-client.toml"
+hash = "e8d4f1b10f91e82dc78ba84df4f215759a56178b7a6d3835855c44efc6bb35e6"
+
+[[files]]
+file = "config/craftpresence.properties"
+hash = "120a723226a9ed60ffc23875b6611e2686498607b6ad49d4f9e5e39d9e736fda"
+
+[[files]]
+file = "config/dalekmod-client.toml"
+hash = "b9e05025a1fd21b9155730996c1aa7cb418ab672f205c5f1d2e527f7132c8abd"
+
+[[files]]
+file = "config/futurepack-common.toml"
+hash = "8b31bf1d7075762cc6d61f575072b6e30281af678b5cf95ceec747d6f136a3d6"
+
+[[files]]
+file = "config/itemcollectors-common.toml"
+hash = "e54d0d7449925846b940747aea4ccedcc4191e50d3722b05fa79e3206c75f19b"
+
+[[files]]
+file = "config/notes-client.toml"
+hash = "9bc9a889598c307d9a21cd5171ca9603750e5d4ffc848b1e9b34cc8252291e27"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "24a3664e297f9518b2b479a0bc54dcb61282b8a4d4b57d80a14dc1cbd1d49f41"
+
+[[files]]
+file = "config/randompatches.toml"
+hash = "d7a5b8db0b57e000d999938fe187ed09b1dc5c55573a4e0acb3d2bc5924ba6b0"
+
+[[files]]
+file = "config/treeharvester-common.toml"
+hash = "8018702614544109e00f13cfdfd3cd85ffa120ede07cc620f8ffadaf0493b638"
+
+[[files]]
+file = "defaultconfigs/car-server.toml"
+hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
+
+[[files]]
+file = "defaultconfigs/comforts-server.toml"
+hash = "406a27569ac8f908b12ea9bfe39138f55043189d9d2bbe93b0379bdaedf04e4d"
+
+[[files]]
+file = "defaultconfigs/doggytalents-server.toml"
+hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
+
+[[files]]
+file = "defaultconfigs/ftbchunks.snbt"
+hash = "0f2247ac85fb0d6a57dd7dcc85fd8670a50b2effc6bbe69f8097c881c1bdd929"
+
+[[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "2adb6b444fe511cfe32878a7e55199aa563f6051425c382d97f14184d36ab268"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
 metafile = true
