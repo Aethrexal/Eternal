@@ -1,0 +1,13 @@
+name = "BPeripherals"
+filename = "bperipherals-1.16.5-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "748d53d0639f7ff81f7f0f27c0006255c3ee874c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3358617
+project-id = 386140

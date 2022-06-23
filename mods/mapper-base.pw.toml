@@ -1,0 +1,13 @@
+name = "Mapper Base"
+filename = "mapperbase-1.16.5-2.4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4a92e14fc43f9ea1d1b70fa710d2daa0e6185c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3350373
+project-id = 367442

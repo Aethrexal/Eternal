@@ -1,0 +1,13 @@
+name = "No Potion Shift"
+filename = "nopotionshift_1.16.4-1.6.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d73785eae7550fceec7cccca39265ea125751c54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3312294
+project-id = 243863

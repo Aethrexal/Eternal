@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-1.16.5-1.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3791b88fa5518bd87008616b3725dab86fb96ea3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3310670
+project-id = 267458
