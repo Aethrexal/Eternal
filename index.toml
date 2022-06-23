@@ -41,26 +41,6 @@ file = "config/treeharvester-common.toml"
 hash = "8018702614544109e00f13cfdfd3cd85ffa120ede07cc620f8ffadaf0493b638"
 
 [[files]]
-file = "defaultconfigs/car-server.toml"
-hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
-
-[[files]]
-file = "defaultconfigs/comforts-server.toml"
-hash = "406a27569ac8f908b12ea9bfe39138f55043189d9d2bbe93b0379bdaedf04e4d"
-
-[[files]]
-file = "defaultconfigs/doggytalents-server.toml"
-hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
-
-[[files]]
-file = "defaultconfigs/ftbchunks.snbt"
-hash = "0f2247ac85fb0d6a57dd7dcc85fd8670a50b2effc6bbe69f8097c881c1bdd929"
-
-[[files]]
-file = "defaultconfigs/gravestone-server.toml"
-hash = "2adb6b444fe511cfe32878a7e55199aa563f6051425c382d97f14184d36ab268"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
 metafile = true
