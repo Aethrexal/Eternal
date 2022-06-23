@@ -16,7 +16,7 @@
 - Controlling **(Client Only)**
 - Morpheus
 - Cooking for Blockheads
-- Biomes O' Plenty
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - KleeSlabs
 - XNet
 - McJtyLib **(Dependency)**
@@ -28,20 +28,20 @@
 
 - Immersive Engineering
 - Chisel & Bits
-- Quark
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - AutoRegLib **(Dependency)**
 - MrCrayfish's Furniture Mod
 - Comforts
-- GraveStone Mod
-- Macaw's Bridges
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - PneumaticCraft: Repressurized
 - Patchouli **(Dependency)**
 - Create
 - Flywheel **(Dependency)**
-- Macaw's Windows
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - Polymorph
-- Macaw's Doors
-- Macaw's Roofs
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - Light Overlay
 - Cloth Config API **(Dependency)**
 - Architectury API **(Dependency)**
@@ -59,10 +59,10 @@
 - Transparent **(Dependency)**
 - Construction Wand
 - Performant
-- Macaw's Fences and Walls
+- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
 - Gauges and Switches
 - Pam's HarvestCraft 2 - Food Core
-- Jade
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - Lightning Wand
 - Ultimate Car Mod
 - BlockCarpentry
@@ -70,7 +70,7 @@
 - SuperMartijn642's Config Lib **(Dependency)**
 - SuperMartijn642's Core Lib **(Dependency)**
 - Better Compatibility Checker
-- Camera Mod
+- [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
 - Tiny Redstone
 - Tiny Gates
 - Tree Harvester
@@ -91,7 +91,7 @@
 - Road Stuff
 - Mapper Base **(Dependency)**
 - Table Top Craft
-- Macaw's Paths and Pavings
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
 - CC: Tweaked
 - BPeripherals
 - Portality
