@@ -3,6 +3,7 @@
 .gitignore
 .github/**
 README.md
+CNAME
 changelog.md
 Eternal.zip
 Eternal-*.mrpack
