@@ -1,6 +1,0 @@
-
-#Dalek Mod Client configuration settings
-[client]
-	#Use the custom Dalek Mod titlescreen
-	customTitleScreen = false
-
