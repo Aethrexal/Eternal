@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "27015059222ecd64324b1ecf708868f4a27c772a1209393153965992308aa8b7"
+hash = "92934e40d5034e6bc837d48ad0dabe2bdfb086e39c3e6b546bd24a771460734b"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -37,6 +37,10 @@ file = "config/randompatches.toml"
 hash = "d7a5b8db0b57e000d999938fe187ed09b1dc5c55573a4e0acb3d2bc5924ba6b0"
 
 [[files]]
+file = "config/rubidium-options.json"
+hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
+
+[[files]]
 file = "config/treeharvester-common.toml"
 hash = "8018702614544109e00f13cfdfd3cd85ffa120ede07cc620f8ffadaf0493b638"
 
@@ -54,11 +58,23 @@ hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
 
 [[files]]
 file = "defaultconfigs/ftbchunks.snbt"
-hash = "0f2247ac85fb0d6a57dd7dcc85fd8670a50b2effc6bbe69f8097c881c1bdd929"
+hash = "917d0e63b689dc9617a9960076805ce939b1a8b2b179ed546c6e31da7db9dbcc"
 
 [[files]]
 file = "defaultconfigs/gravestone-server.toml"
 hash = "2adb6b444fe511cfe32878a7e55199aa563f6051425c382d97f14184d36ab268"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.core.config"
+hash = "d3de96776bb9406516632134f09f7b8c9600659e8ab91bb526606cc82248a7e9"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.waypoint.config"
+hash = "019d2b7bac9523e452e9cf76da83f4d48df4098d6653c055b326b93d27ac9c25"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.webmap.config"
+hash = "0cca922469d188ce438f71263a277e240b1cd5cc42bb2486b4d93b254afcd332"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -102,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b71417e3a725de28a253fd69ed55397b4f71e968fc338124ddc2f1ed32a23f3a"
+hash = "8c8f22fde213c269830708b5b8f5b0b5f71507287a2c003a52e6cfcca7b67cd0"
 metafile = true
 
 [[files]]
@@ -172,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/decocraft.pw.toml"
-hash = "97a6e5c98e9d3ae5a4f5c6a13f1e3a605cdbe8bb146be596f3f3fc8c3538385c"
+hash = "84a92bb74e754e59a4735c66e383ceade5dbed3a423241e7fbf57446441b4f0c"
 metafile = true
 
 [[files]]
@@ -183,6 +199,26 @@ metafile = true
 [[files]]
 file = "mods/doggy-talents.pw.toml"
 hash = "01d65069c9f8d260e2437488a136378494306ea2f5c1309e56422c7be8502583"
+metafile = true
+
+[[files]]
+file = "mods/dtbop.pw.toml"
+hash = "b9e8e74fcfb6289fad92a433220e7fa2898d16df7f17ef7b3907eadefe375f1d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "d395de30f7df6007f506eb7a26a01939343dcd14e58cfa3bb081ae36791c21f7"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "67eafaee9351e20fd9c52d9307335d06e121161242822ed9fa8a73dcc8c38035"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "b966a212aa3ebd9fb754d9701e2605823f64e39633da861df89b2f6f6e924b59"
 metafile = true
 
 [[files]]
@@ -246,6 +282,11 @@ hash = "5d242849b481d8e19ba20dc1cbb56c8d91ca3f3466a7e77c9f7a52c6f96f09b2"
 metafile = true
 
 [[files]]
+file = "mods/hole-filler-mod.pw.toml"
+hash = "ab734d1b1cacc049b78fcf3cdffcde384cd78af401110a52450ff02090aeab61"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
 metafile = true
@@ -268,6 +309,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "2c1b373da61c2056ac1481b3433074dcffd86f3df9912dce146e65473bdfeef8"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
 metafile = true
 
 [[files]]
@@ -327,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "ed357f0935b1d04039203bcbe503554b0aeb76ddf5735667a933470767693d3d"
+hash = "8e4bcfb3c7414bad4fa427e5381fe9e44d8d7ba197b76ed3701c00df8bf6c2a3"
 metafile = true
 
 [[files]]
@@ -348,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "fe3b73d41512471f2e6a1587fe7ef07e7bd436fa9be27a22ac1f8d40443ba15e"
+metafile = true
+
+[[files]]
+file = "mods/multibeds.pw.toml"
+hash = "5d9c2a6bcc39969616577daac8fb54903470343e06a3dd16330bf0ab08e147a2"
 metafile = true
 
 [[files]]
@@ -377,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "e94940367c4862d0c9285471514413faf2e2be9e1c585085d5de045f8e9fd87a"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
@@ -441,6 +497,16 @@ hash = "3d8059a5a4ad9786b63f87513e392ac7af7a2165daa9b5a5df6dbdcba71c95c5"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "79935266a5aba1e58738e7368590540d8529ae6ab8418a75c52fec7f5f850abe"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "fda16dbe6a1ea2de5e24b06b537c44a3499254482b99017e70fde75c0ed9b53c"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "b19cc29643d1c7e2f113573585e64f1633a762c7cfd61c84ed54bd1b8dfb8fc9"
 metafile = true
@@ -452,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3b92d19def5e090c543b05ba594a90ab797f3a1ad3013871eebf4b24d753b31d"
+hash = "c35f915723d2bb5e3b62d80b9ff1876b1509cd02a6e617a4a2d73d1a9e952d62"
 metafile = true
 
 [[files]]

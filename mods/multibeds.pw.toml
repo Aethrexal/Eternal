@@ -1,0 +1,13 @@
+name = "MultiBeds"
+filename = "multibeds-1.16-1.7.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d73c8aeb1bb423ff3c9b903619da5b3ccdeb05a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3724219
+project-id = 244858

@@ -1,0 +1,13 @@
+name = "JourneyMap Integration"
+filename = "jmi-1.16.5-0.8.1-47.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1abffab7b4fe54a46afb03fb0f2bf917035479e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3696645
+project-id = 525447

@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.0.0
+
+### Added
+
+- Hole Filler Mod
+- Rubidium **(Client Only)**
+- JourneyMap
+- JourneyMap Integration
+- MultiBeds
+- ShetiPhianCore **(Dependency)**
+- Dynamic Trees
+- Dynmap Trees +
+- Dynamic Trees - Biomes O' Plenty
+- Dynamic Trees - Quark
+
+### Updated
+
+- CC: Tweaked
+- McJtyLib
+- Pathcouli
+- SuperMartijn642's Config Lib
+- Decocraft
+
+### Removed
+
+- Tree Harvester
+
+---
+
 ## 0.1.0
 
 ### Added
@@ -16,7 +45,7 @@
 - Controlling **(Client Only)**
 - Morpheus
 - Cooking for Blockheads
-- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- Biomes O' Plenty
 - KleeSlabs
 - XNet
 - McJtyLib **(Dependency)**
@@ -28,20 +57,20 @@
 
 - Immersive Engineering
 - Chisel & Bits
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- Quark
 - AutoRegLib **(Dependency)**
 - MrCrayfish's Furniture Mod
 - Comforts
-- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
-- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- GraveStone Mod
+- Macaw's Bridges
 - PneumaticCraft: Repressurized
 - Patchouli **(Dependency)**
 - Create
 - Flywheel **(Dependency)**
-- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- Macaw's Windows
 - Polymorph
-- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
-- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- Macaw's Doors
+- Macaw's Roofs
 - Light Overlay
 - Cloth Config API **(Dependency)**
 - Architectury API **(Dependency)**
@@ -59,10 +88,10 @@
 - Transparent **(Dependency)**
 - Construction Wand
 - Performant
-- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+- Macaw's Fences and Walls
 - Gauges and Switches
 - Pam's HarvestCraft 2 - Food Core
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+- Jade
 - Lightning Wand
 - Ultimate Car Mod
 - BlockCarpentry
@@ -70,7 +99,7 @@
 - SuperMartijn642's Config Lib **(Dependency)**
 - SuperMartijn642's Core Lib **(Dependency)**
 - Better Compatibility Checker
-- [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
+- Camera Mod
 - Tiny Redstone
 - Tiny Gates
 - Tree Harvester
@@ -85,13 +114,12 @@
 - Doggy Talents
 - Notes **(Client Only)**
 - CraftPresence **(Client Only)**
-- Security Craft
 - Diagonal Fences
 - Puzzles Lib **(Dependency)**
 - Road Stuff
 - Mapper Base **(Dependency)**
 - Table Top Craft
-- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- Macaw's Paths and Pavings
 - CC: Tweaked
 - BPeripherals
 - Portality
