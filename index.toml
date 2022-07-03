@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "92934e40d5034e6bc837d48ad0dabe2bdfb086e39c3e6b546bd24a771460734b"
+hash = "a3292cfc4c458d16aa155da8a1d40a59bc27ae291a2888fa1b11f11268742acf"
 
 [[files]]
 file = "config/camera-client.toml"
