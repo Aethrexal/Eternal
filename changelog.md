@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+### Removed
+
+- Tree Harvester
+
 ## 1.0.0
 
 ### Added

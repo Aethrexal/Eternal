@@ -41,10 +41,6 @@ file = "config/rubidium-options.json"
 hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
 
 [[files]]
-file = "config/treeharvester-common.toml"
-hash = "8018702614544109e00f13cfdfd3cd85ffa120ede07cc620f8ffadaf0493b638"
-
-[[files]]
 file = "defaultconfigs/car-server.toml"
 hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
 
@@ -569,11 +565,6 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "a44c0092c634003e5bf98fe0c0cbac3204761d1a4a8f13a2bc94853df20eeb2a"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "af17b6c62f23d5fb07150591e103985d5fc6cd69005caa90f25f134c15e2add9"
 metafile = true
 
 [[files]]
