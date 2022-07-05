@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.2
+
+## Added
+
+- Craftable Horse Armour & Saddle
+- Waystones
+
 ## 1.0.1
 
 ### Removed

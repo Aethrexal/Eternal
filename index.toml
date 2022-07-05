@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a3292cfc4c458d16aa155da8a1d40a59bc27ae291a2888fa1b11f11268742acf"
+hash = "e4cf6e257210b480c1d95169cfe21c6e192c62941feae7b7f9b9e47aa24cdd7a"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -39,6 +39,10 @@ hash = "d7a5b8db0b57e000d999938fe187ed09b1dc5c55573a4e0acb3d2bc5924ba6b0"
 [[files]]
 file = "config/rubidium-options.json"
 hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
+
+[[files]]
+file = "config/waystones-client.toml"
+hash = "b3173b1b2b309cd685ef21238343d5f0503f00a7b5eb3a1d8b83d0800e8243ad"
 
 [[files]]
 file = "defaultconfigs/car-server.toml"
@@ -115,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "8c8f22fde213c269830708b5b8f5b0b5f71507287a2c003a52e6cfcca7b67cd0"
+metafile = true
+
+[[files]]
+file = "mods/cha-s.pw.toml"
+hash = "1f109358d914d20eccda85936e06ee82ae1316d1de948f41a5e908f88ad884b0"
 metafile = true
 
 [[files]]
@@ -580,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/useful-backpacks.pw.toml"
 hash = "bb36cb2f050383da6024b97523ae2fd1ba0141e0a4fa0d3ad44373870df77199"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
 metafile = true
 
 [[files]]
