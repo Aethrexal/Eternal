@@ -1,5 +1,12 @@
 # Changelog
 
+# 1.0.3
+
+## Added
+
+- CraftTweaker
+- JEITweaker **(Dependency)**
+
 ## 1.0.2
 
 ## Added

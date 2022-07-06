@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e4cf6e257210b480c1d95169cfe21c6e192c62941feae7b7f9b9e47aa24cdd7a"
+hash = "fe0acb51e0e4632402aa6cbfbf5e030448bbe73e5befb407f85ae1604827d7c6"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -172,6 +172,11 @@ hash = "8d51d1e0a739b10f17de669c7786941a2fab61dc2b1f238a86d41c2f84e15bbd"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c4cbfe89d0192b3125222628ef9ff2ddd303ed3612543c3594ab8dd2be41a6c3"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
 metafile = true
@@ -314,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "1dfaaf52028bde8ebe007a37097ab633579665ba18315ec496e995c1969167fb"
 metafile = true
 
 [[files]]
@@ -605,3 +615,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "d6ce53698e523162d0f5f82c613548d07501d937c934f70251e0839e7ec77306"
 metafile = true
+
+[[files]]
+file = "scripts/nametag.zs"
+hash = "d1eda1b3d7a64b20723faa8aef3fd0d422fab334d535db0c60b9b0c8fc61b6e4"
