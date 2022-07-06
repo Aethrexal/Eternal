@@ -1,11 +1,15 @@
 # Changelog
 
-# 1.0.3
+## 1.0.3
 
-## Added
+### Added
 
 - CraftTweaker
 - JEITweaker **(Dependency)**
+  #### Recipes:
+  - Name tag
+
+---
 
 ## 1.0.2
 
@@ -14,11 +18,15 @@
 - Craftable Horse Armour & Saddle
 - Waystones
 
+---
+
 ## 1.0.1
 
 ### Removed
 
 - Tree Harvester
+
+---
 
 ## 1.0.0
 
