@@ -1,19 +1,35 @@
 # Changelog
 
+## 1.0.4
+
+### Added
+
+- NetherPortalFix
+- Tree Harvester
+
+### Removed
+
+- Dynamic Trees
+- Dynmap Trees +
+- Dynamic Trees - Biomes O' Plenty
+- Dynamic Trees - Quark
+
+---
+
 ## 1.0.3
 
 ### Added
 
 - CraftTweaker
 - JEITweaker **(Dependency)**
-  #### Recipes:
+  Recipes:
   - Name tag
 
 ---
 
 ## 1.0.2
 
-## Added
+### Added
 
 - Craftable Horse Armour & Saddle
 - Waystones

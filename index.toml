@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fe0acb51e0e4632402aa6cbfbf5e030448bbe73e5befb407f85ae1604827d7c6"
+hash = "cf4ff470449d93f68a0c27cb91856636307b59bdf546103e18daf06be6e3c9a3"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -39,6 +39,10 @@ hash = "d7a5b8db0b57e000d999938fe187ed09b1dc5c55573a4e0acb3d2bc5924ba6b0"
 [[files]]
 file = "config/rubidium-options.json"
 hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
+
+[[files]]
+file = "config/treeharvester-common.toml"
+hash = "23b19dbf71fab16fb64edbbfdeaa384eff7b4ad953e85cdbcf9493946bf9d760"
 
 [[files]]
 file = "config/waystones-client.toml"
@@ -209,26 +213,6 @@ metafile = true
 [[files]]
 file = "mods/doggy-talents.pw.toml"
 hash = "01d65069c9f8d260e2437488a136378494306ea2f5c1309e56422c7be8502583"
-metafile = true
-
-[[files]]
-file = "mods/dtbop.pw.toml"
-hash = "b9e8e74fcfb6289fad92a433220e7fa2898d16df7f17ef7b3907eadefe375f1d"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-quark.pw.toml"
-hash = "d395de30f7df6007f506eb7a26a01939343dcd14e58cfa3bb081ae36791c21f7"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "67eafaee9351e20fd9c52d9307335d06e121161242822ed9fa8a73dcc8c38035"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "b966a212aa3ebd9fb754d9701e2605823f64e39633da861df89b2f6f6e924b59"
 metafile = true
 
 [[files]]
@@ -422,6 +406,11 @@ hash = "5d9c2a6bcc39969616577daac8fb54903470343e06a3dd16330bf0ab08e147a2"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
+metafile = true
+
+[[files]]
 file = "mods/no-potion-shift.pw.toml"
 hash = "70a13774b4a6a3e2828862310a611ebeae68eec67dc65f7d4f46500fe842e081"
 metafile = true
@@ -584,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "a44c0092c634003e5bf98fe0c0cbac3204761d1a4a8f13a2bc94853df20eeb2a"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "af17b6c62f23d5fb07150591e103985d5fc6cd69005caa90f25f134c15e2add9"
 metafile = true
 
 [[files]]
