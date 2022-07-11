@@ -14,7 +14,7 @@ The current state of the pack might be a bit laggy and have double of same ore a
 
 ### Install
 
-1. Download [PolyMC](https://polymc.org/download/)
+1. Download [PolyMC](https://polymc.org/download/) or [MultiMC](https://multimc.org/#Download)
 2. Click "Add Instance"
 3. On the left side press "Import from zip"
 4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/1.0.1/Eternal.zip` or [download](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
