@@ -2,7 +2,20 @@
 
 ## Notes infor 1.1.0
 
-Chisel might be removed as haven't been updated since 2021. Same with BPeripherals
+Chisel might be removed as haven't been updated since 2021.
+
+## 1.0.5
+
+### Added
+
+- Chipped
+- Emojiful
+
+### Removed
+
+- BPeripherals
+
+---
 
 ## 1.0.4
 

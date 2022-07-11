@@ -4,7 +4,7 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 
 ## 1.19
 
-64/105
+65/106
 
 - [ ] Decocraft
 - [ ] MCA Reborn
@@ -91,7 +91,6 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [ ] Table Top Craft
 - [x] Macaw's Paths and Pavings
 - [x] CC: Tweaked
-- [ ] BPeripherals
 - [ ] Portality
 - [ ] Titanium
 - [ ] The Dalek Mod
@@ -111,12 +110,14 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [ ] CraftTweaker
 - [ ] JEITweaker
 - [x] NetherPortalFix
+- [ ] Chipped
+- [x] Emojiful
 
 ---
 
 ## 1.18
 
-97/105
+99/106
 
 - [ ] Decocraft
 - [x] MCA Reborn
@@ -203,7 +204,6 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [x] Table Top Craft
 - [x] Macaw's Paths and Pavings
 - [x] CC: Tweaked
-- [ ] BPeripherals
 - [x] Portality
 - [x] Titanium
 - [ ] The Dalek Mod
@@ -223,12 +223,14 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [x] CraftTweaker
 - [x] JEITweaker
 - [x] NetherPortalFix
+- [x] Chipped
+- [x] Emojiful
 
 ---
 
 ## 1.17
 
-77/105
+79/106
 
 - [ ] Decocraft
 - [ ] MCA Reborn
@@ -315,7 +317,6 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [ ] Table Top Craft
 - [x] Macaw's Paths and Pavings
 - [x] CC: Tweaked
-- [ ] BPeripherals
 - [ ] Portality
 - [x] Titanium
 - [ ] The Dalek Mod
@@ -335,3 +336,5 @@ This shows how close the modpack is to be able to update to a new Minecraft vers
 - [x] CraftTweaker
 - [x] JEITweaker
 - [x] NetherPortalFix
+- [x] Chipped
+- [x] Emojiful

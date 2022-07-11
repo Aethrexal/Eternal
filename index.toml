@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cf4ff470449d93f68a0c27cb91856636307b59bdf546103e18daf06be6e3c9a3"
+hash = "abce27be34deefc8a1a1a48d8252f58dbcf1d530c394a838feaf554ef6913f05"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -111,11 +111,6 @@ hash = "50223f737046c748d3cd6155f5451e2b309a7f7f25af4fed8e906a2020abb2fa"
 metafile = true
 
 [[files]]
-file = "mods/bperipherals.pw.toml"
-hash = "a157d0b0a0eb57558b28232dc090339a76b8e23264d620a1bd7658c305049dec"
-metafile = true
-
-[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "5e7b79b9836a78fdfebf48387428252785a1d73ad19feeaf4455765c5411044e"
 metafile = true
@@ -128,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/cha-s.pw.toml"
 hash = "1f109358d914d20eccda85936e06ee82ae1316d1de948f41a5e908f88ad884b0"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "d5b69ccded5f33c92e29f0f462701dbd559c8e7c9fd4a77d3d3b58ffa3f8a604"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "e89709bad93c97ff59e59358d9f3397089919a5bd7377f4f7c943f72c63da138"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "e3ac2941e9ebd5c87b7d4c13dd21f9ce9c77a1d8169e66bbfec26a079e5de1ca"
 metafile = true
 
 [[files]]

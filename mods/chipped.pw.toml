@@ -1,0 +1,13 @@
+name = "Chipped"
+filename = "chipped-1.16.5-1.2.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "513b8751d7758882739918776c6c44dda5ec215d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3717506
+project-id = 456956
