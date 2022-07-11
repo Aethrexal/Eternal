@@ -1,5 +1,9 @@
 # Changelog
 
+## Notes infor 1.1.0
+
+Chisel might be removed as haven't been updated since 2021. Same with BPeripherals
+
 ## 1.0.4
 
 ### Added
