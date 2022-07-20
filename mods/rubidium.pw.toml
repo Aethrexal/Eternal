@@ -1,13 +1,13 @@
 name = "Rubidium"
-filename = "rubidium-0.2.7.jar"
+filename = "rubidium-0.5.3.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "6533ba9083af14b3ade6fac23ba55839dc352a76"
+hash = "d65a1165cb269cf994091e6645062c4ce4fa945d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3840890
+file-id = 3884715
 project-id = 574856
