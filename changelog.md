@@ -100,6 +100,10 @@ This version updates Minecraft to 1.18.2 and sadly breaks current worlds.
 - Simply Light
 - Redstone Pen
 - JourneyMap
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- JourneyMap Integration
 
 ### Added
 
@@ -137,10 +141,6 @@ This version updates Minecraft to 1.18.2 and sadly breaks current worlds.
 - Mapper Base
 - Useful Backpacks
 - U Team Core
-- FTB Chunks
-- FTB Library
-- FTB Teams
-- JourneyMap Integration
 
 ## 1.0.5
 

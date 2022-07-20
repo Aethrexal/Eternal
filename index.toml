@@ -69,6 +69,10 @@ file = "defaultconfigs/easier_sleeping-server.toml"
 hash = "899f4335a1d5a6e49d63e092b1875b3c335843d0db21922de041badc2de70f27"
 
 [[files]]
+file = "defaultconfigs/ftbchunks.snbt"
+hash = "3a21e967a031cddd8e3d888ab000586701ff933aa0c4d49a5237777dd5ff7381"
+
+[[files]]
 file = "defaultconfigs/gravestone-server.toml"
 hash = "2adb6b444fe511cfe32878a7e55199aa563f6051425c382d97f14184d36ab268"
 
@@ -291,6 +295,21 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5c3dc82db539bbf975cf94c3e8f39ebeec1be6417059edab00e377c29a904318"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
 metafile = true
 
 [[files]]
