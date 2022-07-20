@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0b3bc8f77af32a229ed9b0ecc1f1028ce6f9e4af0a0f3455211477aacbeea392"
+hash = "c8318bbc77d505813440c16ed731cd49e1907bb81c5039d74d76954173b69cef"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -223,6 +223,11 @@ hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
+metafile = true
+
+[[files]]
 file = "mods/death-counter.pw.toml"
 hash = "68e10d6873f758522fd8d06a87fa31def1466e98a8b40ba6e487eb7e11513414"
 metafile = true
@@ -430,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "3db8c4a3cb38636f82bf05666bda1a7c5bae44d43ec1042def1af8038b91f1ec"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
 metafile = true
 
 [[files]]

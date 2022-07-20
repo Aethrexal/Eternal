@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.0.1
+
+### Added
+
+- Mod Name Tooltip **(Client Only)**
+- Curios API
+
+---
+
 ## 2.0.0
 
 ### Notes
@@ -141,6 +150,8 @@ This version updates Minecraft to 1.18.2 and sadly breaks current worlds.
 - Mapper Base
 - Useful Backpacks
 - U Team Core
+
+---
 
 ## 1.0.5
 
