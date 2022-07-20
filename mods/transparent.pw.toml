@@ -1,13 +1,13 @@
 name = "Transparent"
-filename = "transparent-2.3.0+1.16.5-forge.jar"
+filename = "transparent-4.1.0+1.18.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "07655d4743f4b28e3e2f9a20d61fd998084b2aec"
+hash = "33d48e383edf892937bca40cda08508c9e1c3d67"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3834245
+file-id = 3834251
 project-id = 377582

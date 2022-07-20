@@ -1,13 +1,13 @@
 name = "Tiny Gates"
-filename = "tinygates-0.1.2a.jar"
+filename = "tinygates-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b33ddd53124d7f51ba392b4055f3eed50c7d400c"
+hash = "4d9a275edeb8d4a1f4aea2dcb173a9dabaf122b4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3469924
+file-id = 3544668
 project-id = 522875

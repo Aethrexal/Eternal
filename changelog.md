@@ -1,8 +1,146 @@
 # Changelog
 
-## Notes infor 1.1.0
+## 2.0.0
 
-Chisel might be removed as haven't been updated since 2021.
+### Notes
+
+This version updates Minecraft to 1.18.2 and sadly breaks current worlds.
+
+### Updated
+
+- EntityCulling
+- MCA Reborn
+- Not Enough Crashes
+- AmbientSounds 5
+- Architectury API
+- AutoRegLib
+- Better Compatibility Checker
+- Biomes O' Plenty
+- BlockCarpentry
+- Camera Mod
+- CC: Tweaked
+- Craftable Horse Armour & Saddle
+- Chipped
+- Chisel & Bits
+- Collective
+- Comforts
+- Construction Wand
+- Controlling
+- Cooking for Blockheads
+- CraftPresence
+- CraftTweaker
+- Create
+- CreativeCore
+- CTM
+- Death Counter
+- Diagonal Fences
+- Doggy Talents
+- Dynmap-Forge/Fabric
+- Emojiful
+- Engineer's Decor
+- Extreme Reactors
+- FastWorkbench
+- FerriteCore
+- Flywheel
+- Futurepack
+- GraveStone Mod
+- Hole Filler Mod
+- Immersive Engineering
+- Iron Chests
+- Item Collectors
+- Jade
+- JEI
+- JEITweaker
+- KleeSlabs
+- Light Overlay
+- Lightning Wand
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Windows
+- Mantle
+- Moving Elevators
+- MrCrayfish's Furniture Mod
+- MultiBeds
+- NetherPortalFix
+- Notes
+- Paintings ++
+- Pam's HarvestCraft 2 - Food Core
+- Placebo
+- PneumaticCraft: Repressurized
+- Polymorph
+- Portality
+- Puzzles Lib
+- Quark
+- Gauges and Switches
+- RFTools Base
+- Rubidium
+- ShetiPhianCore
+- Simple Storage Network
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- Table Top Craft
+- Tesseract
+- The Twilight Forest
+- Tinkers Construct
+- Tiny Gates
+- Tiny Redstone
+- Titanium
+- Transparent
+- Tree Harvester
+- Ultimate Car Mod
+- Waystones
+- ZeroCore 2
+- XNet
+- McJtyLib
+- Patchouli
+- Cloth Config API
+- Simply Light
+- Redstone Pen
+- JourneyMap
+
+### Added
+
+- Balm (Forge Edition) **(Dependency)**
+- Kiwi 🥝 (Forge) **(Dependency)**
+- TerraBlender (Forge) **(Dependency)**
+- Easier Sleeping
+- Sophisticated Backpacks
+- Sophisticated Core **(Dependency)**
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Trees
+- Dunamic Lights
+- Feature NBT Deadlock Be Gone
+- Realistic Horse Genetics
+- Simple Planes
+- Electrodynamics
+- Blastcraft mod
+- Ballistix
+- Nuclear Science
+- Modular Force Fields Systems
+
+- Chunk Loaders
+- Security Craft
+
+### Removed
+
+- Decocraft
+- RandomPatches
+- Chisel
+- Morpheus
+- Performant
+- No Potion Shift
+- The Dalek Mod
+- Road Stuff
+- Mapper Base
+- Useful Backpacks
+- U Team Core
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- JourneyMap Integration
 
 ## 1.0.5
 
