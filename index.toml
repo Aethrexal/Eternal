@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c8318bbc77d505813440c16ed731cd49e1907bb81c5039d74d76954173b69cef"
+hash = "bea3e634d5ae248936cb4e16fcf6a5988ec76d598e116069d63a057205a2e97c"
 
 [[files]]
 file = "config/camera-client.toml"
 hash = "e8d4f1b10f91e82dc78ba84df4f215759a56178b7a6d3835855c44efc6bb35e6"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "a843332770a74899f7304b7fbb4dbc46f86dac0b52033b5e7157a39b7ca6293d"
 
 [[files]]
 file = "config/craftpresence.properties"
@@ -70,7 +74,7 @@ hash = "899f4335a1d5a6e49d63e092b1875b3c335843d0db21922de041badc2de70f27"
 
 [[files]]
 file = "defaultconfigs/ftbchunks.snbt"
-hash = "3a21e967a031cddd8e3d888ab000586701ff933aa0c4d49a5237777dd5ff7381"
+hash = "028d1eb8b2fb104bdf1d49fc2a0ec52cb50f261ce9dd903f2d1d4e39ef72e435"
 
 [[files]]
 file = "defaultconfigs/gravestone-server.toml"
@@ -163,11 +167,6 @@ hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
 
 [[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "f342271e78bf2bdbf1a14959d14f83cd8494d02ac30630bc70f62a7f7be1f241"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -180,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
@@ -645,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "16b603b8dd4343a9596ca638f3b30b5a3d2b9d78874079db241115f0eac96bf4"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
 metafile = true
 
 [[files]]

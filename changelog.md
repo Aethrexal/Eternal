@@ -1,5 +1,22 @@
 # Changelog
 
+## 2.0.2
+
+### Added
+
+- Connectivity
+- Too Fast **(Server Only)**
+
+### Removed
+
+- Chunk Loaders
+
+### Changed
+
+- Increased chunk load limit to 500
+
+---
+
 ## 2.0.1
 
 ### Added
