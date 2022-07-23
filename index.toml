@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ProjectE/server.toml"
+hash = "9a3470521a7cbc8a14f148aafea9417f8a349c26f6fe6f7e787da7357ed565a1"
+
+[[files]]
 file = "config/bcc-common.toml"
-hash = "bea3e634d5ae248936cb4e16fcf6a5988ec76d598e116069d63a057205a2e97c"
+hash = "9c569eb25778ca3b449c93b293ff47f2564b5c041275a0a1900f489355ab03a3"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -54,7 +58,15 @@ hash = "23b19dbf71fab16fb64edbbfdeaa384eff7b4ad953e85cdbcf9493946bf9d760"
 
 [[files]]
 file = "config/waystones-client.toml"
-hash = "b3173b1b2b309cd685ef21238343d5f0503f00a7b5eb3a1d8b83d0800e8243ad"
+hash = "00dc8607c506f6785f33f5d96b5f8c297f944c34a6d75d09cc6e249a9f842d23"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "2de780f68c228d039653f391952428e72644736f26632663215edfc684cb3a39"
+
+[[files]]
+file = "config/waystones-server.toml"
+hash = "94be9afad6365059c344ed63b752a4b0cf88d4bea23d1828db382266238426e0"
 
 [[files]]
 file = "defaultconfigs/car-server.toml"
@@ -462,11 +474,6 @@ hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
 
 [[files]]
-file = "mods/multibeds.pw.toml"
-hash = "8556812c224e1c3fea9ac6ad60def70e3fd16f6fba1531c858546ea994088419"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
 metafile = true
@@ -529,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/portality.pw.toml"
 hash = "b63a8bbedf285b2a00856c35f6376f4f767d140a92adb85960d11d35766cb712"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "824ad9a385cce61265f09bbc1eb1666756a8ba84a3870e4bed9a92b5ce7a70f8"
 metafile = true
 
 [[files]]
@@ -612,11 +624,6 @@ hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
 metafile = true
 
 [[files]]
-file = "mods/table-top-craft.pw.toml"
-hash = "ec30a18c885235200da1370c6c5f1f53f00ddcd6972cc5ac27d8f0e137b97a71"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
 metafile = true
@@ -654,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
 metafile = true
 
 [[files]]

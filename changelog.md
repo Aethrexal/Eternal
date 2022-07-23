@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.0.3
+
+### Added
+
+- Torchmaster
+- ProjectE
+
+### Removed
+
+- MultiBeds
+- Table Top Craft
+
+---
+
 ## 2.0.2
 
 ### Added
