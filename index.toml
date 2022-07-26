@@ -6,7 +6,7 @@ hash = "9a3470521a7cbc8a14f148aafea9417f8a349c26f6fe6f7e787da7357ed565a1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9c569eb25778ca3b449c93b293ff47f2564b5c041275a0a1900f489355ab03a3"
+hash = "98a1103394355f42a9a2790b82a3f2e8ba6e6bb67518add7e3706611f7610571"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -194,6 +194,11 @@ hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "7dc37c73773f83859ba8908a29e5383e4bd2ea03e49181beb872de40593cbfb8"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "a6178a922ffa32715b2297984cca9bef6c32db477b574dca43fcd4a3b9858ecc"
 metafile = true
 
 [[files]]
@@ -351,6 +361,21 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "ae1a3c0d7cfdb9ebc90381dfef25a1ee8fc3a26cfb5d1ff7c3ad0b2bd7803cb1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "f7391244cfacd1b921f11ef47e644f91f1afecc549b5857163f02ddf2b8864eb"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "c82ae6478e4a4f89a4f41d7563768998f358b27af5211fc9b56ee21057208a48"
 metafile = true
 
 [[files]]
@@ -591,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "efa003e12613b6870eb368828869e4fd47490988699e602770046ec03e28d5f5"
-metafile = true
-
-[[files]]
-file = "mods/simple-storage-network.pw.toml"
-hash = "94574626f381bddf5eb7fcad8e0103226d9b4ad92b680ea809acb822c8a36c85"
 metafile = true
 
 [[files]]

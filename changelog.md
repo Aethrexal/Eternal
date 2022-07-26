@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.0.4
+
+### Added
+
+- Integrated Dynamics
+- Cyclops Core **(Dependency)**
+- Common Capabilities **(Dependency)**
+- Integrated Tunnels
+- Integrated Terminals
+
+### Removed
+
+- Simple Storage Networks
+
+---
+
 ## 2.0.3
 
 ### Added
