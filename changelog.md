@@ -1,5 +1,39 @@
 # Changelog
 
+## 2.1.0
+
+### Added
+
+- Bad Wither No Cookie - Reloaded **(Client Only)**
+- Dragon Mounts: Legacy
+- Integrated Crafting
+- MrCrayfish's Gun Mod
+- Framework **(Dependency)**
+- Pam's HarvestCraft 2 - Food Extended
+
+### Updated
+
+- Architectury API
+- CraftPresence
+- CraftTweaker
+- Cyclops Core
+- Dynmap Forge/Fabric
+- Immersive Engineering
+- Integrated Dynamics
+- Integrated Tunnels
+- JEI
+- JourneyMap Integration
+- Sophisticated Backpacks
+- Sophisticated Core
+- The Twilight Forst
+- MCA Reborn
+
+### Removed
+
+- Torchmaster
+
+---
+
 ## 2.0.4
 
 ### Added

@@ -6,7 +6,7 @@ hash = "9a3470521a7cbc8a14f148aafea9417f8a349c26f6fe6f7e787da7357ed565a1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "98a1103394355f42a9a2790b82a3f2e8ba6e6bb67518add7e3706611f7610571"
+hash = "bb8dee48973f8a7a26c7f51629ed552e3f695f3ae6bf59ceefac51ecbee8a60d"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -81,6 +81,10 @@ file = "defaultconfigs/doggytalents-server.toml"
 hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
 
 [[files]]
+file = "defaultconfigs/dragonmounts-server.toml"
+hash = "9d797cf0e036d5f33ebaf501b4cb9ae94ee8d0424fd3d50ac5d8b3ab00eb4e1d"
+
+[[files]]
 file = "defaultconfigs/easier_sleeping-server.toml"
 hash = "899f4335a1d5a6e49d63e092b1875b3c335843d0db21922de041badc2de70f27"
 
@@ -115,12 +119,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
+hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "dac70d7fe46f634f183259cd25150c3726c621e4137a76b997a76a02d1a1ade4"
 metafile = true
 
 [[files]]
@@ -220,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "9e9dbdbd0267486eccf8abcd54a106c246d01729525b6aeb934b8b41229fcabd"
+hash = "68f3900739dd7979d3b70a6d4a81847d647230d0e5c1fa6b854f97aa89402d1c"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "f181fc197ac8ae31bfe1f3c5e73eb70be527fba3c09bdd556f976218316b01d0"
+hash = "d985acf62f961ba27111844cf1568c4a561e8c7005dd8abb17dd128135777f52"
 metafile = true
 
 [[files]]
@@ -250,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "a6178a922ffa32715b2297984cca9bef6c32db477b574dca43fcd4a3b9858ecc"
+hash = "f968d2a3952fc6f09a369be1554baf6e53e046761c836d545f698a9bf6cab8f0"
 metafile = true
 
 [[files]]
@@ -269,13 +278,18 @@ hash = "eb39cab604834c9f690414a0d69f765271a353577a487c2ce0f156963135039b"
 metafile = true
 
 [[files]]
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "3c70c8efb77436412e0e406d8a7214cb80b4314466994caf5bb4e82a8e35b512"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
 metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "6f6e366e96e6690b576dec95c2a48636db60214a9258b9050d188e2a1186790c"
+hash = "5578df16e606d0d498f691b4e640554dfdf280c5ca0b8b16d11122c42238e2da"
 metafile = true
 
 [[files]]
@@ -329,6 +343,11 @@ hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "489c415beb5143e64a679fa6f5fcaf0d02e3d8576ea883a5afd68d8107bc3d07"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
 metafile = true
@@ -360,12 +379,17 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
+hash = "1afe8713c2f7b4fe8eb2bc2fddbb98688afe51709dbb52a24569d79c2745054e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "7bd82bfc1104a7a8173fef66704ea9e5609775f974469ef001fc7a52553a94af"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "ae1a3c0d7cfdb9ebc90381dfef25a1ee8fc3a26cfb5d1ff7c3ad0b2bd7803cb1"
+hash = "4c73816663fa0f54552a3f7ca70d4a5c9f79ac3d85dd378e7a27ee56df0c4d03"
 metafile = true
 
 [[files]]
@@ -375,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "c82ae6478e4a4f89a4f41d7563768998f358b27af5211fc9b56ee21057208a48"
+hash = "438e483942e43a30f5494bb10dd6d4ef17cddd4a0f35c8d9a2262881c85fe752"
 metafile = true
 
 [[files]]
@@ -395,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3b6c35b4373120c2f7bd2f7ab8a7304b45ae2e12fcb27a26b42af8d2a1011ad6"
+hash = "220d74cf423a1f736c6b8d9cde2bf207f94c782149a9ea2aebb82ae0323908c0"
 metafile = true
 
 [[files]]
@@ -405,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "59bce56b0179c2bfab2c33433f5b1a2d46d859c784427babaabacfbf4dc10c72"
+hash = "ca9ada40e8e00da810ad6d8fa9ecd3446c426908343d39589def7645bbfa81c6"
 metafile = true
 
 [[files]]
@@ -475,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "3db8c4a3cb38636f82bf05666bda1a7c5bae44d43ec1042def1af8038b91f1ec"
+hash = "1a2493d0e9fe42922caf565a724e2247415700894588d02be4219bbefa8aa29f"
 metafile = true
 
 [[files]]
@@ -496,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "21b8f81e9e02e73ce49786a59bd356299bbc61b820b010164c18b1097d708f0d"
 metafile = true
 
 [[files]]
@@ -531,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "a7b18ba4f69fd7dff11ccb6de84dc923c6520f8ed198cae101a1578992994221"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a96b1f986269854aa6edf907521d3e65b50c763ebe7e6f4f9f625fa89cf3884a"
 metafile = true
 
 [[files]]
@@ -625,12 +659,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "877b00cd8019df4ed2e5a49a4f9402e95d7f940f05b9d46c5b3d8d464705ba1c"
+hash = "69f7a82bb3198a4f07cf6961e7f063b88506f562b784d18f955b2bc1b6e813d0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "08e834ca25af8ff3bed6babe64fde6309c53032ed1c50fe302a4270372b90786"
+hash = "1519b9b6f36e55614c76c7321620917507fd0f90c2ce95cdacd673da9d9c5218"
 metafile = true
 
 [[files]]
@@ -655,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "d338b8b4f1ac5526cbc76051e6c61b8bb6dd10be5051a6c506886facadca5557"
+hash = "7f9f58c553b8d38804b014ebadbd06be7d5f7a169a697872fc4ea0d0ef340678"
 metafile = true
 
 [[files]]
@@ -681,11 +715,6 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
-metafile = true
-
-[[files]]
-file = "mods/torchmaster.pw.toml"
-hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
 metafile = true
 
 [[files]]
