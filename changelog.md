@@ -1,5 +1,72 @@
 # Changelog
 
+## 2.2.0
+
+### Updated
+
+- Forge
+
+- Architectury API
+- Ballistix
+- Balm
+- Blastcraft
+- Camera Mod
+- CC: Tweaked
+- Chisels & Bits
+- Cloth Config API
+- Collective
+- Controlling
+- CraftPresence
+- CraftTweaker
+- Create
+- CreativeCore
+- ConnectedTexturesMod
+- Dragon Mounts: Legacy
+- Dynmap
+- Electrodynamics
+- Engineer's Decor
+- FastWorkbench
+- Flywheel
+- Framework
+- FTB Chunks
+- FTB Library
+- Immersive Engineering
+- Integrated Dynamics
+- Integrated Tunnels
+- Iron Chests
+- Jade
+- Just Enoug Items
+- JEITweaker
+- JourneyMap Integration
+- JourneyMap
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Roofs
+- McJtyLib
+- Modular Force Fields
+- MrCrayfish's Gun Mod
+- Nuclear Science
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Food Extended
+- Pam's HarvestCraft 2 - Trees
+- Placebo
+- PneumaticCraft
+- Gauges and Switches
+- RFTools
+- Rubidium
+- Security Craft
+- Simple Planes
+- Sophisticated Backpacks
+- Sophisticated Core
+- TerraBlender
+- The Twilight Forest
+- Tiny Redstone
+- XNet
+- MCA Reborn
+
+---
+
 ## 2.1.0
 
 ### Added

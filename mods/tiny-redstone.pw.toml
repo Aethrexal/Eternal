@@ -1,13 +1,13 @@
 name = "Tiny Redstone"
-filename = "tinyredstone-1.18.2-3.2.1.jar"
+filename = "tinyredstone-1.18.2-3.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf17013aed6120368686a5ae4009fbcd7d5ce541"
+hash = "3e1db98f3ff9de8b1a1f29272f99f849a94b72ae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3828501
+file-id = 3964828
 project-id = 453746
