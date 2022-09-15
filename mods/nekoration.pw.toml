@@ -1,0 +1,13 @@
+name = "Nekoration"
+filename = "nekoration-1.18.2-1.7.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3af09bf06e775af59921f9eb1ae25c000d6e20e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3911093
+project-id = 508028

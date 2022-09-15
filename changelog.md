@@ -1,5 +1,33 @@
 # Changelog
 
+## 2.3.0
+### Updated
+- Architectury API
+- Collective
+- CraftPresence
+- FTB Chunks
+- PneumaticCraft: Repressurized
+- Restone Pen
+
+### Added
+- Applied Energistics 2
+- Ars Nouveau
+- GeckoLib
+- Exlines Furniture Mod
+- Alcocraft: Beer & Stuff
+- Searchlight
+- Nekoration
+- Nosiphus Furniture Mod
+
+### Notes
+Next version these mods will be removed:
+- Integrated Crafting
+- Integrated Dynamics
+- Integrated Tunnels
+- Integrated Terminals
+
+---
+
 ## 2.2.0
 
 ### Updated

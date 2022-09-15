@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ProjectE/custom_emc.json"
+hash = "16713fb9a39ba1e6b7b0bd9ed0bf578f2cfd390b843a0f38b0e0b8c82d508dec"
+
+[[files]]
 file = "config/ProjectE/server.toml"
 hash = "9a3470521a7cbc8a14f148aafea9417f8a349c26f6fe6f7e787da7357ed565a1"
 
 [[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
+
+[[files]]
 file = "config/bcc-common.toml"
-hash = "10d6e75eecb18f8c189815f524cf79707db29037bcd310c8f4b8d1c2c0a41326"
+hash = "33c0def2a8668119887e8b2f885947ca98532db56286fb2f72989bb9955933a0"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -113,13 +121,28 @@ file = "journeymap/config/5.8/journeymap.webmap.config"
 hash = "0cca922469d188ce438f71263a277e240b1cd5cc42bb2486b4d93b254afcd332"
 
 [[files]]
+file = "mods/alcocraft-beer-and-stuff.pw.toml"
+hash = "e6a0dd312560518de89cf75d8a2ca876104d825876fbcca106000ec389240c92"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "29595a7ce9dd3fa958cd1d90ab1274d778fa371f94ba191e8ec1ea2c04737e03"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "933eda2028cd9d87fa8b82453c50c606679a5289ff66935947e5ab669159706c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
+hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4935a09a71f0032aa6a98618f0a7632ac1a3db30586cccda3a4c1a8994b0e52e"
 metafile = true
 
 [[files]]
@@ -194,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "97cacef90fc36390d7d459d15fd161339a604c4b43d900f543326f8b92228552"
+hash = "126d9084f52bb7ea1157e44220d0a32470ae06ca843739e0a6800919a1030b08"
 metafile = true
 
 [[files]]
@@ -229,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "dc605b5851173dec9af849509167d4ffdeb2658a70247f66a38c88b1b7138f82"
+hash = "e02e7c27c072219fa5895f3af42aa281fbc23d77a3c1a314b97d860d6f1d8903"
 metafile = true
 
 [[files]]
@@ -283,11 +306,6 @@ hash = "abe3b918aad8e98e96c7fde2c023d74a431eeb42339e416a2a6a3861ff76cc63"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
-metafile = true
-
-[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "f4ba2476e12797622c6de6e1f8062f219c6112310cc9174d663e86f869ae2df1"
 metafile = true
@@ -315,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "83f6b094924daebf6fe4669b4014339178e1fa5569f5e0d2aa3ecfbf1cb75270"
 metafile = true
 
 [[files]]
@@ -349,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "2aa15fdc506130b7098fe5c70c34e9098acba8e30e55997e1629ad34f0837d00"
+hash = "37a6b25e454c8f892ca5d7c09558333e95168646d01c03cbe2c922cc7dc37d40"
 metafile = true
 
 [[files]]
@@ -365,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/futurepack.pw.toml"
 hash = "19fd5acff918ef63b1dec4350a57849b026cd916bde94008b0f7a6fd84ea838b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2137a8c4fc4a879a53adde15433e5e795135d93c0dd2ae2d22dff3df5f5af67b"
 metafile = true
 
 [[files]]
@@ -528,8 +556,18 @@ hash = "fce02431d16069d51a626e7cbdc8c2397e231dc237f85f08d44c7e0d2c01a66d"
 metafile = true
 
 [[files]]
+file = "mods/nekoration.pw.toml"
+hash = "89193939d2597549619b1bc5e8e88dbef8bfc4501946afe5c0aa2668408d85b7"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
+metafile = true
+
+[[files]]
+file = "mods/nosiphus-furniture-mod.pw.toml"
+hash = "4f9b3a0fd53661286a61342e6b73b6967ebfc967b3d70c29f7d7cfdafe6183f2"
 metafile = true
 
 [[files]]
@@ -584,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "496f471d200fc0cefa8fba76de996b26dbf19cf492734ba429ecf28d412626ce"
+hash = "8b89d9d95affed661a880562ffdcba1f6040b615ad716d38138ff7560dce3c02"
 metafile = true
 
 [[files]]
@@ -624,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-pen.pw.toml"
-hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
+hash = "34456423e1b025d3a46d5e906b882ec92aa8f3a406e762fa72762320b03025aa"
 metafile = true
 
 [[files]]
@@ -635,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
+metafile = true
+
+[[files]]
+file = "mods/searchlight-forge.pw.toml"
+hash = "9a6139e3ef7483d2b78dccfe865b9e1a4e7fdd05f8729d50836ec23344a3b39f"
 metafile = true
 
 [[files]]
