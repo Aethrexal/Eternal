@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.3.1
+### Added
+- Oculus
+- Minecraft Transit Railway
+
+### Updated
+- Alcocraft
+- FTB Teams
+- Kiwi
+
+---
+
 ## 2.3.0
 ### Updated
 - Architectury API
@@ -18,6 +30,9 @@
 - Searchlight
 - Nekoration
 - Nosiphus Furniture Mod
+
+### Removed
+- Dynamic Lights
 
 ### Notes
 Next version these mods will be removed:

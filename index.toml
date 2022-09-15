@@ -14,7 +14,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "33c0def2a8668119887e8b2f885947ca98532db56286fb2f72989bb9955933a0"
+hash = "d9c235f9b601bef159973ffc1e1fb378f05ac652133833b13a70f4e8e092c581"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -121,8 +121,12 @@ file = "journeymap/config/5.8/journeymap.webmap.config"
 hash = "0cca922469d188ce438f71263a277e240b1cd5cc42bb2486b4d93b254afcd332"
 
 [[files]]
+file = "mods/MTR-forge-1.18.2-3.1.0.jar"
+hash = "038d883bcc661399e9a38f1cfe32c3708d8f9eeced4d9e824299fcd3747439d3"
+
+[[files]]
 file = "mods/alcocraft-beer-and-stuff.pw.toml"
-hash = "e6a0dd312560518de89cf75d8a2ca876104d825876fbcca106000ec389240c92"
+hash = "43b6924cfba4c4ac41d9c4e07ef09f837c5cb5703fe4b67c3e5541fb91c98992"
 metafile = true
 
 [[files]]
@@ -382,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
+hash = "ba536324fb264ebc0f639e804eecc35e56a2fcb8e0165280483b55afdd80a7f5"
 metafile = true
 
 [[files]]
@@ -467,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "d5cac151369c41ae0e343d1ed0875fc8e495a95af9a4e05af38dc9eaf4839ed9"
+hash = "60a421597c179801444b868859cdc1f26832f1849545683d9ae7ad1d8d8776d5"
 metafile = true
 
 [[files]]
@@ -583,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-science.pw.toml"
 hash = "269c89a19a0df452d2a919e9758181280d7a5207581bbe2a0335e20fbf94bee1"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
 metafile = true
 
 [[files]]
