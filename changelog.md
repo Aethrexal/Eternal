@@ -2,7 +2,7 @@
 
 ## 2.3.1
 ### Added
-- Oculus
+- Oculus **(Client Only)**
 - Minecraft Transit Railway
 
 ### Updated
