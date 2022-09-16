@@ -14,7 +14,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d9c235f9b601bef159973ffc1e1fb378f05ac652133833b13a70f4e8e092c581"
+hash = "762c13a0ad4a35d2a4df9a121010f561843b26d3feb9e370f4d51a9b52fb592e"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -595,6 +595,11 @@ hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
+file = "mods/online-picture-frame.pw.toml"
+hash = "1ab1d29b352cbc6c6bf6a321d261892b5a16332bd0bb68a454dd98e718a03b25"
+metafile = true
+
+[[files]]
 file = "mods/paintings.pw.toml"
 hash = "687cb5d768ad544a21c69d30171eb10f8d13a5441a00a32a7bb8feb5ef18261f"
 metafile = true
@@ -622,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "cdafaa5cc3d15b4d4937db9699bf8d5dbcd194cb9a06b16ceecd30d8143d3016"
 metafile = true
 
 [[files]]

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.3.2
+### Added
+- Pipez
+- Modern Online Picture Frames
+
+---
+
 ## 2.3.1
 ### Added
 - Oculus **(Client Only)**
