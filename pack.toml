@@ -1,12 +1,12 @@
 name = "Eternal"
 author = "Rinnray"
-version = "2.3.2"
+version = "2.3.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3cfdf127675299d8f25e9ba75671da91217ecc2d98f847ad84fce015f5ac5ad8"
+hash = "6368ddf5b895a62da5cc253b8c2db694e73c490ee092626d8f87d3c6d02d90b9"
 
 [versions]
 forge = "40.1.79"
