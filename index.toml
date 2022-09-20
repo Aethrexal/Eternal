@@ -14,7 +14,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "762c13a0ad4a35d2a4df9a121010f561843b26d3feb9e370f4d51a9b52fb592e"
+hash = "73441f120b0a6a0c076e34f0ecf2f07606677741cea9f9469a1c6fb02e70b696"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -527,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "4a3143688b72f11d7ce289b6a2a5c89bac561f9a0eca5324d2d08f60b51e252f"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "727edd780364a63c7d7effbe1abf091e04e2a845577ce492807f050f882bc135"
 metafile = true
 
 [[files]]

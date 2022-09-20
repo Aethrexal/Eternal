@@ -5,6 +5,9 @@
 - Spark
 - Ping
 
+### Removed
+- Minecraft Comes Alive
+
 ---
 
 ## 2.3.2
