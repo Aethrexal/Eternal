@@ -1,5 +1,29 @@
 # Changelog
 
+## 2.3.4
+### Added
+- MineColonies
+- BlockUI **(Dependency)**
+- Multi-Piston **(Dependency)**
+- Structurize **(Dependency)**
+- Naturalist
+
+### Updated
+- Collective
+- Integrated Crafting
+- Integrated Dynamics
+- Integrated Terminals
+- Integrated Tunnels
+- McJtyLib
+- Pam's Harvest 2
+- PneumaticCraft: Repressurized
+- Polymorph
+- The Twilight Forest
+- Tinkers Construct
+- Tree Harvester
+
+---
+
 ## 2.3.3
 ### Added
 - Spark

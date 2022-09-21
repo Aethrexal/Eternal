@@ -1,13 +1,13 @@
 name = "Polymorph (Forge)"
-filename = "polymorph-forge-1.18.2-0.44.jar"
+filename = "polymorph-forge-1.18.2-0.45.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "064028a8c750ace31d61a2f443e775570598d9e4"
+hash = "ad175bccea56345c8c9da3037a5c832c1c1d972a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3793106
+file-id = 3995029
 project-id = 388800
