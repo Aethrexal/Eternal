@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/general.toml"
+hash = "c5acb0c9eb0c8ad7bd5e715585af46c9158dbbbc76356c1fcd0c7f6597863b07"
+
+[[files]]
+file = "config/Mekanism/world.toml"
+hash = "d1f74589fb730f938ca511e592ee0a2804082134cefa0f9f5f95d03eb9590a82"
+
+[[files]]
 file = "config/ProjectE/custom_emc.json"
-hash = "16713fb9a39ba1e6b7b0bd9ed0bf578f2cfd390b843a0f38b0e0b8c82d508dec"
+hash = "0749d9e5a18fe01d00e61608e8e3bec6c697e0c2a15656afa830626eeb448e74"
 
 [[files]]
 file = "config/ProjectE/server.toml"
@@ -14,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "83b090d9107e1616b412e0dba3fe9f350e0267ebb808d0ae99cac931e77f2731"
+hash = "a884e6be06658d3b061fa56b3166dfd3d2e249d16f08dfddae6976861545eb36"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -109,6 +117,10 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "c68d5975b489e1c5421241137ce1b2ac534141874289e34d226935e985b938dd"
 
 [[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "45e9777d210fdc54fe445d35bd825d366daad559bef1cf4a5a902e497d2dc0b2"
+
+[[files]]
 file = "journeymap/config/5.8/journeymap.core.config"
 hash = "d3de96776bb9406516632134f09f7b8c9600659e8ab91bb526606cc82248a7e9"
 
@@ -123,6 +135,16 @@ hash = "0cca922469d188ce438f71263a277e240b1cd5cc42bb2486b4d93b254afcd332"
 [[files]]
 file = "mods/MTR-forge-1.18.2-3.1.0.jar"
 hash = "038d883bcc661399e9a38f1cfe32c3708d8f9eeced4d9e824299fcd3747439d3"
+
+[[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "599624c3298fabe04f3c427db1d366bc736aa483df8624482daedded3eaea3cf"
+metafile = true
+
+[[files]]
+file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
+hash = "73a2ac9e7ee2f26dbbff5e51c21285dd2e0a616a277b5f7a2ee5603b83806044"
+metafile = true
 
 [[files]]
 file = "mods/alcocraft-beer-and-stuff.pw.toml"
@@ -142,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "4935a09a71f0032aa6a98618f0a7632ac1a3db30586cccda3a4c1a8994b0e52e"
 metafile = true
 
 [[files]]
@@ -375,6 +392,11 @@ hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "3f4ae6f199657a3a1ec4ac55093d064b5c0b9e5eec02af3aa3d6282cd47b3f84"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
@@ -490,6 +512,11 @@ hash = "932425500954d688e35ec443d45b6efa81879971bb53c7ed0c2d5d75072a2004"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "b4b6828ba835038615eb2ee91d8b1eaeef53687952bf89769c680854d7dba63f"
 metafile = true
@@ -537,6 +564,21 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "8d667948726db0df12a25c12a0df539954ca93fba9e7529d857b8b7c84d9b87d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "f0684891c05b13f481c137fd14a77a41614bc37e226af07e1ad42cb85221cc90"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
 metafile = true
 
 [[files]]
@@ -715,6 +757,11 @@ hash = "ce2fdaac17c20454cbcd0f1069f193d1f2b60bfeb56ce4e1c3314014930aa39a"
 metafile = true
 
 [[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "d971519f4bb477e38d614df5fc1f4c1ca1b0d108231727c2812496248c98b821"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
@@ -727,6 +774,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
 
 [[files]]
@@ -777,11 +829,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
-metafile = true
-
-[[files]]
-file = "mods/tesseract.pw.toml"
-hash = "c96a3fbd359b6b6532f8f44158a1beab2ee1e58c83086e9cce5114344ce5a90e"
 metafile = true
 
 [[files]]

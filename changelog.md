@@ -1,5 +1,28 @@
 # Changelog
 
+## 2.3.5
+### Added
+- Flux Networks
+- AE Additions - ExtraCells2 Fork
+- Kotlin for Forge **(Dependency)**
+- Mekanism
+- Mekanism Additions
+- Mekanism Generators
+- RFTools Power
+- Advanced Peripherals
+- Serene Seasons
+
+### Ore Configs
+- Mekanism
+  - Gen for Tin ore *disabled*
+  - Gen for Lead ore *disabled*
+
+### Removed
+- Tesseract
+- Ars Nouveau
+
+---
+
 ## 2.3.4
 ### Added
 - MineColonies
