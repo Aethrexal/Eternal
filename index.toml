@@ -14,7 +14,7 @@ hash = "0749d9e5a18fe01d00e61608e8e3bec6c697e0c2a15656afa830626eeb448e74"
 
 [[files]]
 file = "config/ProjectE/server.toml"
-hash = "9a3470521a7cbc8a14f148aafea9417f8a349c26f6fe6f7e787da7357ed565a1"
+hash = "cb74991700121947f57e0391466f2df70369a94705c412a2c97bcfbc961f4fe0"
 
 [[files]]
 file = "config/ars_nouveau-client.toml"
