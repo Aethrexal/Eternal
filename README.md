@@ -14,7 +14,7 @@ The current state of the pack might be a bit laggy and have double of same ore a
 
 ### Install
 
-1. Download [PolyMC](https://polymc.org/download/) or [MultiMC](https://multimc.org/#Download)
+1. Download [MultiMC](https://multimc.org/#Download)
 2. Click "Add Instance"
 3. On the left side press "Import from zip"
 4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/1.0.2/Eternal.zip` or [download](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
@@ -52,6 +52,7 @@ But anyway; I do not take credit for any of the mods in this modpack.
 
 Note:<br/>
 The above does not include these mods (as they were exlucded from Curseforge API and needed to be downloaded manually):
+
 - [Minecraft Transit Railway](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway)
 
 [Packwiz](https://github.com/comp500/packwiz) was used to generate these files.
