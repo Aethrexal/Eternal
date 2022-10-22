@@ -1,7 +1,59 @@
 # Changelog
 
-## 2.3.5
+## 2.4.0
+
 ### Added
+
+- Applied Cooking
+- RFTools Dimensions
+- RFTools Utility
+
+### Updated
+
+- AE Additions
+- Applied Energistics 2
+- CC: Tweaked
+- Chipped
+- Collective
+- Comforts
+- Cooking for Blockheads
+- CraftPresence
+- CraftTweaker
+- Create
+- Engineer's Decor
+- Extreme Reactors
+- FastWorkbench
+- Futurepack
+- GeckoLib
+- Jade
+- JEI
+- Lighting Wand
+- Macaw's Bridges
+- Macaw's Roofs
+- MineColonies
+- Placebo
+- RFTools
+- Rubidium
+- Simply Light
+- Sophisticated Backpacks
+- Sophisticated Core
+- Structurize
+- XNet
+- ZeroCore 2
+
+### Removed
+
+- Integrated Crafting
+- Integrated Dynamics
+- Integrated Tunnels
+- Integrated Terminals
+
+---
+
+## 2.3.5
+
+### Added
+
 - Flux Networks
 - AE Additions - ExtraCells2 Fork
 - Kotlin for Forge **(Dependency)**
@@ -13,18 +65,22 @@
 - Serene Seasons
 
 ### Ore Configs
+
 - Mekanism
-  - Gen for Tin ore *disabled*
-  - Gen for Lead ore *disabled*
+  - Gen for Tin ore _disabled_
+  - Gen for Lead ore _disabled_
 
 ### Removed
+
 - Tesseract
 - Ars Nouveau
 
 ---
 
 ## 2.3.4
+
 ### Added
+
 - MineColonies
 - BlockUI **(Dependency)**
 - Multi-Piston **(Dependency)**
@@ -32,6 +88,7 @@
 - Naturalist
 
 ### Updated
+
 - Collective
 - Integrated Crafting
 - Integrated Dynamics
@@ -48,28 +105,36 @@
 ---
 
 ## 2.3.3
+
 ### Added
+
 - Spark
 - Ping
 
 ### Removed
+
 - Minecraft Comes Alive
 
 ---
 
 ## 2.3.2
+
 ### Added
+
 - Pipez
 - Modern Online Picture Frames
 
 ---
 
 ## 2.3.1
+
 ### Added
+
 - Oculus **(Client Only)**
 - Minecraft Transit Railway
 
 ### Updated
+
 - Alcocraft
 - FTB Teams
 - Kiwi
@@ -77,7 +142,9 @@
 ---
 
 ## 2.3.0
+
 ### Updated
+
 - Architectury API
 - Collective
 - CraftPresence
@@ -86,6 +153,7 @@
 - Restone Pen
 
 ### Added
+
 - Applied Energistics 2
 - Ars Nouveau
 - GeckoLib
@@ -96,10 +164,13 @@
 - Nosiphus Furniture Mod
 
 ### Removed
+
 - Dynamic Lights
 
 ### Notes
+
 Next version these mods will be removed:
+
 - Integrated Crafting
 - Integrated Dynamics
 - Integrated Tunnels

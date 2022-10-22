@@ -1,13 +1,13 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-11.1.7.jar"
+filename = "appliedenergistics2-forge-11.6.1-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5702fd5a50912f0f78d18918bd291ff1b8e2a754"
+hash = "bb5128222aa709394f97b8e37eaf0b58e5edbf15"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3964259
+file-id = 4023502
 project-id = 223794
