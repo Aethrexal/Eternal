@@ -1,5 +1,58 @@
 # Changelog
 
+## 2.5.0
+
+### Installed
+
+- SebastrnLib
+
+### Updated
+
+- Forge
+- Advanced Peripherals
+- Applied Cooking
+- Applied Energistics 2
+- Architectury
+- Better Compatibility Checker
+- CC: Tweaked
+- Chisel & Bits
+- Colelctive
+- Cooking for Blockheads
+- CraftPresence
+- CraftTweaker
+- Doggy Talents
+- Engineer's Decor
+- FerriteCore
+- Flux Networks
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- GeckoLib
+- Jade
+- JEI
+- JourneyMap
+- Macaw's Paths and Pavings
+- Macaw's Windows
+- Mantle
+- McJtyLib
+- MineColonies
+- Nosiphus Furniture Mod
+- Pam's HarvestCraft 2
+- Polymorph
+- RFTools Power
+- RFTools Utility
+- Security Craft
+- ShetiPhianCore
+- Sophisticated Backpacks
+- Sophisticated Core
+- Structurize
+- Tinkers Construct
+- Titanium
+- Tree Harvester
+- Not Enough Crashes
+
+---
+
 ## 2.4.0
 
 ### Added
