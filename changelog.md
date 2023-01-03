@@ -1,5 +1,52 @@
 # Changelog
 
+## 2.5.1
+
+### Updated
+
+- Advanced Peripherals
+- Applied Energistics 2
+- Architectury API
+- Balm
+- Better Compatibility Checker
+- Collective
+- CraftPresence
+- Create
+- Cyclops Core
+- Domum Ornamentum
+- Dynmap Forge
+- Flywheel
+- Framework
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- GeckoLib
+- Immersive Engineering
+- Item Collectors
+- JourneyMap
+- Kotlin for Forge
+- Macaw's Bridges
+- Macaw's Fences
+- Macaw's Roofs
+- Macaw's Windows
+- McJtyLib
+- MineColonies
+- Moving Elevators
+- Oculus
+- PneumaticCraft
+- Redstone Pen
+- RFTools Utility
+- Sophisticated Backpacks
+- Sophisticated Core
+- Structurize
+- SuperMartijn642's Core Lib
+- Tinkers Construct
+- Tiny Gates
+- Titanium
+
+
+---
+
 ## 2.5.0
 
 ### Installed
