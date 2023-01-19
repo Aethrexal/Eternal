@@ -12,7 +12,6 @@
 ### Removed
 
 - Portality
-- Connected Texture Mod
 - Titanium
 
 ---
