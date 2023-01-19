@@ -1,5 +1,60 @@
 # Changelog
 
+## 2.6.0
+
+### Notes
+
+Silent Gear will be tried out.
+
+Dynmap have been temporarily removed due to crashes.
+
+### Added
+
+- Legendary Tooltips [Forge] **(Client Only)**
+- Iceberg [Forge] **(Dependency)**
+- Prism [Forge] **(Dependency)**
+- Silent Gear
+- Silent Lib **(Dependency)**
+- Silent Gems
+
+### Removed
+
+- Dynmap
+- ProjectE
+
+### Updated
+
+- Forge
+- Advanced Peripherals
+- Better Compatibility Checker
+- Chipped
+- Collective
+- CraftPresence
+- CraftTweaker
+- Create
+- Extreame Reactors
+- Flywheel
+- JEI
+- JourneyMap
+- Kotlin for Forge
+- MineColonies
+- Moving Elevators
+- MrCrayfish's Gun Mod
+- PneumaticCraft
+- Redstone Pen
+- Security Craft
+- Simple Planes
+- Sophisticated Backpacks
+- Sophisticated Core
+- SuperMartijn642's Core Lib
+- The Twilight Forest
+- Tiny Redstone
+- Tree Harvester
+- Ultimate Transport for Minecraft
+- ZeroCore 2
+
+---
+
 ## 2.5.1
 
 ### Updated

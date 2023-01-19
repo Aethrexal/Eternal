@@ -14,7 +14,7 @@ The current state of the pack might be a bit laggy and have double of same ore a
 
 ### Install
 
-1. Download [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) or [MultiMC](https://multimc.org/#Download)
+1. Download [PrismLauncher](https://prismlauncher.org/download/) or [MultiMC](https://multimc.org/#Download)
 2. Click "Add Instance"
 3. On the left side press "Import from zip"
 4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/1.0.2/Eternal.zip` or [download](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
@@ -41,7 +41,7 @@ At times it might be needed for you to manually update the Forge version when th
 3. Select "Version"
 4. Select "Forge" in the list
 5. Click "Change version" on the right side
-6. Select "40.1.86"
+6. Select "40.2.0"
 7. Click "OK" then "Close"
 8. Done
 
