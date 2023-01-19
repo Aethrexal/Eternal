@@ -22,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "63b696b6f1c228ffde94a830423f7d16ff1aaae2dc57e5c2df6cdf18239b94d9"
+hash = "3abd76d0bbf6316785eb2f93e508c7133ea465dc8f2864c775ea919072d3a602"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -838,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
 
 [[files]]

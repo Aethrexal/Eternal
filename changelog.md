@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.6.2
+
+### Removed
+
+- Sound Physics Remastered
+
+---
+
 ## 2.6.1
 
 ### Added
