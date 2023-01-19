@@ -22,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "015698ba4b37bec9018a8224316a63b048cd963c3e87b73a2e483bcb465d0167"
+hash = "63b696b6f1c228ffde94a830423f7d16ff1aaae2dc57e5c2df6cdf18239b94d9"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -67,6 +67,10 @@ hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
 [[files]]
 file = "config/securitycraft-client.toml"
 hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "9f32ae4855497ceabb27e9df1e3f5761afd272e018661ba6de6319a97d7638f7"
 
 [[files]]
 file = "config/treeharvester-common.toml"
@@ -577,6 +581,11 @@ hash = "d817f5ba7f4f1cb04192d10a80a294d8de045aa7c3b3da450eb0882e61b41cc0"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "c51279d7ceeb2370b7ca92f5dc50741cbebc7d9c58ae3ea9119fae795c95ba48"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
 metafile = true
@@ -707,11 +716,6 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
-file = "mods/portality.pw.toml"
-hash = "b63a8bbedf285b2a00856c35f6376f4f767d140a92adb85960d11d35766cb712"
-metafile = true
-
-[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "5ee8f362f34bfa3a763b934a8d5e1b0cbf44aeb5fa4b9c3bfd87a1667fcae533"
 metafile = true
@@ -729,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
 hash = "5d7b9676b64f05e97d12f882cb1bca52d86739b61598a851770fa905d2523d39"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b9c705b187aab9708763c23c751664598b11bbd3598b71b9e5040bfcfe4ab394"
 metafile = true
 
 [[files]]
@@ -807,6 +816,11 @@ hash = "7e8ed178fed3867329631022e31053c77cb1f57020ed29c3751c41a4c2a1d3a2"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "4eb6803c72eadf91bc1d8c0cdc2a528e193c40d0027357ba1e5f95ec8920dd54"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "3b62cdddfe72200c9a0f1819115c9f62a7baac2ab5dc8ddfcf3f3e3f62c615f3"
 metafile = true
@@ -824,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
 
 [[files]]
@@ -869,11 +888,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-redstone.pw.toml"
 hash = "6b5ee3e0db6d5558c4dbbcf4657c2a5d44acc7135f0ddc3fd9591f23d5528dc8"
-metafile = true
-
-[[files]]
-file = "mods/titanium.pw.toml"
-hash = "61f884e89092a648306513b93b33191641775aad6ac188c90000acea7c480b5d"
 metafile = true
 
 [[files]]

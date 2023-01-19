@@ -1,5 +1,22 @@
 # Changelog
 
+## 2.6.1
+
+### Added
+
+- Re-chiseled
+- Sound Physics Remastered
+- MCA Reborn
+- Simple Backups
+
+### Removed
+
+- Portality
+- Connected Texture Mod
+- Titanium
+
+---
+
 ## 2.6.0
 
 ### Notes
