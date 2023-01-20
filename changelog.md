@@ -2,6 +2,14 @@
 
 ## 2.6.4
 
+### Removed
+
+- Tempad
+
+---
+
+## 2.6.4
+
 ### Notes
 
 Changed so Ultimate Transport for Minecraft is downloaded like all the rest of the mods and not from this Github.

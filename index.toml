@@ -22,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c455d95e1db2c36366f82b72334d304b8fd4396c6e34a3d3c3d45ca1dbb61cd9"
+hash = "11040f5e0e5d2ac0b0ae39a9f24df866252b727d7d0405659e0c566706acda2d"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -83,14 +83,6 @@ hash = "9694e1fb5de8519ea2ff5eb2d40084779eb67044d2b0d66730932f9e9be3b1f1"
 [[files]]
 file = "config/simplebackups-common.toml"
 hash = "9f32ae4855497ceabb27e9df1e3f5761afd272e018661ba6de6319a97d7638f7"
-
-[[files]]
-file = "config/tempad.json"
-hash = "36677e936ac1308111c5caa42873ddd6dbaffd3705d01837414e022cb958d846"
-
-[[files]]
-file = "config/tempad_client.json"
-hash = "4b07a999ce2fd4bd19043724c44de21e7b548969648fb53896c4db6fa2cd5e5a"
 
 [[files]]
 file = "config/treeharvester-common.toml"
@@ -879,11 +871,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "7682ee8020b690676c256df301dedc20797ed3f12d8dc42fabe488a47386a56e"
-metafile = true
-
-[[files]]
-file = "mods/tempad.pw.toml"
-hash = "5ef32db426e12b34cb6d30ef2205b5a449d14b48f5f60b942fd397f84c08c06a"
 metafile = true
 
 [[files]]
