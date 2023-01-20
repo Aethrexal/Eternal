@@ -1,5 +1,30 @@
 # Changelog
 
+## 2.6.4
+
+### Notes
+
+Changed so Ultimate Transport for Minecraft is downloaded like all the rest of the mods and not from this Github.
+
+### Added
+
+- FallingTree
+- ServerConfig Updater
+- Tempad
+
+### Removed
+
+- Oculus
+- Tree Harvester
+
+### Updated
+
+- Collective
+- Mantle
+- Simple Planes
+- Tinkers Construct
+
+---
 
 ## 2.6.3
 

@@ -50,9 +50,4 @@ At times it might be needed for you to manually update the Forge version when th
 None of the mods are hosted in this repo, the packwiz-installer that comes with the zip file that you download, downloads all the mods from Curseforge or Modrinth when you launch the modpack.
 But anyway; I do not take credit for any of the mods in this modpack.
 
-Note:<br/>
-The above does not include these mods (as they were exlucded from Curseforge API and needed to be downloaded manually):
-
-- [Minecraft Transit Railway](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway)
-
 [Packwiz](https://github.com/comp500/packwiz) was used to generate these files.
