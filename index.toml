@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MODLIST"
-hash = "bc8608da380c4a5786f7e99f91daf5e5fc31dfe305b652d29f08302b1f5a4612"
-
-[[files]]
 file = "config/Mekanism/general.toml"
 hash = "c5acb0c9eb0c8ad7bd5e715585af46c9158dbbbc76356c1fcd0c7f6597863b07"
 
