@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MODLIST"
+hash = "bc8608da380c4a5786f7e99f91daf5e5fc31dfe305b652d29f08302b1f5a4612"
+
+[[files]]
 file = "config/Mekanism/general.toml"
 hash = "c5acb0c9eb0c8ad7bd5e715585af46c9158dbbbc76356c1fcd0c7f6597863b07"
 
@@ -22,7 +26,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3abd76d0bbf6316785eb2f93e508c7133ea465dc8f2864c775ea919072d3a602"
+hash = "e767db656cad7929defc852e1f3e69ff199c86a815c62bd8a7727f67d77f5e9a"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -423,11 +427,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "2c94b40522003b71e684257c47cb8a3e6958b735ddc2fdadfa8134f0f4469662"
-metafile = true
-
-[[files]]
-file = "mods/futurepack.pw.toml"
-hash = "b9225a6da03de732846720b4f83b5296c64ac54304bce5234df1d36e0c8451f4"
 metafile = true
 
 [[files]]

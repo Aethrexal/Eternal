@@ -1,5 +1,14 @@
 # Changelog
 
+
+## 2.6.3
+
+### Removed
+
+- Futurepack Mod
+
+---
+
 ## 2.6.2
 
 ### Removed
