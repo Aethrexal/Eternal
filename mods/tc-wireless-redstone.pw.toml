@@ -1,0 +1,13 @@
+name = "Wireless-Redstone"
+filename = "TC-Redstone-1.18.2-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63df49f27d6e7a44e4a31788a73d15b508a61e74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4320407
+project-id = 503143

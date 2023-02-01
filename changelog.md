@@ -1,6 +1,52 @@
 # Changelog
 
-## 2.6.4
+## 2.7.0
+
+### Added
+
+- AppleSkin
+- Useful Backpacks
+- U Team Core **(Dependency)**
+- Effortless Building
+- Wireless-Redstone
+- Dustrial Decor
+- Croptopia
+
+### Removed
+
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Food Extended
+- Pam's HarvestCraft 2 - Trees
+
+### Updated
+
+- Balm
+- Better Compatibility Checker
+- Collective
+- CraftPresence
+- CraftTweaker
+- Create
+- Cyclops
+- FTB Chunks
+- FTB Teams
+- Immersive Engineering
+- MineColonies
+- Ultimate Transport for Minecraft
+- Moving Elevators
+- MrCrayfish's Furniture Mod
+- Pam's HarvestCraft 2 - Trees
+- Re-chiseled
+- RFTools Base
+- RFTools Utility
+- Silent Gear
+- SuperMartijn642's Core Lib
+- Tinkers Construct
+- Tiny Gates
+
+---
+
+## 2.6.5
 
 ### Removed
 
