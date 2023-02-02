@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.7.1
+
+### Added
+
+- BlueMap
+
+---
+
 ## 2.7.0
 
 ### Added

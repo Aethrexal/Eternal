@@ -22,7 +22,19 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b75c7a4104a743a9fecc201f4910d4d0b1b055aa6faf36efa2c004a252c2dcc1"
+hash = "fd65c2649ef4f7811b9e386b6cb97686c0f2feb0cc8127f8f16a26073f824342"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "a964913b3345511f39646d241efb240d84b5500ee02196791b6b0138e0c7e1d7"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "1c3e618fcee548f3dee3364804004a6a8f7c6b8a26067205ea0beb7b62725589"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "6ee2d50ba395654dc0f576e52fff0f9fdf88d777dbde00f58c23ce6aa625a3a1"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -231,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "111ea708803274fa44f9cbcd9def733504725031ea1f9e99c3365015ab30113d"
 metafile = true
 
 [[files]]
