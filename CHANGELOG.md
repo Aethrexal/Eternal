@@ -1,10 +1,17 @@
 # Changelog
 
+# TODO BEFORE UPDATE (THIS SHOULD BE REMOVED BEFORE PUSHING)
+- Configs for craftpresence is wonky, redo them
+
 ## 3.0.0
 
 ### Added
 
-
+- Create Crafts & Additions
+- Magnesium/Rubidium Dynamic Lights
+- Magnesium/Rubidium Extras
+- Supplementaries
+- Moonlight Lib
 
 ### Removed
 
@@ -15,10 +22,16 @@
 - Mantle
 - Gauges and Switches
 - Tinkers Construct
+- Dynmap
+- Item collector
+- Searchlight (& Wall Lights) (Forge)
+- CraftPresence
+- !Alcocraft: Beer & Stuff
+- !Entity Culling
 
 ### Updated
 
-
+- All mods (Couldn't be bothered to write them all)
 
 ---
 

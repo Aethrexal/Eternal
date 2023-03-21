@@ -1,13 +1,13 @@
 name = "Mod Name Tooltip"
-filename = "modnametooltip-1.18.1-1.18.0.jar"
+filename = "modnametooltip-1.19-1.19.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "8886987e43b4549edced071b0b10a8645a42b5a0"
+hash = "8d1420df63d0773f6e5abbbb2439af7591f84e34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3574005
+file-id = 3898427
 project-id = 238747

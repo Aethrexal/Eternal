@@ -1,13 +1,13 @@
 name = "Notes"
-filename = "Notes-1.18.2-1.2.4.jar"
-side = "client"
+filename = "Notes-1.19.2-1.2.5.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b8d91c1426c8d305ab12a3d8b2f52f6013e20b2"
+hash = "a56c75341b53621ea8ca3185490b3898fb3ed240"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3712112
+file-id = 3931943
 project-id = 256087

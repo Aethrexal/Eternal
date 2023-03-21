@@ -1,13 +1,13 @@
 name = "Simple Storage Network"
-filename = "SimpleStorageNetwork-1.18.2-1.6.2.jar"
+filename = "SimpleStorageNetwork-1.19-1.6.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77041fd8d01f46ba071b2b4eba169852bbec98a0"
+hash = "05c706837db4295db930e96a5d1f6343419bc994"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3868680
+file-id = 3914635
 project-id = 268495

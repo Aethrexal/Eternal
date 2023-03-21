@@ -1,13 +1,13 @@
 name = "Dragon Mounts: Legacy"
-filename = "dragonmounts-1.18.2-1.1.4.jar"
+filename = "dragonmounts-1.19.2-1.1.4a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "89d70ea4e70151c4f599fbb2afde5aefa79f753f"
+hash = "4288641f9addc56e84c065409261db35053fa123"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3926737
+file-id = 3925406
 project-id = 375088

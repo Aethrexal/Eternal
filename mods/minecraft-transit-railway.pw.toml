@@ -1,13 +1,13 @@
 name = "Ultimate Transport for Minecraft (Automated trains, planes, and more!)"
-filename = "MTR-forge-1.18.2-3.2.0.jar"
+filename = "MTR-forge-1.19.2-3.2.1-hotfix-1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5a95836c8c9c340bc7ca59d5cc6d940e3be1a84"
+hash = "27561864e1dddfe1114c59e66827267dc523ed81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4358209
+file-id = 4442416
 project-id = 266707

@@ -1,13 +1,13 @@
 name = "Domum Ornamentum"
-filename = "domum_ornamentum-1.18.2-1.0.77-ALPHA-universal.jar"
+filename = "domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9ac512c4d9e071f089b6b07226773e3b371a3f7"
+hash = "54272f6baea2cba7145d27888ef1df83615067bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4285040
+file-id = 4411483
 project-id = 527361

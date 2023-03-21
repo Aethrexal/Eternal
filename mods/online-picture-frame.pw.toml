@@ -1,13 +1,13 @@
 name = "Modern Online Picture Frames"
-filename = "OPF-13.jar"
+filename = "OPF-15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c6bb4ce8c4692e2e942db1a1e9c7057762e53212"
+hash = "fc3d025d08fbe0ec6a37bdb7d112e70c2bbe8bea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3987155
+file-id = 4033108
 project-id = 428377

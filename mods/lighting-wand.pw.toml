@@ -1,13 +1,13 @@
 name = "Lighting Wand 🌟 (Forge)"
-filename = "LightingWand-1.18.2-forge-4.1.1.jar"
+filename = "LightingWand-1.19.2-forge-5.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c83f63a04e77f1211ea119fc682fea83cbd0b81d"
+hash = "1a04ce2861cdd353478b4641d58cfa7ea543a544"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4017464
+file-id = 4036306
 project-id = 296028
