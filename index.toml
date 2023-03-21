@@ -22,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a543a7c0c265e9a48bbc393d738dbaed1cbab9c13f684afc6d6fddea7b924f18"
+hash = "9fa3135fa2fc4ebaa88483ead6199d99dcce8a16a15cb02a118b56b5f7953cca"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -261,11 +261,6 @@ hash = "ce2aa209b10a5ca89af90a5cb67292117dee46165dab91538d543782c49dace3"
 metafile = true
 
 [[files]]
-file = "mods/cha-s.pw.toml"
-hash = "6d77878b163e2e13277f6e1e1476040f3ae73fd03ab9addbc5506c143bc45420"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
@@ -318,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "e056dfc994f28363c615b026a288f1c729ab1833bb14d1c1d96ea4c83b9610f0"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "d1c9b1295b78ef4fd69d0d3c3d6e2ff78830a1f98f6cd709a9ea7d9e7c741325"
 metafile = true
 
 [[files]]
@@ -436,11 +426,6 @@ hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
 metafile = true
 
 [[files]]
-file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
@@ -521,11 +506,6 @@ hash = "94609bc33550bb64bdb280d53156767318407a4a62d2273b6f9d0a0f40396e9a"
 metafile = true
 
 [[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "f4d9d872160619a5139d410620bbb26798eca26223da6a21d74847a0285087c4"
 metafile = true
@@ -593,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "6800b344bb3a658b88d78c5c205a213c6dfcc26cd98a4d4716ca929fc393c357"
-metafile = true
-
-[[files]]
-file = "mods/mantle.pw.toml"
-hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
@@ -766,11 +741,6 @@ hash = "a71423cd2385d61f5bc7580efea376459c3c0f2178c43bbcee181428fedcc85d"
 metafile = true
 
 [[files]]
-file = "mods/redstone-gauges-and-switches.pw.toml"
-hash = "d42a26416b67d76d8f083ff31c15b592e4cc7a5719d2663a7169c9234812e439"
-metafile = true
-
-[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "11868d1a9418f8501ffb5f8d10cfda70857b333e17aa7241b9b411d68f341a86"
 metafile = true
@@ -901,11 +871,6 @@ hash = "8f51c31fa1375c46026a0433c0f53e71615c75d59915a0f7ee6e327edbf3b570"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
-metafile = true
-
-[[files]]
 file = "mods/tiny-gates.pw.toml"
 hash = "0f0498624c3fef16d8ca320cac706bedfc27e5a1f6b33fff7a23b6f8b8aace13"
 metafile = true
@@ -964,7 +929,3 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "00135b7b1339e9ec256e40725c0ccb573b4a232297579774e54706b7a877a256"
 metafile = true
-
-[[files]]
-file = "scripts/nametag.zs"
-hash = "d1eda1b3d7a64b20723faa8aef3fd0d422fab334d535db0c60b9b0c8fc61b6e4"
