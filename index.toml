@@ -89,6 +89,14 @@ file = "config/simplebackups-common.toml"
 hash = "9f32ae4855497ceabb27e9df1e3f5761afd272e018661ba6de6319a97d7638f7"
 
 [[files]]
+file = "config/supplementaries-common.toml"
+hash = "6713efbdfdec8ead64bd0291a631dcc5f355f7fea28e21d33846954dadabebef"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "cfeba00ed7314b41d9d7d73181ff5f280f18c070e641a6fd15ab69293896f9f5"
+
+[[files]]
 file = "config/treeharvester-common.toml"
 hash = "23b19dbf71fab16fb64edbbfdeaa384eff7b4ad953e85cdbcf9493946bf9d760"
 
@@ -151,6 +159,10 @@ hash = "019d2b7bac9523e452e9cf76da83f4d48df4098d6653c055b326b93d27ac9c25"
 [[files]]
 file = "journeymap/config/5.8/journeymap.webmap.config"
 hash = "0cca922469d188ce438f71263a277e240b1cd5cc42bb2486b4d93b254afcd332"
+
+[[files]]
+file = "mods/Eternity.jar"
+hash = "c11aa7f8e73ef69c2e8430cd04537314a5a25f8e13d4f3f260ac53ac77e6e579"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"

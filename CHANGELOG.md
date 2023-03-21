@@ -2,6 +2,10 @@
 
 ## 3.0.0
 
+### Notes
+
+- Updated the [Pack Instance](https://github.com/Rinnray/Eternal/releases/tag/3.0.0) for the 1.19.2 release.
+
 ### Added
 
 - Create Crafts & Additions
@@ -11,6 +15,7 @@
 - Moonlight Lib
 - Macaw's Lights and Lamps
 - Handcrafted
+- Eternity
 
 ### Removed
 
