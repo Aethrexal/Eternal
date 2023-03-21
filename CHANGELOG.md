@@ -26,8 +26,8 @@
 - Item collector
 - Searchlight (& Wall Lights) (Forge)
 - CraftPresence
+- Entity Culling
 - !Alcocraft: Beer & Stuff
-- !Entity Culling
 
 ### Updated
 

@@ -2,7 +2,6 @@
 .gitattributes
 .gitignore
 .github/**
-mods.OLD
 README.md
 CNAME
 CHANGELOG.md
