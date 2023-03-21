@@ -15,7 +15,7 @@
 - Moonlight Lib
 - Macaw's Lights and Lamps
 - Handcrafted
-- Eternity
+- Eternity (My own mod, no repo or anything yet)
 
 ### Removed
 
