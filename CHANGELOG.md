@@ -12,6 +12,8 @@
 - Magnesium/Rubidium Extras
 - Supplementaries
 - Moonlight Lib
+- Macaw's Lights and Lamps
+- Handcrafted
 
 ### Removed
 
@@ -27,7 +29,7 @@
 - Searchlight (& Wall Lights) (Forge)
 - CraftPresence
 - Entity Culling
-- !Alcocraft: Beer & Stuff
+- Alcocraft: Beer & Stuff
 
 ### Updated
 
