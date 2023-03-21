@@ -1,8 +1,5 @@
 # Changelog
 
-# TODO BEFORE UPDATE (THIS SHOULD BE REMOVED BEFORE PUSHING)
-- Configs for craftpresence is wonky, redo them
-
 ## 3.0.0
 
 ### Added
