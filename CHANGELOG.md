@@ -2,10 +2,6 @@
 
 ## 3.0.0
 
-### TODO before able to push, this needs to be gone before pushing
-
-- Make sure server is able to boot, that there is no client only mods marked as "both"
-
 ### Notes
 
 - Updated the [Pack Instance](https://github.com/Rinnray/Eternal/releases/tag/3.0.0) for the 1.19.2 release.
@@ -36,6 +32,7 @@
 - CraftPresence
 - Entity Culling
 - Alcocraft: Beer & Stuff
+- Modular Force Fields
 
 ### Updated
 
