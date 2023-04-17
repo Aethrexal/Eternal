@@ -1,5 +1,40 @@
 # Changelog
 
+## 3.1.0
+
+### Updated
+
+- Advanced Peripherals
+- Applied Energistics 2
+- Ballistix
+- Blastcraft
+- Create Crafts & Additions
+- Curios API
+- Cyclops Core
+- Electrodynamics
+- FastWorkbench
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- Immersive Engineering
+- JEI
+- McJtyLib
+- MineColonies
+- Nuclear Science
+- Quark
+- Resourceful Lib
+- RFTools Dimensions
+- Moonlight Lib
+- SuperMartijn642's Core Lib
+- Supplementaries
+- ZeroCore 2
+
+### Removed
+
+- SimpleBackups
+
+---
+
 ## 3.0.0
 
 ### Notes
