@@ -1,5 +1,56 @@
 # Changelog
 
+## 3.1.1
+
+### Updated
+
+- Forge
+- Applied Energistics 2
+- Architectury API
+- Comforts
+- Connectivity
+- Cooking for Blockheads
+- Create Crafts & Addutions
+- Curios API
+- Cyclops Core
+- Diagonal Fences
+- Eletrodynamics
+- Exline's Furniture Mod
+- Extreme Reactors
+- FastWorkbench
+- FTB Chunks
+- FTB Library
+- Immersive Engineering
+- JourneyMap
+- KleeSlabs
+- Kotlin for Forge
+- Lightning Wand
+- McJtyLib
+- MineColonies
+- MCA Reborn
+- Ultimate Transport
+- Moving Elevators
+- Naturalist
+- Noisphys Furniture Mod
+- Pipes
+- Placebo
+- PlenumaticCraft: Repressurized
+- Puzzles Lib
+- Quark
+- Re-Chiseled
+- RFTools Dimensions
+- RFTools Utility
+- Security Craft
+- Moonlight Lib
+- Spark
+- Structurize
+- SuperMartijn642's Core lib
+- Ultimate Car Mod
+- Waystones
+- ZeroCore 2
+
+---
+
 ## 3.1.0
 
 ### Updated
