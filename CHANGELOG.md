@@ -1,5 +1,79 @@
 # Changelog
 
+## 3.1.2
+
+### Added
+
+- Fusion (Connected Textures)
+- Gauges and Switches
+
+### Updated
+
+- Forge
+
+- Advanced Periherals
+- AE Additions - ExtraCells2
+- Architectiry API
+- Camera Mod
+- CC: Tweaked
+- Chipped
+- Cloth Config API
+- Collective
+- Connectivity
+- Create
+- Create Crafts & Additions
+- CreativeCore
+- Cyclops Core
+- Domum Ornamentum
+- Effortless Building
+- Extreme Reactors
+- FastWorkbench
+- Flux Networks
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- Just Enough Items
+- JourneyMap Integration
+- Macaw's Bridges
+- Macaw's Lights and Lamps
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Magnesium/Rubidium Extras
+- Mekanism Additions
+- Mekanism Generators
+- Mekanism
+- MCA Reborn
+- Moving Elevators
+- Naturalist
+- Nosiphus Furniture Mod
+- Pipez
+- Placebo
+- PneumaticCraft: Repressurized
+- Polymorph
+- Puzzles Lib
+- Quark
+- Realistic Horse Genetics
+- Re-Chiseled
+- Rubidium
+- ShetiphianCore
+- MineColonies
+- Moonlight Lib
+- Silent Gear
+- Simple Storage Network
+- SuperMartijn642's Config Lib
+- Supplementaries
+- TerraBlender
+- U Team Core
+- Waystones
+- ZeroCore 2
+
+### Removed
+
+- Flywheel (Apperantly 0.6.9 was included in Create or something???)
+- Bluemap (Temporarily)
+
+---
+
 ## 3.1.1
 
 ### Updated
@@ -398,7 +472,6 @@ Dynmap have been temporarily removed due to crashes.
 - Tinkers Construct
 - Tiny Gates
 - Titanium
-
 
 ---
 

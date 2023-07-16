@@ -1,13 +1,13 @@
 name = "Realistic Horse Genetics"
-filename = "horse_colors-1.19.2-11.2.jar"
+filename = "horse_colors-1.19.2-11.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6ee022376c87d758fdb154ea7e42a04e720305a7"
+hash = "2b99800c0d94fbd8b4ffdd3eeb3041a3a4d0af02"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4434559
+file-id = 4599745
 project-id = 339184
