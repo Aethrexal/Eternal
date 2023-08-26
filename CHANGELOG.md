@@ -1,5 +1,58 @@
 # Changelog
 
+## 3.1.3
+
+### Added
+
+- Cupboard
+
+### Updated
+
+- Forge
+
+- JourneyMap Integration
+- Advanced Periperals
+- Extreme Reactors
+- MCA Reborn
+- Domum Ornamentum
+- Connectivity
+- Structurize
+- Applied Energistics 2
+- Fusion (Connected Textures)
+- Ballistix
+- ZeroCore 2
+- MineColonies
+
+- Naturalist
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Emojiful
+- Jade
+- SuperMartijn642's Config Lib
+- Quark
+- PneumaticCraft: Repressurized
+- Pipez
+
+- JEI
+- MrCrayfish's Gun Mod
+- Placebo
+- FTB Chunks
+- Macaw's Roofs
+- Macaw's Doors
+- Cyclops Core
+- Moonlight Lib
+- Engineer's Decor
+- Re-chiseled
+- Create Crafts & Additions
+- FTB Library
+- Diagonal Fences
+- Effortless Building
+. Mod Name Tooltip
+- Framework
+- Macaw's Bridges
+
+---
+
 ## 3.1.2
 
 ### Added
