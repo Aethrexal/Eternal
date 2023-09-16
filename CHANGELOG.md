@@ -1,5 +1,37 @@
 # Changelog
 
+## 3.2.0
+
+### Added
+
+- Doggy Talents Next
+- Modular Force Field Systems (MFFS)
+- Dramatic Skys (Resource Pack)
+
+### Removed
+
+- Doggy Talents 2
+
+### Updated
+
+- Nosiphus Furniture Mod
+- RFTools Utility
+- BlockUI
+- MCA Reborn
+- Fomum Ornamentum
+- Cooking for Blockheads
+- Cyclops Core
+- Chisel & Bits
+- Cupboard
+- Macaw's Windows
+- Moving Elevators
+- MineColonies
+- Applied Energistics 2
+- Balm
+- Rechiseled
+
+---
+
 ## 3.1.3
 
 ### Added

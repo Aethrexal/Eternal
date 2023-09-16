@@ -1,0 +1,13 @@
+name = "Dramatic Skys"
+filename = "Dramatic Skys Demo 1.5.3.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2704c1e131c9990c67335311e8211d47bcda4f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4732887
+project-id = 231821
