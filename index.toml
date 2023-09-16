@@ -944,8 +944,3 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "4740df6a935f9109871109a74dc58a004d399931d6ebe3eca44f1c1f08314e8d"
 metafile = true
-
-[[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "db8ba67cdbbdc4b24e92dd7055c3e922f8e520c51dc00fb5918ffef3a3495442"
-metafile = true

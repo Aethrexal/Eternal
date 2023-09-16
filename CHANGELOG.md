@@ -6,7 +6,6 @@
 
 - Doggy Talents Next
 - Modular Force Field Systems (MFFS)
-- Dramatic Skys (Resource Pack)
 
 ### Removed
 
