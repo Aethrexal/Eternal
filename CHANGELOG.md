@@ -1,5 +1,47 @@
 # Changelog
 
+## 3.3.0
+
+### Added
+
+- Oh The Biomes You'll Go
+- CorgiLib
+- WATERMeDIA API
+- WATERFrAMES: Online Little Picture and Video Frame
+- Ultreon Devices Mod
+- Sound Physics Remastered
+- Project Arsenal
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Trees
+- Pam's HarvestCraft 2 - Food Extended
+- Pam's HarvestCraft 2 - Crops
+
+### Removed
+
+- Effortless Building
+- Biomes O Plenty
+- Serene Seasons
+- Yungs API
+- Yungs Better Strongholds
+- Modern Online Picture Frames
+- Croptopia
+
+### Updated
+
+- Placebo
+- Rubidium
+- BlockCarpentry
+- Create Crafts & Additions
+- Doggy Talents Next
+- Create
+- Moonlight Lib
+- MineColonies
+- Collective
+- Connectivity
+- ShetiPhianCore
+
+---
+
 ## 3.2.0
 
 ### Added
