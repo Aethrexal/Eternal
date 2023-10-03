@@ -1,5 +1,32 @@
 # Changelog
 
+## 3.4.0
+
+### Updated
+
+- Structurize
+- Immersive Engineering
+- PneumaticCraft
+- Fusion (Connected Textures)
+- BlockCarpentry
+- SuperMartijn642's Core Lib
+- Create Crafts & Additions
+- MineColonies
+- Pipez
+- Moving Elevators
+- Domum Ornamentum
+
+### Removed
+
+- Emojiful
+- Ballistix
+- Blastcraft Mod
+- Electrodynamics
+- Nuclear Science
+- Sound Physics Remastered
+
+---
+
 ## 3.3.0
 
 ### Added

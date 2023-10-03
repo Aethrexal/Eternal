@@ -22,7 +22,7 @@ hash = "b457b01e51a74e1cb727e9269add3b0767fc9125365b44aacade5c3ce0103c3d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "40be55f7f15a537acd3561f3a301ad6e43df06507cc07c19b4010dfc6773e60a"
+hash = "3fd35401362753bb49deffa2f2352c83a2cf00d9eef85cca8241d50e2f123a39"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -141,10 +141,6 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "c68d5975b489e1c5421241137ce1b2ac534141874289e34d226935e985b938dd"
 
 [[files]]
-file = "defaultconfigs/sereneseasons-server.toml"
-hash = "45e9777d210fdc54fe445d35bd825d366daad559bef1cf4a5a902e497d2dc0b2"
-
-[[files]]
 file = "journeymap/config/5.8/journeymap.core.config"
 hash = "d3de96776bb9406516632134f09f7b8c9600659e8ab91bb526606cc82248a7e9"
 
@@ -206,11 +202,6 @@ hash = "46a52103b23051669421d42a5ce5355180bd1668dc78de38fec3180b784c7a94"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.pw.toml"
-hash = "8d7b8b162d69f4f971d957cb3fe97703f4ca011b90c56af2b14f85588735fe73"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -221,13 +212,8 @@ hash = "d6e632815eec579cf9763057f706a5a4eae2dd9237601e63b4c32bc57ac90338"
 metafile = true
 
 [[files]]
-file = "mods/blast-craft.pw.toml"
-hash = "8f56101100e23c88dcba69c36309664137d1575a836b01fd233d05a4fb096b69"
-metafile = true
-
-[[files]]
 file = "mods/blockcarpentry.pw.toml"
-hash = "19ba1dc8ce77dbb8d57684740674c90f0ac7b53461d2435aa8105dc91ae3f2ed"
+hash = "0b725547e58f82889723517f1a158c0e87e372039cf413ce2b4e5b1387e9db9a"
 metafile = true
 
 [[files]]
@@ -307,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "6b70366880260e606315d74bf82e2b2584d6d1496ff4454c888e657752becfdf"
+hash = "0c96d11ee0a334fc444a623848602afd153a2180aeac80b8f0ed01ca72ba7c0b"
 metafile = true
 
 [[files]]
@@ -357,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "c76d79e622de4a780e345544699df2bcfa76f79841168df33538ef2634cb6285"
+hash = "fa9b9c775a31c3ef6114c665e34c0f7915b136d75662b129dd5d0e949fc95b30"
 metafile = true
 
 [[files]]
@@ -378,16 +364,6 @@ metafile = true
 [[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "2a9ccea97c46fef2226ea8da4c29fc443f0def25d2357818f29c44318fb6fe20"
-metafile = true
-
-[[files]]
-file = "mods/emojiful.pw.toml"
-hash = "c08f81495082de292a4f57222b2e6ac3fa43f377b095dd4715b4750ead8bc2aa"
 metafile = true
 
 [[files]]
@@ -447,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "88e045faea55f9b5f6912b1f8cf0364d44b16b018efbe5fc01d6d336eeec6926"
+hash = "abaa3522f66b2d3e3ac81fea6af1331f4fd4bab7dce3400925b87070d4ddb6a1"
 metafile = true
 
 [[files]]
@@ -477,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+hash = "61b17065b73cdefcbdc21a3101b9bbff8896df219ae7ad12027c700728c6a2a9"
 metafile = true
 
 [[files]]
@@ -602,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bad3bedeb36eb08a25416604b37459184547e873d7f8231bade379bb2ef74735"
+hash = "36d335b85bb1bf56e217a62b232c9e099fa9f5348f7501ad12f9d073a26826ea"
 metafile = true
 
 [[files]]
@@ -622,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "68c46db5bb83ff8b9109d83003846caff5f87afdf561fff0c53aac1726f09296"
+hash = "650385d7032bd9b1ad56af566df538764ccda5593b1553b171c7ea688d9598e7"
 metafile = true
 
 [[files]]
@@ -663,11 +639,6 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "089f5280788841701a28beeb7a023296e5c194f182adca2a49baf97daea3a5c3"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "0564e622a87505e98faf414f00e90f75b9dc4e1e2c2932141d2b7be4d8cb37f0"
 metafile = true
 
 [[files]]
@@ -712,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipez.pw.toml"
-hash = "b68190074b9579aafae1526cd94f7eefaf21261909c493315b0a4ffaf9558a50"
+hash = "c50dac36745f403e2f7f37e619cad7b5b95b1cf3d8e290f5a1dcacceb50ad6dd"
 metafile = true
 
 [[files]]
@@ -722,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "359a96da3a9632c859870fc7c7309eff6e7fef72082da3e4d0fc3cb111f77634"
+hash = "4dc80e749611a80cdf0b21e9ac1d10ea438dd47a70d2bc050ca64b2c7c4bd964"
 metafile = true
 
 [[files]]
@@ -856,18 +827,13 @@ hash = "ea9c81ef618e5b7189dafd23aae5fd615348486261111697be25023df5f6fdb5"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "c5b4972680c5574e481f3f0702feb50fe165e7fe170c8c0f7f370e5a72ad9167"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "99d9554fc027d88ac5cbb5665ce4389d26e397dfdc29518a11ca58b51efb7e1e"
+hash = "bddd0414009640e6761210ee2590b08b1398feb04c318abb9aa96c3f3eaf2ddb"
 metafile = true
 
 [[files]]
@@ -877,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "989bbedf5e83064ae906b3ae61e1f5ed937bbcaa7cbf0f0053187b7cedf742e4"
+hash = "d953d141974b63c040c40626033c35a714a8d4cf3a1a9869405a7215ff5801e5"
 metafile = true
 
 [[files]]
@@ -942,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d3b1581fc4eb333679483578f7d6745f627848a162de5ac04b6270b2f5d97ab3"
+hash = "a760266c095a463c262268c1c19acb8c836382641a4d96a70ecaa0024af7f4a0"
 metafile = true
 
 [[files]]

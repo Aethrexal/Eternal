@@ -1,13 +1,13 @@
 name = "BlockCarpentry"
-filename = "blockcarpentry-1.19.2-0.2.0.1.jar"
+filename = "blockcarpentry-1.19.2-0.3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de6872afed0673786b69a657686455070e6bf6a4"
+hash = "48916595f015ac5bcad15c01f73f5e7f4d8a8553"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4762046
+file-id = 4779317
 project-id = 401658
