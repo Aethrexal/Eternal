@@ -1,5 +1,51 @@
 # Changelog
 
+## 3.5.0
+
+### Updated
+
+- Doggy Talents Next
+- RFTools Dimensions
+- Domum Ornamentum
+- Comforts
+- Pipez
+- Jade
+- Falling Tree
+- Create
+- Cupboard
+
+- Collective
+- BlockCarpentry
+- Polymorph
+- Curios API
+- Camera Mod
+- Naturalist
+- Rechiseled
+
+- BlockUI
+- Cyclops Core
+- Moonlight Lib
+- SuperMartijn642 Core Lib
+- MCA Reborn
+- Quark
+- Oh The Biomes You'll Go
+- PneumaticCraft Repressurized
+- MineColonies
+- WaterFrAMES
+- Advanced Peripherals
+- Supplementaries
+
+### Added
+
+- Memory Leak Fix
+- Enchanting Infuser
+
+### Removed
+
+- Ultreon Devices Mod
+
+---
+
 ## 3.4.0
 
 ### Updated
