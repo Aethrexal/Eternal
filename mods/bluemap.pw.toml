@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "BlueMap-3.13-forge-1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e52149deab9dbaa3da499624c9bac300f5b88561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4474500
+project-id = 406463

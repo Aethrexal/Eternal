@@ -1,5 +1,31 @@
 # Changelog
 
+## 3.5.1
+
+### Updated
+
+- MineColonies
+- BlockCarpentry
+- Naturalist
+- Moonlight Lib
+- RFTools Dimensions
+- Supplementaries
+- Collective
+- Oh The Biomes You'll Go
+
+### Added
+
+- Caelus API
+- BlueMap
+
+### Changed
+
+- Mekanism
+  - Tin Enabled
+  - Lead Enabled
+
+---
+
 ## 3.5.0
 
 ### Updated
