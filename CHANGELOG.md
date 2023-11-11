@@ -1,5 +1,31 @@
 # Changelog
 
+## 3.5.2
+
+### Updated
+
+- BlockUI
+- MineColonies
+- Supplementaries
+- ShetiPhianCore
+- Collective
+- Fusion
+
+### Added
+
+- FramedBlocks
+
+### Removed
+
+- BlockCarpentry
+- Memory Leak Fix
+- Nekorations
+- Pipez
+- Engineers Decor
+- Gauges and Switches
+
+---
+
 ## 3.5.1
 
 ### Updated
