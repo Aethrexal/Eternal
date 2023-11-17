@@ -1,5 +1,39 @@
 # Changelog
 
+## 3.5.3
+
+### Updated
+
+- BlockUI
+- PneumaticCraft: Repressurized
+- MineColonies
+- Rechiseled
+- Collective
+- Moving Elevators
+- Doggy Talents Next
+- Advanced Peripherals
+- Fusion
+
+### Added
+
+- Identity
+- Chunk Sending
+- Saturn
+- Better chunk loading
+
+### Changed
+
+- Mekanism
+  - `allowChunkloading` changed to `true`
+- Mekanism Additions
+  - Turned off all baby monsters (Enderman, skeleton, creeper, wither skeleton, strays)
+- Identity
+  - Kill to get the identity changed to `true`
+  - Killing `50` of one mob will unlock it's identity allowing to change to it
+    - `100` for Wither, Ender Dragon and Elder Guardian
+
+---
+
 ## 3.5.2
 
 ### Updated
