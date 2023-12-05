@@ -41,7 +41,7 @@ At times it might be needed for you to manually update the Forge version when th
 3. Select "Version"
 4. Select "Forge" in the list
 5. Click "Change version" on the right side
-6. Select "43.2.19"
+6. Select "43.3.5"
 7. Click "OK" then "Close"
 8. Done
 

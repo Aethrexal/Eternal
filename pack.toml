@@ -1,15 +1,15 @@
 name = "Eternal"
 author = "Rinnray"
-version = "3.5.3"
+version = "3.5.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca55fb192b50f7426d06f687223da6043b7fdadd96134f7296e8a59d8f800ffe"
+hash = "bb514431b54436f6a426ddd1c1d61967a291c912f61416fbbd6617d390b0aa4c"
 
 [versions]
-forge = "43.2.21"
+forge = "43.3.5"
 minecraft = "1.19.2"
 
 [options]

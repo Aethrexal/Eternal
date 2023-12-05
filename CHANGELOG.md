@@ -1,5 +1,32 @@
 # Changelog
 
+## 3.5.4
+
+### Updated
+
+- Forge
+
+- Cyclops Core
+- BlockUI
+- Chunk Sending
+- PneumaticCraft: Repressurized
+- Doggy Talents Next
+- Fusion
+- Curios API
+- SuperMartijn642's Core Lib
+- MineColonies
+- Create Crafts & Additions
+- WATERFrAMES
+- Placebo
+- WATERMeDIA
+- Not Enough Crashes
+- Jade
+- Supplementaries
+- Collective
+- GraveStone Mod
+
+---
+
 ## 3.5.3
 
 ### Updated

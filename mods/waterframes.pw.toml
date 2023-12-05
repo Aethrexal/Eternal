@@ -1,13 +1,13 @@
 name = "WATERFrAMES: Online Picture and Video Frame"
-filename = "waterframes-1.19.2-1.3.1e.jar"
+filename = "waterframes-1.19.2-2.0.0-beta5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1b2f83e6e21587f755106799768f6fa79b014f5c"
+hash = "966f5dbec8d1db14d49bc30a637fe3021270dd17"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4620640
+file-id = 4904487
 project-id = 834607
