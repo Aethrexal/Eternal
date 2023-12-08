@@ -1,5 +1,20 @@
 # Changelog
 
+## 4.0.0
+
+### Updated
+
+- *Everything*
+
+### Removed
+
+- Quark
+- AutoRegLib
+- ConnectedTexturesMod
+- MrCrayfish's Gun Mod
+
+---
+
 ## 3.5.4
 
 ### Updated
