@@ -13,6 +13,14 @@
 - ConnectedTexturesMod
 - MrCrayfish's Gun Mod
 
+### IMPORTANT
+
+The game *will crash. But to fix that you're gonna have to do this:
+1. Select the modpack and press `Edit` on the right side.
+2. Go to the `Version` tab.
+3. Select `LWJGL 3` and click `Change Version` on the right.
+4. Select `3.3.2` (should be on the top) then OK and you're done.
+
 ---
 
 ## 3.5.4
