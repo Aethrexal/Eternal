@@ -89,35 +89,35 @@ file = "config/waystones-server.toml"
 hash = "94be9afad6365059c344ed63b752a4b0cf88d4bea23d1828db382266238426e0"
 
 [[files]]
-file = "defaultconfig/car-server.toml"
+file = "defaultconfigs/car-server.toml"
 hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
 
 [[files]]
-file = "defaultconfig/comforts-server.toml"
+file = "defaultconfigs/comforts-server.toml"
 hash = "406a27569ac8f908b12ea9bfe39138f55043189d9d2bbe93b0379bdaedf04e4d"
 
 [[files]]
-file = "defaultconfig/doggytalents-server.toml"
+file = "defaultconfigs/doggytalents-server.toml"
 hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
 
 [[files]]
-file = "defaultconfig/easier_sleeping-server.toml"
+file = "defaultconfigs/easier_sleeping-server.toml"
 hash = "899f4335a1d5a6e49d63e092b1875b3c335843d0db21922de041badc2de70f27"
 
 [[files]]
-file = "defaultconfig/ftbchunks-world.snbt"
+file = "defaultconfigs/ftbchunks-world.snbt"
 hash = "dc5fecbabefaac1c82a35540a57890b54918858e1042a14f3a666f6f84995f79"
 
 [[files]]
-file = "defaultconfig/gravestone-server.toml"
+file = "defaultconfigs/gravestone-server.toml"
 hash = "7ba7ba04a57cfeb639114f80d1da4996941750f4e14c9fa62491db8f8c37873e"
 
 [[files]]
-file = "defaultconfig/jei-server.toml"
+file = "defaultconfigs/jei-server.toml"
 hash = "c1ecc6198a24916f3ddbf76d8ac55083c63cd7db8e261f2890ffaac475ea39d1"
 
 [[files]]
-file = "defaultconfig/securitycraft-server.toml"
+file = "defaultconfigs/securitycraft-server.toml"
 hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
