@@ -1,5 +1,155 @@
 # Changelog
 
+## 4.0.0
+
+This new version rebuilds the entire modpack, making it less mods and more future proof.
+
+### Added
+
+- JEI
+- AppleSkin
+- Searchables
+- Iron Chests
+- Refined Storage
+- Cooking for Blockheads
+- Balm
+- Waystones
+- The Twilight Forest
+- FastWorkbench
+- Placebo
+- Toast Control
+
+- Flux Networks
+- KleeSlabs
+- NetherPortalFix
+- FastFurnace
+- Bad Wither No Cookie - Reloaded
+- Create
+- XNet
+- RFTools Base
+- McJtyLib
+- Comforts
+- Mod Name Tooltip
+
+- Macaw's Bridges
+- Extreme Reactors
+- ZeroCore 2
+- Polymorph
+- GraveStone Mod
+- Macaw's Doors
+- Jade
+- Macaw's Windows
+
+- Macaw's Roofs
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- Architectiry API
+- PneumaticCraft: Repressurized
+- Patchouli
+- CC: Tweaked
+- Security Craft
+- Macaw's Trapdoors
+- Macaw's Fences and Walls
+- AmbientSounds 5
+- CreativeCore
+- Construction Wand
+- Simply Light
+- RFTools Dimensions
+
+- Create Crafts & Additions
+- Better Compatibility Checker
+- FramedBlocks
+- Silent Gear
+- Silent Lib
+- Silent Gems
+- Chipped
+- Resourceful Lib
+- Athena
+- Legendary Tooltips
+- Iceberg
+- Prism
+
+- FallingTree
+- Macaw's Lights and Lamps
+- Extra Disks
+- Useful Backpacks
+- U Team Core
+- BlueMap
+- No Chat Reports
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Trees
+- Pam's HarvestCraft 2 - Food Extended
+
+- Naturalist
+- GeckoLib
+- Rubidium
+- Magnesium/Rubidium Extras
+- Magnesium/Rubidium Dynamic Lights
+- Handcrafted
+- Every Compat (Wood Good)
+- Moonlight Lib
+- Ultimate Car Mod
+- Global XP
+- Camera Mod
+- Diagonal Fences
+- Puzzles Lib
+- Lighting Wand
+- Kiwi
+- Model Gap Fix
+- Tiny Redstone
+- Tiny Gates
+
+- Supplementaries
+- Double Doors
+- Collective
+- Too Fast
+- Refined Cooking
+- SebastrnLib
+- MVS - Moog's Voyager Structures
+- Chunk Sending
+- Cupboard
+- Moving Elevators
+- SuperMartijn642's Core Lib
+- SuperMartijn642's Config Lib
+- Ping
+- More Red
+- Rechiseled
+
+- Mekanism
+- Mekanism Generators
+- Doggy Talents Next
+- Modular Force Field Systems
+- Realistic Horse Genetics
+- WaterFrAMES
+- WATERMeDIA
+- Simple Planes (Forge)
+- Light Level Overlay
+- Cloth config
+- Chat Heads
+
+- Easier Sleeping
+- Death Counter
+- Hole Filler Mod
+- Enchanting Infuser
+- Path Under Gates
+- Eternally Random
+
+### Notes
+
+- A better Mod list can be found [here](https://github.com/Rinnray/Eternal/blob/main/MODLIST.md)
+
+### IMPORTANT
+
+The game *will crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip like first install):
+1. Select the modpack and press `Edit` on the right side.
+2. Go to the `Version` tab.
+3. Select `LWJGL 3` and click `Change Version` on the right.
+4. Select `3.3.2` (should be on the top) then OK and you're done.
+
+---
+
 ## 3.5.4
 
 ### Updated

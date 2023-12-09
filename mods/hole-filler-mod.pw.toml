@@ -1,13 +1,13 @@
 name = "Hole Filler Mod"
-filename = "hole_filler_mod-1.2.7-mc_1.19.2-forge.jar"
+filename = "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2d39107f99ad3ed0b7b49fc48ac48bce6f36996"
+hash = "2fda72df9045fef4ba8c7ecbbbd1c04d473e2751"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4226424
+file-id = 4588152
 project-id = 440585
