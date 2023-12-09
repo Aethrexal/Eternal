@@ -142,7 +142,7 @@ This new version rebuilds the entire modpack, making it less mods and more futur
 
 ### IMPORTANT
 
-The game *will crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip like first install):
+The game *will* crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip like first install):
 1. Select the modpack and press `Edit` on the right side.
 2. Go to the `Version` tab.
 3. Select `LWJGL 3` and click `Change Version` on the right.

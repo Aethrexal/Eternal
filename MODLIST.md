@@ -61,7 +61,7 @@
   - Placebo
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [FTB Chunks (Forge)]
+- [ ] [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
   - Architectury API
   - FTB Library
   - FTB Teams
