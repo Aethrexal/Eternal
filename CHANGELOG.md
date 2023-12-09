@@ -2,20 +2,128 @@
 
 ## 4.0.0
 
-### Updated
+This new version rebuilds the entire modpack, making it less mods and more future proof.
 
-- *Everything*
+### Added
 
-### Removed
+- JEI
+- AppleSkin
+- Searchables
+- Iron Chests
+- Refined Storage
+- Cooking for Blockheads
+- Balm
+- Waystones
+- The Twilight Forest
+- FastWorkbench
+- Placebo
+- Toast Control
 
-- Quark
-- AutoRegLib
-- ConnectedTexturesMod
-- MrCrayfish's Gun Mod
+- Flux Networks
+- KleeSlabs
+- NetherPortalFix
+- FastFurnace
+- Bad Wither No Cookie - Reloaded
+- Create
+- XNet
+- RFTools Base
+- McJtyLib
+- Comforts
+- Mod Name Tooltip
+
+- Macaw's Bridges
+- Extreme Reactors
+- ZeroCore 2
+- Polymorph
+- GraveStone Mod
+- Macaw's Doors
+- Jade
+- Macaw's Windows
+
+- Macaw's Roofs
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- Architectiry API
+- PneumaticCraft: Repressurized
+- Patchouli
+- CC: Tweaked
+- Security Craft
+- Macaw's Trapdoors
+- Macaw's Fences and Walls
+- AmbientSounds 5
+- CreativeCore
+- Construction Wand
+- Simply Light
+- RFTools Dimensions
+
+- Create Crafts & Additions
+- Better Compatibility Checker
+- FramedBlocks
+- Silent Gear
+- Silent Lib
+- Silent Gems
+- Chipped
+- Resourceful Lib
+- Athena
+- Legendary Tooltips
+- Iceberg
+- Prism
+
+- FallingTree
+- Macaw's Lights and Lamps
+- Extra Disks
+- Useful Backpacks
+- U Team Core
+- BlueMap
+- No Chat Reports
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Trees
+- Pam's HarvestCraft 2 - Food Extended
+
+- Naturalist
+- GeckoLib
+- Rubidium
+- Magnesium/Rubidium Extras
+- Magnesium/Rubidium Dynamic Lights
+- Handcrafted
+- Every Compat (Wood Good)
+- Moonlight Lib
+- Ultimate Car Mod
+- Global XP
+- Camera Mod
+- Diagonal Fences
+- Puzzles Lib
+- Lighting Wand
+- Kiwi
+- Model Gap Fix
+- Tiny Redstone
+- Tiny Gates
+
+### Changed
+
+- Cooking For Blockheads
+  - Counters have bigger spaces.
+- Waystones
+  - Made it cheaper.
+- Jade
+  - Hides securitycraft things.
+- GraveStone Mod
+  - Ghost spawns
+- FTB Chunks
+  - Always force load chunks.
+  - Long range tracker raised from 20 ticks to 60
+  - Max claimed chunks raised from 500 to 50000
+  - Max chunk loaded chunks raised from 25 to 4000
+  - chunk loaded chunks stop being loaded after 182 days (6 months) of no one on the team being online.
+  - Each team can decide if PVP is allowed or not in the claim.
+- securitycraft
+  - Disabled thanks message
 
 ### IMPORTANT
 
-The game *will crash. But to fix that you're gonna have to do this:
+The game *will crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip):
 1. Select the modpack and press `Edit` on the right side.
 2. Go to the `Version` tab.
 3. Select `LWJGL 3` and click `Change Version` on the right.
