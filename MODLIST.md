@@ -14,9 +14,14 @@
 # C
 - [ ] [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
 - [ ] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
   - Resourceful Lib
   - Athena
+- [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+  - Cupboard
+- [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
+- [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
@@ -26,12 +31,20 @@
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 
 # D
+- [ ] [Death Counter (Forge)](https://www.curseforge.com/minecraft/mc-mods/death-counter)
 - [ ] [Diagonal Fences [Foge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
   - Puzzles Lib
+- [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
+  - Collective
 
 # E
+- [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+- [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
+  - Puzzles Lib
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
 - [ ] [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
@@ -56,6 +69,7 @@
 - [ ] [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
   - FTB Library
   - Architectury API
+- [ ] [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
 # G
 - [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
@@ -64,6 +78,7 @@
 
 # H
 - [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
+- [ ] [Hole Filler Mod](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)
 
 # I
 - [ ] [Iceberg [Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg)
@@ -82,6 +97,9 @@
 - [ ] [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) **Client**
   - Prism
   - Iceberg
+- [ ] [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
+  - Cloth Config
+  - Architectury
 - [ ] [Lightning Wand 🌟 (Forge)](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)
   - Kiwi
 
@@ -98,7 +116,15 @@
 - [ ] [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [ ] [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) **Client**
 - [ ] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
+- [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
+- [ ] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - [ ] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
+- [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
+- [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
+  - SuperMartijn642's Core Lib
+  - SuperMartijn642's Config Lib
+- [ ] [MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
 
 # N
 - [ ] [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
@@ -113,6 +139,8 @@
 - [ ] [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 - [ ] [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 - [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
+- [ ] [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
@@ -121,6 +149,15 @@
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # R
+- [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
+- [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+  - SuperMartijn642's Core Lib
+  - SuperMartijn642's Config Lib
+  - Fusion (Connected Textures)
+- [ ] [Refined Cooking](https://www.curseforge.com/minecraft/mc-mods/refined-cooking)
+  - SebestrnLib
+  - Refined Storage
+  - Cooking for Blockheads
 - [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
 - [ ] [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
@@ -132,13 +169,19 @@
 
 # S
 - [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
+- [ ] [SebastrnLib](https://www.curseforge.com/minecraft/mc-mods/sebastrnlib)
 - [ ] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 - [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
   - Silent Lib
 - [ ] [Silent Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
   - Silent Lib
 - [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+- [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+- [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+- [ ] [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+  - Moonlight Lib
 
 # T
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
@@ -146,6 +189,7 @@
 - [ ] [Tiny Redstone](https://www.curseforge.com/minecraft/mc-mods/tiny-redstone)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
   - Placebo
+- [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
 
 # U
 - [ ] [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
@@ -154,6 +198,10 @@
   - UTeamCore
 
 # W
+- [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
+  - WaterMeDIA
+  - CreativeCore
+- [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia) **Client**
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
   - Balm
 

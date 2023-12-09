@@ -1,0 +1,13 @@
+name = "Path Under Gates"
+filename = "pathundergates-1.20.1-1.0.1-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95b6065f4cbd0ea06972983050d117dceed2c85c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4848908
+project-id = 358580

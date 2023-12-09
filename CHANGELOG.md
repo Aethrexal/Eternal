@@ -101,29 +101,47 @@ This new version rebuilds the entire modpack, making it less mods and more futur
 - Tiny Redstone
 - Tiny Gates
 
-### Changed
+- Supplementaries
+- Double Doors
+- Collective
+- Too Fast
+- Refined Cooking
+- SebastrnLib
+- MVS - Moog's Voyager Structures
+- Chunk Sending
+- Cupboard
+- Moving Elevators
+- SuperMartijn642's Core Lib
+- SuperMartijn642's Config Lib
+- Ping
+- More Red
+- Rechiseled
 
-- Cooking For Blockheads
-  - Counters have bigger spaces.
-- Waystones
-  - Made it cheaper.
-- Jade
-  - Hides securitycraft things.
-- GraveStone Mod
-  - Ghost spawns
-- FTB Chunks
-  - Always force load chunks.
-  - Long range tracker raised from 20 ticks to 60
-  - Max claimed chunks raised from 500 to 50000
-  - Max chunk loaded chunks raised from 25 to 4000
-  - chunk loaded chunks stop being loaded after 182 days (6 months) of no one on the team being online.
-  - Each team can decide if PVP is allowed or not in the claim.
-- securitycraft
-  - Disabled thanks message
+- Mekanism
+- Mekanism Generators
+- Doggy Talents Next
+- Modular Force Field Systems
+- Realistic Horse Genetics
+- WaterFrAMES
+- WATERMeDIA
+- Simple Planes (Forge)
+- Light Level Overlay
+- Cloth config
+- Chat Heads
+
+- Easier Sleeping
+- Death Counter
+- Hole Filler Mod
+- Enchanting Infuser
+- Path Under Gates
+
+### Notes
+
+- A better Mod list can be found [here](https://github.com/Rinnray/Eternal/blob/main/MODLIST.md)
 
 ### IMPORTANT
 
-The game *will crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip):
+The game *will crash. But to fix that you're gonna have to do this (This is only if you're updating with your current pack. This wont be needed if you import the zip like first install):
 1. Select the modpack and press `Edit` on the right side.
 2. Go to the `Version` tab.
 3. Select `LWJGL 3` and click `Change Version` on the right.
