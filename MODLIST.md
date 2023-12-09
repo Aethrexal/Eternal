@@ -19,7 +19,7 @@
   - Athena
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
-- [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client*
+- [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
   - Searchables
 - [ ] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
   - Balm
