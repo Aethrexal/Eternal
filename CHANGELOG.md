@@ -134,6 +134,7 @@ This new version rebuilds the entire modpack, making it less mods and more futur
 - Hole Filler Mod
 - Enchanting Infuser
 - Path Under Gates
+- Eternally Random
 
 ### Notes
 

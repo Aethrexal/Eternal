@@ -271,6 +271,10 @@ hash = "e3c9544d6589c071b2876a0a7a440dbdbe3433b28a3fa823591b28cb056784ba"
 metafile = true
 
 [[files]]
+file = "mods/eternally-random.jar"
+hash = "1a4467b3f078c902641cb9656c881d8a870ce110efef594782ed975529495080"
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true

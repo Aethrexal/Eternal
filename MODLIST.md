@@ -45,6 +45,7 @@
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
+- [ ] [Eternally Random](https://github.com/Rinnray/Eternal/blob/main/mods/eternally-random.jar)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
 - [ ] [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
