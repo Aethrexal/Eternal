@@ -29,6 +29,10 @@ file = "config/camera-client.toml"
 hash = "e8d4f1b10f91e82dc78ba84df4f215759a56178b7a6d3835855c44efc6bb35e6"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "9f7c049f8cc673c909ceb3c64d928f32105829661db675f52d786fb80ba99bec"
+
+[[files]]
 file = "config/cookingforblockheads-common.toml"
 hash = "f3cd73ca2257d506dc261ca469b5fc3d04a6a245357f8269833da16783803b0d"
 
