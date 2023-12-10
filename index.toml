@@ -125,6 +125,10 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "b1bf3b1901bf6b8a3edee39f35636d641ef2c88112b6cbede7a36457f954b0f3"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "70fd91c9029d4344e0dfb27de1b02095ff185f3cca49d29d28c65e35d61642db"
 metafile = true
