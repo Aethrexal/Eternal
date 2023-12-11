@@ -143,6 +143,7 @@
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
   - Balm
 - [ ] [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
 # P
 - [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)

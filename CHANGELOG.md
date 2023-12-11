@@ -17,6 +17,7 @@
 - Vampirism - Become a vampire!
 - Vampires Need Umbrellas
 - Guide-API Village and Pillage
+- Not Enough Crashes
 
 ### Removed
 
