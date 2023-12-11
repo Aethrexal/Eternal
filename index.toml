@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bb4dfc5b7b2da83fbe510a834cbb8df064ce1c2cb3188ce6added3d0d4bcc7ef"
+hash = "e4436ec6f7751ad214cd24d8b837cfd0b761a0e87dc33f44c01af63ad6361f7c"
 
 [[files]]
 file = "config/bluemap/core.conf"
