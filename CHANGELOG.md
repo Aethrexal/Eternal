@@ -1,5 +1,44 @@
 # Changelog
 
+## 4.1.0
+
+### Added
+
+- Immersive Engineering
+- Beautify
+- Star Worm Equestrian
+- Player Animator
+
+### Removed
+
+- Realistic Horse Genetics
+
+### Updated
+
+- Balm
+- Waystones
+- Collective
+- Supplementaries
+
+### Notes
+
+I'm replacing Forge with NeoForge to give that a try how well the compatibility is between the mods.
+It *should* be a 1:1, but we'll see.
+
+The biggest reason for the change is because pretty much all Developers from Forge have moved over to NeoForge due to the owner being very toxic. You can read more [ħere](https://neoforged.net/news/theproject/) if you're really curious.
+
+There's no auto update to move you to it, so there's a few things you need to do.
+1. Select the modpack and click `Edit`
+2. Go to `Verion`
+3. Select `Forge` and press `Remove` on the right.
+4. Click `Install Loader`
+5. In the list that appears, select `NeoForge` then `47.1.81`
+6. Click `OK` and you're done!
+
+Alternatively you can remove the intance you have and completely re-install it all.
+
+---
+
 ## 4.0.0
 
 This new version rebuilds the entire modpack, making it less mods and more future proof.

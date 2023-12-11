@@ -8,6 +8,7 @@
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
+- [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
 
@@ -83,6 +84,7 @@
 
 # I
 - [ ] [Iceberg [Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg)
+- [ ] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
 # J
@@ -143,6 +145,7 @@
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
 - [ ] [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
+- [ ] [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -150,7 +153,6 @@
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # R
-- [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
   - SuperMartijn642's Core Lib
   - SuperMartijn642's Config Lib
@@ -179,6 +181,9 @@
 - [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [ ] [Star Worm Equestrian (Upgraded Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
+  - GeckoLib
+  - playerAnimator
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [ ] [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)

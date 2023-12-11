@@ -155,7 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
+hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
+metafile = true
+
+[[files]]
+file = "mods/beautify-decorate.pw.toml"
+hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
 metafile = true
 
 [[files]]
@@ -200,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "32748d18f5c5e0c4be621ccc2144b56aa195102238ae00c628c92a30345fd0ef"
+hash = "95705b43bddd004df85e38b6c56d82e26f865004ae111a8b31c8c0e2bdfe9219"
 metafile = true
 
 [[files]]
@@ -370,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "1c168eacefb723ce76468fd111acf67339157c721d5b92835c8d5a6ca69e4980"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "2f642ad048cb3ba04ffede51488ca1d403bb4a1d7fcd651a48d31d9c162234f5"
 metafile = true
 
 [[files]]
@@ -553,6 +563,11 @@ hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "2931165803710c1bc721cfbc49c43a5ef2214038c39a39c8538e4cfecf6fc05c"
 metafile = true
@@ -570,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8a72bad048457c616c690838c8d2f6f958c3a3f5cbc843f38e6e2eaa0d043c7b"
-metafile = true
-
-[[files]]
-file = "mods/realistic-horse-genetics.pw.toml"
-hash = "21069e44a41383df98f761aa48a05ff05674e794c1ce783850637b2ecd16a4c3"
 metafile = true
 
 [[files]]
@@ -669,7 +679,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a811b5e51d1b4d014e19c81549a79894213ef2f2f0e34229de5c93b66a5c7c09"
+hash = "f2056d5d5123aac5e5dbe9f98c83771fb0d2c766471dd31778496af6ecb99376"
+metafile = true
+
+[[files]]
+file = "mods/swem.pw.toml"
+hash = "4a698a2553a074fba76d114a30b8456b51818ec47a437eb4ad5687a4ef716139"
 metafile = true
 
 [[files]]
@@ -724,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a054ff26321c786fde20256fc508164f502c2386ff8af805f44c2628a811d3bc"
+hash = "f6ee1f38a7b2e87a832440000c2dde2abda069aee60190f0cff0c20d287fa933"
 metafile = true
 
 [[files]]
