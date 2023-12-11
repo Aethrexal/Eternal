@@ -1,13 +1,13 @@
 name = "GeckoLib"
-filename = "geckolib-forge-1.20.1-4.3.1.jar"
+filename = "geckolib-neoforge-1.20.1-4.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "16e0db2c73c0365e33d21a62bc4d08d9e40518b2"
+hash = "e3db5ad25b4bf375b46defefe0be58739f17b57f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4933987
+file-id = 4933989
 project-id = 388172

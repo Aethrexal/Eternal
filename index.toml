@@ -9,6 +9,14 @@ file = "config/Mekanism/world.toml"
 hash = "26824471c3f653102269b1a4c383ce07ed3eb9b7e04eaa29082f4a322701c82e"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "5835be4d5bee0ae9facb229b74363db0eb188a2c09709f796de2b8e673e4dd01"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "bb4dfc5b7b2da83fbe510a834cbb8df064ce1c2cb3188ce6added3d0d4bcc7ef"
 
@@ -93,6 +101,10 @@ file = "config/waystones-server.toml"
 hash = "94be9afad6365059c344ed63b752a4b0cf88d4bea23d1828db382266238426e0"
 
 [[files]]
+file = "defaultconfigs/aether-server.toml"
+hash = "d52a0d4f8ad3bedf7ea8f5d908417b875d429ff2fe89deaaad95849e368fc93e"
+
+[[files]]
 file = "defaultconfigs/car-server.toml"
 hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
 
@@ -125,8 +137,26 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
+file = "defaultconfigs/vampirism-balance.toml"
+hash = "a81a9f8337c1a5c317953b6eeec17b0f384cd4e95dac9ac7ccceb16aadbb64e2"
+
+[[files]]
+file = "defaultconfigs/vampirism-server.toml"
+hash = "afadfffa1e387b618f068f748291c32bfb096e0ab98daa9f05be2553d38405be"
+
+[[files]]
 file = "local/ftbchunks/client-config.snbt"
 hash = "b1bf3b1901bf6b8a3edee39f35636d641ef2c88112b6cbede7a36457f954b0f3"
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "0774ed9d6e4f6eee35bb6d3005136a9cb9aaffdbfd00c03a9987b64444547a63"
+metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -145,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
+hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
 metafile = true
 
 [[files]]
@@ -159,13 +189,18 @@ hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-server.pw.toml"
+hash = "bd34586fae42386ffecad439451ffec474b6e966aafc2511b13655b362872d6c"
+metafile = true
+
+[[files]]
 file = "mods/beautify-decorate.pw.toml"
 hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
 metafile = true
 
 [[files]]
@@ -235,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "5c8433adf9386789acbb00abbbe7c6279979d7c9095ca2e2723e864fa105b986"
+hash = "c32ad54d7b3875f326808bf3cf5cae41a132711fe84afc7bd9ccf703f3ecbd79"
 metafile = true
 
 [[files]]
@@ -308,6 +343,11 @@ hash = "804a7c1ec9a2e63413e49c5c8cff0d038168470402876f9dd1f425d183701ff8"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "c7085f9b9d5c957864203242aefe1a66735aa4a491775dd811d25680b0d94dd8"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
 metafile = true
@@ -349,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+hash = "dc224b6f994ff0b4ec67d80f2eebcd72b8ca8dc2f4a88b562955e47f725ca631"
 metafile = true
 
 [[files]]
@@ -360,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
+metafile = true
+
+[[files]]
+file = "mods/guide-api-village-and-pillage.pw.toml"
+hash = "c15730bdd8e9e5b54d80f82d18d965370b2242e9da27b6188e13896810b7e49f"
 metafile = true
 
 [[files]]
@@ -523,6 +568,11 @@ hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
 metafile = true
@@ -549,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/path-under-gates.pw.toml"
-hash = "a80068693d8d8cca354c5318d5546b441ee75083f574a7fce291e69760158975"
+hash = "517d37a67c3f2e506be3d0b3474c5e309931506d8609487393788962b728e01f"
 metafile = true
 
 [[files]]
@@ -619,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "690af0d936a99482c342c15f17543deb3b0929e7c7a653c16594566b77c60520"
+hash = "b7d798b9bf037e171a2d5b58bb6eac5f298590541371479015702ec6a55c8caf"
 metafile = true
 
 [[files]]
@@ -668,13 +718,18 @@ hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "a04132fefaa3d62ff4f91795fafeaf347f2ad42b9d49106d06d2b0d783881cd7"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "63dc9da73f7b641a7f355ff2b1e3dacf6b16a4ece302759b1b27c79ce2f1ae2c"
+hash = "44a8b560a3d0072edc7362f20023145a22a3ecf6ad84fbc9a47f44008e14cf02"
 metafile = true
 
 [[files]]
@@ -725,6 +780,16 @@ metafile = true
 [[files]]
 file = "mods/useful-backpacks.pw.toml"
 hash = "fbb5b70c175a9ce820b6c5b0c730b66835f96dbbb1f5fdb8eede33e69e36240b"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "2905c695fcea5c12cd5bef42a2385fc55d67e0c62e99badc916e8c65f86b5fe6"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.pw.toml"
+hash = "99872ddaf14871cdc7cedfc9eda9ea36a8d64366492442e39e394cf0ce000c4c"
 metafile = true
 
 [[files]]

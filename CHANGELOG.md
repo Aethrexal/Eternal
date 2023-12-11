@@ -9,6 +9,15 @@
 - Star Worm Equestrian
 - Player Animator
 
+- Beautified Chat [Server]
+- The Aether
+- Ather: Lost Content Addon
+- Structure Gel API
+- FarSight ***Optional***
+- Vampirism - Become a vampire!
+- Vampires Need Umbrellas
+- Guide-API Village and Pillage
+
 ### Removed
 
 - Realistic Horse Genetics
@@ -19,6 +28,13 @@
 - Waystones
 - Collective
 - Supplementaries
+- Rubidium
+- Athena
+- Path Under Gates
+- GeckoLib
+- Create Crafts & Additions
+- SuperMartijn642's Core Lib
+- Better Compatibility Checker
 
 ### Notes
 

@@ -1,0 +1,13 @@
+name = "Vampirism - Become a vampire!"
+filename = "Vampirism-1.20.1-1.10.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87e66434519e930251c0498443bdaf01122d4376"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4929537
+project-id = 233029

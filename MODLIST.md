@@ -1,4 +1,7 @@
 # A
+- [ ] [Aether: Lost Content Addon](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content)
+  - The Aether
+  - Structure Gel API
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
@@ -8,6 +11,8 @@
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
+- [ ] [Beautified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+  - Collective
 - [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
@@ -56,6 +61,8 @@
 
 # F
 - [ ] [FallingTree (Forge&Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
+- [ ] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client** ***Optional***
+  - Cupboard
 - [ ] [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
   - Placebo
 - [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
@@ -77,6 +84,7 @@
 - [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [ ] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [ ] [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
 
 # H
 - [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
@@ -184,12 +192,14 @@
 - [ ] [Star Worm Equestrian (Upgraded Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
   - GeckoLib
   - playerAnimator
+- [ ] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [ ] [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
   - Moonlight Lib
 
 # T
+- [ ] [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Tiny Gates](https://www.curseforge.com/minecraft/mc-mods/tiny-gates)
 - [ ] [Tiny Redstone](https://www.curseforge.com/minecraft/mc-mods/tiny-redstone)
@@ -202,6 +212,11 @@
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 - [ ] [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
   - UTeamCore
+
+# V
+- [ ] [Vampires Need Umbrellas](https://www.curseforge.com/minecraft/mc-mods/vampires-need-umbrellas)
+- [ ] [Vampirism - Become a vampire!](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
+  - Guide-API Village and Pillage
 
 # W
 - [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
