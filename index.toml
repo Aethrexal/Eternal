@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e4436ec6f7751ad214cd24d8b837cfd0b761a0e87dc33f44c01af63ad6361f7c"
+hash = "3482fb85176b18754a773e27a1456f8af3a3e7b22f70eb2d9f6d0eb49db1b267"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -39,6 +39,14 @@ hash = "e8d4f1b10f91e82dc78ba84df4f215759a56178b7a6d3835855c44efc6bb35e6"
 [[files]]
 file = "config/chat_heads.json5"
 hash = "9f7c049f8cc673c909ceb3c64d928f32105829661db675f52d786fb80ba99bec"
+
+[[files]]
+file = "config/chunksending.json"
+hash = "0d68055aa3d892f0caae456a9094d9ae31482e363ab742511c817320f990b585"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "a843332770a74899f7304b7fbb4dbc46f86dac0b52033b5e7157a39b7ca6293d"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
@@ -205,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "c9a9ecf2529a0df67133f542381502f4766e9c3a1a1a5887a14cff94de39e5b9"
+hash = "d1be52050a66dae70ef02656da8729ebb321fdcf60bc23c3c5091467d5c9d88f"
 metafile = true
 
 [[files]]
@@ -240,12 +248,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "95705b43bddd004df85e38b6c56d82e26f865004ae111a8b31c8c0e2bdfe9219"
+hash = "b883eb886342d793d2e07e80ddcb560654bf77114254371414b4557b856ba3b9"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "0cdd209cbf66b8929f8250f520e2bcf94056f57c82921444875265fb9db1f64f"
 metafile = true
 
 [[files]]
@@ -275,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "78ee9f1fb8dcb8859c3f6d91877016d23b80af893f1ccac7b859c3997a2ee91a"
+hash = "65e7d5e06e61f1943b15769c3d049e24abd6528aae6e3b2970d5bff804a098a5"
 metafile = true
 
 [[files]]
@@ -419,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "1c168eacefb723ce76468fd111acf67339157c721d5b92835c8d5a6ca69e4980"
+hash = "773e4e7825809bcbd41b5eac2406b9430623402b859f38a7fdf1b2b62535df69"
 metafile = true
 
 [[files]]
@@ -669,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "b7d798b9bf037e171a2d5b58bb6eac5f298590541371479015702ec6a55c8caf"
+hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
 metafile = true
 
 [[files]]
@@ -734,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f2056d5d5123aac5e5dbe9f98c83771fb0d2c766471dd31778496af6ecb99376"
+hash = "a6462d01e777dc4619bc572e1b876d94cd0ac64bd54f4e70db5423ce486030dc"
 metafile = true
 
 [[files]]
@@ -789,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "99872ddaf14871cdc7cedfc9eda9ea36a8d64366492442e39e394cf0ce000c4c"
+hash = "6f6705d459e42f5df42f041062f15ee8a587ea072f8651536843c8e7369a58fe"
 metafile = true
 
 [[files]]
@@ -799,12 +812,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "bcc749af8e260b1d67ca51ca8ccda89e7d095807f641b1d066483989a49e244e"
+hash = "d746d85b822074b868d4674b026a474834db1c44dec17bbe9f147633d61c375b"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "f6ee1f38a7b2e87a832440000c2dde2abda069aee60190f0cff0c20d287fa933"
+hash = "7c25691be35717d1bd5895c65ba0694e5e7be828f533a3b216ea75d168461e1e"
 metafile = true
 
 [[files]]

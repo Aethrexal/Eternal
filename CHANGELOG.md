@@ -1,5 +1,25 @@
 # Changelog
 
+## 4.1.1
+
+### Added
+
+- Connectivity
+
+### Updated
+
+- Collective
+- Supplementaries
+- Waystones
+- BlueMap
+- CreativeCore
+- Rubidium
+- Iceberg
+- Vampirism
+- WATERMeDIA
+
+---
+
 ## 4.1.0
 
 ### Added

@@ -29,6 +29,8 @@
 - [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [ ] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+  - Cupboard
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
   - Searchables
