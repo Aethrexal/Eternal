@@ -48,6 +48,6 @@ At times it might be needed for you to manually update the NeoForge version when
 None of the mods are hosted in this repo, the packwiz-installer that comes with the zip file that you download, downloads all the mods from Curseforge or Modrinth when you launch the modpack.
 But anyway; I do not take credit for any of the mods in this modpack.
 
-The only exception to the note above is [Eternally Random](https://github.com/Rinnray/Eternal/blob/main/mods/eternally-random.jar) which is my own little mod, at this moment there's no other place it's at.
+The only exception to the note above is **Eternally Random** which is my own little mod. It can be found on [Modrinth](https://modrinth.com/mod/eternally-random) and [CurseForge](https://curseforge.com/minecraft/mc-mods/eternally-random).
 
 [Packwiz](https://github.com/comp500/packwiz) was used to generate these files.

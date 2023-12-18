@@ -1,0 +1,13 @@
+name = "Eternally Random"
+filename = "eternally_random-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acbfb9b70099568b349481e0669fc7ccb75a85e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4957588
+project-id = 809059

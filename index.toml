@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3482fb85176b18754a773e27a1456f8af3a3e7b22f70eb2d9f6d0eb49db1b267"
+hash = "a18ee22efb09ab6b6897d161af8a00a77912436889fd2200c03add0543c3ffc9"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautified-chat-server.pw.toml"
-hash = "bd34586fae42386ffecad439451ffec474b6e966aafc2511b13655b362872d6c"
+hash = "1a7ea10cfa382b21a86829fcf6269dfc87ecf6ef4b0e9280a2d8f15f3359f1da"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "51d9f484ad01db764d1e25cc53d18ccab4979c358f6e4e7be5f2e123af8daf30"
+hash = "ddf51a6366b222df8be2a8a0b2371ffcebf569cd5555b2b0efef5304932c6d35"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b883eb886342d793d2e07e80ddcb560654bf77114254371414b4557b856ba3b9"
+hash = "d577bb4d102720ed7a533b38463ef0cb9e5aaa5787057e2462061f510e6ea281"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "65e7d5e06e61f1943b15769c3d049e24abd6528aae6e3b2970d5bff804a098a5"
+hash = "2c4109c81b21af902fadf6bc88eb713318c36264f84dcdc8257e9bf7933910a0"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "c7ff19b335523c976f96892656bb02b893a7dc899f2f1c167d8e6e5cdd5d58d5"
+hash = "39d7c5ae22bc81add73399d5bf75b633018f9a24afccd3e9c0c108926892d117"
 metafile = true
 
 [[files]]
@@ -332,8 +332,9 @@ hash = "e3c9544d6589c071b2876a0a7a440dbdbe3433b28a3fa823591b28cb056784ba"
 metafile = true
 
 [[files]]
-file = "mods/eternally_random-1.0.0.jar"
-hash = "88a9e96416bf074892abee09b9336c77d24dffd31ad02c51e8ccd04724018d83"
+file = "mods/eternally-random.pw.toml"
+hash = "36f74ef64d006727a8998fad69003fbe421572febdb3ee206f81f7b480733ed3"
+metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
@@ -352,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "804a7c1ec9a2e63413e49c5c8cff0d038168470402876f9dd1f425d183701ff8"
+hash = "bb7a1558b439174e61c3feb208352285859c4e7200d25e076a167f8dd09d55b5"
 metafile = true
 
 [[files]]
@@ -447,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
+hash = "047b5098a60e23a78425c92d69643d5e43102d8e9c560736a6f2e63c4eca94bb"
 metafile = true
 
 [[files]]
@@ -512,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "083646e232d179cecce7bc7576153b5cef01e767f705a4cf8124b53346faebfd"
+hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
@@ -576,11 +577,6 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
@@ -607,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3ad9fc71b7dfc291072c61c95d9c774d721bec7cc5edcef1a341fd1d2321fc27"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
@@ -681,6 +677,11 @@ hash = "106915b156234bae7297a162886d7866d7b4308c05e8c90271d9cf412d1c54fd"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
 metafile = true
@@ -747,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a6462d01e777dc4619bc572e1b876d94cd0ac64bd54f4e70db5423ce486030dc"
+hash = "8f45e323165fdc533b0ca6ad86c186db38ce1a7752d864d8ae426560b51a99c5"
 metafile = true
 
 [[files]]
@@ -817,7 +818,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "7c25691be35717d1bd5895c65ba0694e5e7be828f533a3b216ea75d168461e1e"
+hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "e0ea5d0a15f9de5f7379688e32d56237fcc09dee102d085dddbd4eb780833bd5"
 metafile = true
 
 [[files]]

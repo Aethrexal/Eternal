@@ -53,7 +53,7 @@
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
-- [ ] [Eternally Random](https://github.com/Rinnray/Eternal/blob/main/mods/eternally-random.jar)
+- [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
 - [ ] [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
@@ -144,7 +144,6 @@
   - GeckoLib
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
   - Balm
-- [ ] [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
 # P
@@ -179,6 +178,7 @@
 - [ ] [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
   - McJtyLib
   - RFTools Base
+- [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
 - [ ] [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) **Client**
 
 # S
@@ -228,6 +228,8 @@
 - [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia) **Client**
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
   - Balm
+- [ ] [Werewolves - Become a Beast!](https://legacy.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
+  - Vampirism
 
 # X
 - [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)

@@ -1,5 +1,35 @@
 # Changelog
 
+## 4.2.0
+
+### Added
+
+- Werewolves - Become a Beast
+- RightClickHarvest
+
+### Removed
+
+- No Chat Reports
+
+### Updated
+
+- Macaw's Windows
+- Jade
+- Beautified Chat [Server]
+- FallingTree
+- Waystones
+- CC: Tweaked
+- CreativeCore
+- Patchouli
+- Collective
+- Supplementaries
+- Double Doors
+
+- Eternally Random
+  - Not really an update per say, it's just that I finally uploaded it to [Modrinth](https://modrinth.com/mod/eternally-random) and [CurseForge](https://curseforge.com/minecraft/mc-mods/eternally-random) and it's just gotten approved so, instead of having the actual jar file in the source, I'll now moved to use it like any other mod.
+
+---
+
 ## 4.1.1
 
 ### Added
