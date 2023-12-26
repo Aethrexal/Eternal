@@ -1,5 +1,36 @@
 # Changelog
 
+## 4.2.1
+
+### Updated
+
+- Doggy Talents Next
+- Resourceful Lib
+- Extra Disks
+- Moonlight Lib
+- Structure Gel API
+- Silent Gear
+- Cupboard
+- RFTools Dimensions
+- Every Compat (Wood Good)
+- Werewolves - Become a Beast!
+- Collective
+- CreativeCore
+- Vampirism
+- Cloth Config API
+- Jade
+- Supplementaries
+
+### Changed
+
+- SWEM
+  - Disabled Hunger
+
+- RightClickHarvest
+  - You no longer need a hoe to right click crops
+
+---
+
 ## 4.2.0
 
 ### Added

@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a18ee22efb09ab6b6897d161af8a00a77912436889fd2200c03add0543c3ffc9"
+hash = "46de3d8e5f1d48fc6ed79092e66450a7d8336a2f4e3f8a91cec6e2d36d8a01bc"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -145,6 +145,10 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
+file = "defaultconfigs/swem-server.toml"
+hash = "3ba781f611b00fb3d6db797b1305a4811b0d6b9d92b692bc6bfdc003d51f97f3"
+
+[[files]]
 file = "defaultconfigs/vampirism-balance.toml"
 hash = "a81a9f8337c1a5c317953b6eeec17b0f384cd4e95dac9ac7ccceb16aadbb64e2"
 
@@ -243,12 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3511932250e32f9c85c5fe483e19a471a5074e09f96079f63ffcb2a42228de00"
+hash = "cbf267a70305a13ff70ac8c649943937ce6a59ec708903e1265adf3b9b66a5a8"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d577bb4d102720ed7a533b38463ef0cb9e5aaa5787057e2462061f510e6ea281"
+hash = "d3a407f3dc2e5be16da88d419d8f8b2be6dccdff36cabf0922a2ddfffa31a5ab"
 metafile = true
 
 [[files]]
@@ -288,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2c4109c81b21af902fadf6bc88eb713318c36264f84dcdc8257e9bf7933910a0"
+hash = "408410f6cc32c1e4258ffa4328f9c667bf5f630d9aa089324210a95032e70f9e"
 metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
+hash = "814db4ad681a0bf1fb6979caf675132a5703ee347aa30a77d07339343890bd03"
 metafile = true
 
 [[files]]
@@ -308,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "6cc78dedef863632c9c6bba4017c680680f2ac54865c653cfe8cc51912597a3c"
+hash = "2386088d74139fd42b1c929e2356050210c7d6bc058db6138ed1c3715bc5fe38"
 metafile = true
 
 [[files]]
@@ -338,12 +342,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
+hash = "69d41a667bc14aea04697abd9da457f50c00e43278adf725947ea4c80a63d582"
 metafile = true
 
 [[files]]
 file = "mods/extra-disks.pw.toml"
-hash = "f7225c4e6c6bea12465e90c76d41c0515be62e6c455f9335c483479c7822b0fc"
+hash = "ec3ccd6e01102142d5d9c5e2048ce4374e4c714b265ca20feb81504dc99b0a7c"
 metafile = true
 
 [[files]]
@@ -448,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "047b5098a60e23a78425c92d69643d5e43102d8e9c560736a6f2e63c4eca94bb"
+hash = "02ab03014c7507efa95f519f26177b3ad80ec538f7f48e48c052d49156a4d2bc"
 metafile = true
 
 [[files]]
@@ -663,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "6545392bb764f310ef15207ef68cb10e358563d7718e8e2a323488543e1c22c2"
+hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
 metafile = true
 
 [[files]]
@@ -673,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "106915b156234bae7297a162886d7866d7b4308c05e8c90271d9cf412d1c54fd"
+hash = "03ca1eca1e9188661d5dbee3069565be006f3f2394c35a2ac8068be57b5ebc7d"
 metafile = true
 
 [[files]]
@@ -703,12 +707,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f321666fe7e0261e42641001f65eac7fdc820c10e41c253dd9490d91b23e4203"
+hash = "418fdfaeafeeb7822ad568549418eeab81052638035035df8e97a6212c091f55"
 metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "20149bd7bb3c366d310d810dab1e44041dce20843bb43441880469b82ef756e5"
+hash = "71a784590227e10fad7bc5594fc10e356d3b6ce5cfe4c6febc876c2ebb557096"
 metafile = true
 
 [[files]]
@@ -733,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "a04132fefaa3d62ff4f91795fafeaf347f2ad42b9d49106d06d2b0d783881cd7"
+hash = "2f011c26e68e7401f436417d778b8cdb37a1ef1bb63f5c457bb715b82c91b78a"
 metafile = true
 
 [[files]]
@@ -748,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f45e323165fdc533b0ca6ad86c186db38ce1a7752d864d8ae426560b51a99c5"
+hash = "21f6daab58777155b320ad9ebe5f38b16722aa2bc874740ad9e6bb3e72d86951"
 metafile = true
 
 [[files]]
@@ -803,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "6f6705d459e42f5df42f041062f15ee8a587ea072f8651536843c8e7369a58fe"
+hash = "ae6fc31f89268b91c27ea03b7a5491e4528808e52af6784f5982eccfe91fafb9"
 metafile = true
 
 [[files]]
@@ -823,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "e0ea5d0a15f9de5f7379688e32d56237fcc09dee102d085dddbd4eb780833bd5"
+hash = "ab9a4465a07b1ef91d8b139f0aad53b380d9c0b58f4734f02d0f24672eb1abdd"
 metafile = true
 
 [[files]]
