@@ -1,5 +1,26 @@
 # Changelog
 
+## 4.2.2
+
+### Added
+
+- Oculus
+- Embeddium
+- WorldEdit
+- Sound Physics Remastered
+
+### Updated
+
+- Jade
+- Every Compat (Wood Good)
+
+### Removed
+
+- Rubidium
+- Chunk Sending
+
+---
+
 ## 4.2.1
 
 ### Updated

@@ -24,8 +24,6 @@
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
   - Resourceful Lib
   - Athena
-- [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
-  - Cupboard
 - [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
@@ -51,6 +49,7 @@
 
 # E
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+- [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
@@ -146,6 +145,10 @@
   - Balm
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
+# O
+- [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
+  - Embeddium
+
 # P
 - [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 - [ ] [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
@@ -179,7 +182,6 @@
   - McJtyLib
   - RFTools Base
 - [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
-- [ ] [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) **Client**
 
 # S
 - [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
@@ -192,6 +194,7 @@
 - [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) **Client**
 - [ ] [Star Worm Equestrian (Upgraded Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
   - GeckoLib
   - playerAnimator
@@ -230,6 +233,7 @@
   - Balm
 - [ ] [Werewolves - Become a Beast!](https://legacy.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
   - Vampirism
+- [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
 - [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)

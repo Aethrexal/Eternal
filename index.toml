@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "46de3d8e5f1d48fc6ed79092e66450a7d8336a2f4e3f8a91cec6e2d36d8a01bc"
+hash = "e6d62a285583ee83e3e190a0ca168d5694bfd49b74cc750063dea4d215938b29"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -241,11 +241,6 @@ hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cbf267a70305a13ff70ac8c649943937ce6a59ec708903e1265adf3b9b66a5a8"
 metafile = true
@@ -331,6 +326,11 @@ hash = "0bf7b07a3c3a7f5220f6a30c07a8ca0fcf51927553a5fa4f73d39e5ef07a440e"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "8dc8a45e895275a0eb659a761849906492c15be08abc97c85af9337800994217"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser-forge.pw.toml"
 hash = "e3c9544d6589c071b2876a0a7a440dbdbe3433b28a3fa823591b28cb056784ba"
 metafile = true
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "69d41a667bc14aea04697abd9da457f50c00e43278adf725947ea4c80a63d582"
+hash = "cb4f02cd5d4df138be834485dd97a093620a5ed34e35ee56cdfef8ccc799f95d"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "02ab03014c7507efa95f519f26177b3ad80ec538f7f48e48c052d49156a4d2bc"
+hash = "4b798f5f1c59f9ff4eb657f6ee899c2b6210d05e5812abf75ef33a0e98ed5475"
 metafile = true
 
 [[files]]
@@ -586,6 +586,11 @@ hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "58abaf38f69d3183c5aa446a79e8961da63255efe693b7e86ae2efda369588ac"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
 metafile = true
@@ -686,11 +691,6 @@ hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "dbe03acc1a3ad86c78aa728d9b2a97991f4cc5cb113fcc2747caab1ee49b56e7"
 metafile = true
@@ -733,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "40f15ad6f55247a5c0b0e60728b12aa7f7024744e3794eeabaab71cf1a687281"
 metafile = true
 
 [[files]]
@@ -828,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
 hash = "ab9a4465a07b1ef91d8b139f0aad53b380d9c0b58f4734f02d0f24672eb1abdd"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
