@@ -73,6 +73,10 @@ file = "config/jade/jade_plugins.json"
 hash = "fec91c22f4eedc2e23a614b2008aa02c4006e3b371787ca46c56aa5fd437f2cd"
 
 [[files]]
+file = "config/rightclickharvest.toml"
+hash = "85dce0ae7a6e1e38ebb590e2df851036db7bcd086ca476581ed2efe3fa13ef22"
+
+[[files]]
 file = "config/rubidium-options.json"
 hash = "abe1d1c7f8cdd44b8533e68f4c27e8a85d4a65b57e3d5f9cdf94b292be794af7"
 
