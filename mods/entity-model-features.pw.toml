@@ -1,0 +1,18 @@
+name = "[EMF] Entity Model Features [Fabric & Forge]"
+filename = "entity_model_features_forge_1.20.1-1.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4d446e0a11987e47f077f7d7c54449a368f52bc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4839956
+project-id = 844662
+
+[option]
+optional = true
+default = false
+description = "**REQUIRES  [ETF] ENTITY TEXTURE FEATURES**!!    Entity Model Features (EMF) is a Fabric, Quilt & Forge mod that adds support for OptiFine's Custom Entity Models (CEM). It's designed for anyone who wants to use the CEM resource pack features but to use mods such as Sodium, Continuity or ETF."

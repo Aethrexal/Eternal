@@ -1,12 +1,12 @@
 name = "Eternal"
 author = "Rinnray"
-version = "4.2.2"
+version = "4.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8f0d9a0e7c112da3de16a86ca8c63106b90e697bcb2cd2d9ee0e15e8617b7ce"
+hash = "ed9f2f97ba230c4889d5d203e5b01dc42f96aed4fbb83954333db637783ed8d7"
 
 [versions]
 minecraft = "1.20.1"

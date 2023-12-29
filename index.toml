@@ -18,7 +18,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e6d62a285583ee83e3e190a0ca168d5694bfd49b74cc750063dea4d215938b29"
+hash = "f2ed3fc260af3cbc943b84865e82b802e5d36e5723fda9e1ea6852579a355b10"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -89,12 +89,20 @@ file = "config/securitycraft-client.toml"
 hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "a0ec359fa2770890de57852c95643b93afae24a2108381a557f1b5603a8bcf6c"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "6713efbdfdec8ead64bd0291a631dcc5f355f7fea28e21d33846954dadabebef"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
 hash = "cfeba00ed7314b41d9d7d73181ff5f280f18c070e641a6fd15ab69293896f9f5"
+
+[[files]]
+file = "config/toughasnails/temperature.toml"
+hash = "e294117bc06a3a95504c912892bf842755c6acfe0956fd7eee824f13bb188b97"
 
 [[files]]
 file = "config/treeharvester-common.toml"
@@ -149,8 +157,16 @@ file = "defaultconfigs/securitycraft-server.toml"
 hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "72271178bd92716a32ecc116e856e3b0d0d9b7599f18f4e193a396ff900d4553"
+
+[[files]]
 file = "defaultconfigs/swem-server.toml"
 hash = "3ba781f611b00fb3d6db797b1305a4811b0d6b9d92b692bc6bfdc003d51f97f3"
+
+[[files]]
+file = "defaultconfigs/toughasnails-server.toml"
+hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
 
 [[files]]
 file = "defaultconfigs/vampirism-balance.toml"
@@ -251,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3a407f3dc2e5be16da88d419d8f8b2be6dccdff36cabf0922a2ddfffa31a5ab"
+hash = "fff3ae777c71dd0d118d1e95347a5c5477782a0c2290c9f02f038d98fba1b1d4"
 metafile = true
 
 [[files]]
@@ -291,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "408410f6cc32c1e4258ffa4328f9c667bf5f630d9aa089324210a95032e70f9e"
+hash = "c0e5950b4d2aed751ea9f9f64428fb71ddc0dfab0e2c1fa047c36f09ffb67993"
 metafile = true
 
 [[files]]
@@ -337,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser-forge.pw.toml"
 hash = "e3c9544d6589c071b2876a0a7a440dbdbe3433b28a3fa823591b28cb056784ba"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "9c99cb3649d453c2fcd65589dcbeb6ab8f892a4ed03723adb6cb9da4003cf349"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "c5652ca0a25c8aaf4d394b7a569738f91c5e5907e33955abb74d3287257f85ca"
 metafile = true
 
 [[files]]
@@ -711,7 +737,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "418fdfaeafeeb7822ad568549418eeab81052638035035df8e97a6212c091f55"
+hash = "cbebf4d9db9ee00364e7cc1a5bc62ccc8a087bf6eb691d0be22cca95842cf886"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
@@ -761,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "21f6daab58777155b320ad9ebe5f38b16722aa2bc874740ad9e6bb3e72d86951"
+hash = "31626883de5442b6877c77fdde94e1ea16d3915d6e7dbcf51b81be7483a16ed3"
 metafile = true
 
 [[files]]
@@ -792,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "be5d2bc40fc274ceb8514db1bd66fe76c889d66bcaa192c4ee71f61c10f0e6e2"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "6283b102aa6957af813480ce101db718880f93db90e829487a202408d6e31042"
 metafile = true
 
 [[files]]

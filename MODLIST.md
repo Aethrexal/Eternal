@@ -52,6 +52,9 @@
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
+- [ ] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
+  - ETF
+- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client*
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
@@ -187,6 +190,7 @@
 - [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
 - [ ] [SebastrnLib](https://www.curseforge.com/minecraft/mc-mods/sebastrnlib)
 - [ ] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [ ] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
   - Silent Lib
 - [ ] [Silent Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
@@ -194,7 +198,7 @@
 - [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
-- [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) **Client**
+- [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Star Worm Equestrian (Upgraded Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
   - GeckoLib
   - playerAnimator
@@ -212,6 +216,7 @@
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
   - Placebo
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
+- [ ] [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 
 # U
 - [ ] [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)

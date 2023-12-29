@@ -1,5 +1,35 @@
 # Changelog
 
+## 4.2.3
+
+### Added
+
+- [ETF]Entity Texture Features **Optional**, **Client**
+- [EMF]Entity Model Features **Optional**, **Client**, **REQUIRES ETF**
+- Serene Seasons **On Trial**
+- Tough As Nails **On Trial**
+
+### Updated
+
+- Supplementaries
+- CreativeCore
+- Collective
+- Moonlight Lib
+
+### Changed
+
+- Serene Seasons
+  - Crops are affected by the season but still grows, just slower.
+  - World Specific Configs
+    - Duration of sub season is increased to 16 days instead of 8
+    - Disable so season does **not** progress when no one is online
+- Tough As Nails
+  - Takes 800 ticks to start taking damage of heat or cold instead of 500.
+  - World Specific Configs
+    - Disabled Thirst
+
+---
+
 ## 4.2.2
 
 ### Added
