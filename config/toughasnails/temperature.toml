@@ -15,15 +15,15 @@
 	player_temperature_change_delay = 125
 	#Number of ticks to delay changing the player's temperature after their temperature changes when rebounding from an extreme temperature.
 	#Range: > 0
-	extremity_rebound_temperature_change_delay = 250
+	extremity_rebound_temperature_change_delay = 80
 	#Number of ticks to delay taking damage when icy or hot.
 	#Range: > 0
-	extremity_damage_delay = 800
+	extremity_damage_delay = 2060
 	#Number of ticks for the duration of Climate Clemency.
 	#Range: > 0
 	climate_clemency_duration = 6000
 	#Whether or not Climate Clemency should be granted when respawning.
-	climate_clemency_respawning = false
+	climate_clemency_respawning = true
 
 [altitude]
 	#Y level to drop the temperature at when above

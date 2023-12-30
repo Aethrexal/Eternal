@@ -72,6 +72,9 @@
 - [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
   - Placebo
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+- [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**
+  - MaFgLib
+  - I recommend watching [this video](https://www.youtube.com/watch?v=ApFkqk3CltU) for instructions.
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
 - [ ] [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
   - Architectury API
@@ -126,6 +129,7 @@
 - [ ] [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [ ] [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [ ] [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [ ] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**
 - [ ] [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) **Client**
 - [ ] [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) **Client**
 - [ ] [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
@@ -136,6 +140,7 @@
 - [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - [ ] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
+- [ ] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) **Client**
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
   - SuperMartijn642's Core Lib
   - SuperMartijn642's Config Lib

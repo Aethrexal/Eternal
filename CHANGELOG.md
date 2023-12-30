@@ -1,5 +1,27 @@
 # Changelog
 
+## 4.2.4
+
+### Added
+
+- Mouse Tweaks **Client**
+- Forgematica **Client** **Optional** **Requires MaFgLib**
+  - I recommend watching [this video](https://www.youtube.com/watch?v=ApFkqk3CltU) for instructions.
+- MaFgLib **Client** **Optional**
+
+### Updated
+
+- Eternally Random
+
+### Changed
+
+- Tough As Nails
+  - Raised the delay for taking damage when hot or cold from 800 ticks to 2060 ticks (1 min)
+  - Climate Clemency will be granted on respawn
+  - Shortened the delay of temperature change after an extreme temperature
+
+---
+
 ## 4.2.3
 
 ### Added

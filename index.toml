@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".MODLIST.md.kate-swp"
+hash = "05718dcf8d9d6983018537b4c13285c3baf3662ef407733b44598dd4b451fa4a"
+
+[[files]]
 file = "config/Mekanism/general.toml"
 hash = "e5ee106978e7f3e812fb0b0a62840b8a418b3aca1f5571fde83586cbed89e51c"
 
@@ -18,7 +22,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f2ed3fc260af3cbc943b84865e82b802e5d36e5723fda9e1ea6852579a355b10"
+hash = "f4c04194670cdda15b934c80113f5a4e088984eec3ff479eb2b3dffb4b5921d1"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -102,7 +106,7 @@ hash = "cfeba00ed7314b41d9d7d73181ff5f280f18c070e641a6fd15ab69293896f9f5"
 
 [[files]]
 file = "config/toughasnails/temperature.toml"
-hash = "e294117bc06a3a95504c912892bf842755c6acfe0956fd7eee824f13bb188b97"
+hash = "fee22d55b73bb5acd1c5473f4a16583723047722a370881b64c928f90ab10cd7"
 
 [[files]]
 file = "config/treeharvester-common.toml"
@@ -367,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternally-random.pw.toml"
-hash = "36f74ef64d006727a8998fad69003fbe421572febdb3ee206f81f7b480733ed3"
+hash = "d0530e2dd1ff1793d5bb3d73863e38e57f52dee2429ab866b8ee6e0f4d696c32"
 metafile = true
 
 [[files]]
@@ -408,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "21e4df80a508591d60bd2935e8e669c71ae13c95d9a5400c9fa1f9fd785b6945"
 metafile = true
 
 [[files]]
@@ -551,6 +560,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2158991a6324a3f188b91395944b140883b68d68c9036afb5ec45664dbce0d0e"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "8ab33c1b36c546b5952497a4f74cece1aa9e2c9d949c233bf67334506a43a652"
 metafile = true
@@ -593,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
 metafile = true
 
 [[files]]
