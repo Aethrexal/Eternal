@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".MODLIST.md.kate-swp"
-hash = "05718dcf8d9d6983018537b4c13285c3baf3662ef407733b44598dd4b451fa4a"
-
-[[files]]
 file = "config/Mekanism/general.toml"
 hash = "e5ee106978e7f3e812fb0b0a62840b8a418b3aca1f5571fde83586cbed89e51c"
 
@@ -416,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "21e4df80a508591d60bd2935e8e669c71ae13c95d9a5400c9fa1f9fd785b6945"
+hash = "9b05fa3faae08f49bcd51cb4731d86c5aa5cd3e2a4a0153401291ae255750a3e"
 metafile = true
 
 [[files]]
@@ -561,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "2158991a6324a3f188b91395944b140883b68d68c9036afb5ec45664dbce0d0e"
+hash = "6bb76aa5fe924f7e2fae3b70770068cec1f19f69a746ac3d2b8013c80977449b"
 metafile = true
 
 [[files]]
