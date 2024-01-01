@@ -1,5 +1,39 @@
 # Changelog
 
+## 4.3.0
+
+### Added
+
+- Realistic Horse Genetics
+- Cluttered
+- Refined Polymorphism
+- Fairy Lights
+- Weather, Storms & Tornadoes **On Trial**
+- CoroUtil
+
+### Updated
+
+- [EMF] Entity Model Features
+- Collective
+- [ETF] Entity Texture Features
+- Every Compat
+- Vampirism
+- Supplementaries
+
+### Removed
+
+- Star Worm Equestrian
+- PlayerAnimator
+
+### Changed
+
+- Weather, Storms & Tornadoes
+  - Tornadoes only grabs players, making non-players safe.
+  - Turned off so Tornadoes don't grab blocks.
+  - Turned off so you don't take fall damage when you've been grabbed.
+
+---
+
 ## 4.2.4
 
 ### Added

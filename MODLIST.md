@@ -25,6 +25,7 @@
   - Resourceful Lib
   - Athena
 - [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
+- [ ] [Cluttered](https://www.curseforge.com/minecraft/mc-mods/cluttered)
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [ ] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
@@ -34,6 +35,7 @@
   - Searchables
 - [ ] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
   - Balm
+- [ ] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
@@ -64,6 +66,7 @@
   - ZeroCore 2
 
 # F
+- [ ] [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [ ] [FallingTree (Forge&Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 - [ ] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client** ***Optional***
   - Cupboard
@@ -166,7 +169,6 @@
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
 - [ ] [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
-- [ ] [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -174,6 +176,7 @@
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # R
+- [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
   - SuperMartijn642's Core Lib
   - SuperMartijn642's Config Lib
@@ -182,6 +185,7 @@
   - SebestrnLib
   - Refined Storage
   - Cooking for Blockheads
+- [ ] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
 - [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
 - [ ] [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
@@ -204,9 +208,6 @@
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
-- [ ] [Star Worm Equestrian (Upgraded Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
-  - GeckoLib
-  - playerAnimator
 - [ ] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
@@ -241,6 +242,8 @@
 - [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia) **Client**
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
   - Balm
+- [ ] [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
+  - CoroUtil
 - [ ] [Werewolves - Become a Beast!](https://legacy.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
   - Vampirism
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
