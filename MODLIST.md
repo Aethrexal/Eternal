@@ -2,6 +2,8 @@
 - [ ] [Aether: Lost Content Addon](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content)
   - The Aether
   - Structure Gel API
+- [ ] [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
+  - Citadel
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
@@ -24,6 +26,7 @@
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
   - Resourceful Lib
   - Athena
+- [ ] [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
 - [ ] [Cluttered](https://www.curseforge.com/minecraft/mc-mods/cluttered)
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
@@ -45,6 +48,7 @@
 - [ ] [Death Counter (Forge)](https://www.curseforge.com/minecraft/mc-mods/death-counter)
 - [ ] [Diagonal Fences [Foge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
   - Puzzles Lib
+- [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
   - Collective

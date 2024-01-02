@@ -22,7 +22,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ae575097c474be3cddbdc236149e756ae39dba31da5cfd14dd9c18763b41399d"
+hash = "0d3b6f7bc2ec1f17b8ad6489791bcfc7e83d66063239b8a4629dcbc9f9d76fdf"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -191,6 +191,11 @@ hash = "0774ed9d6e4f6eee35bb6d3005136a9cb9aaffdbfd00c03a9987b64444547a63"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "70fd91c9029d4344e0dfb27de1b02095ff185f3cca49d29d28c65e35d61642db"
 metafile = true
@@ -261,6 +266,11 @@ hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cbf267a70305a13ff70ac8c649943937ce6a59ec708903e1265adf3b9b66a5a8"
 metafile = true
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "814db4ad681a0bf1fb6979caf675132a5703ee347aa30a77d07339343890bd03"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1e11f4f972028ad2b783be5fc14afa10bd554722893ee210fec74ad8722bc43f"
 metafile = true
 
 [[files]]

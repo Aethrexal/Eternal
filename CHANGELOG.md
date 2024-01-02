@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.3.1
+
+### Added
+
+- Discord Integration
+- Alex's Caves
+- Citadel
+
+---
+
 ## 4.3.0
 
 ### Added
