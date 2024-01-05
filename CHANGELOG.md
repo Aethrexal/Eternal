@@ -1,5 +1,27 @@
 # Changelog
 
+## 4.3.2
+
+### Added
+
+- Chunk Sending
+
+### Updated
+
+- Chat Heads
+- [ETF] Entity Texture Features
+- Puzzle Lib
+- Vampirism
+- Supplementaries
+- CC: Tweaked
+- FTB Chunks
+- CreativeCore
+- Moonlight Lib
+- Fusion
+- FallingTree
+
+---
+
 ## 4.3.1
 
 ### Added

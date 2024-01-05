@@ -26,6 +26,7 @@
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
   - Resourceful Lib
   - Athena
+- [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
 - [ ] [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
 - [ ] [Cluttered](https://www.curseforge.com/minecraft/mc-mods/cluttered)

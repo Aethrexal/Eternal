@@ -22,7 +22,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0d3b6f7bc2ec1f17b8ad6489791bcfc7e83d66063239b8a4629dcbc9f9d76fdf"
+hash = "3345a898bae5e52a2164ad33887eefec5d2b13ac46b16268fd917578a3af7630"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -46,7 +46,7 @@ hash = "9f7c049f8cc673c909ceb3c64d928f32105829661db675f52d786fb80ba99bec"
 
 [[files]]
 file = "config/chunksending.json"
-hash = "0d68055aa3d892f0caae456a9094d9ae31482e363ab742511c817320f990b585"
+hash = "e4b1d700676c32e503e6a10b27e05b9fcb73cd43dedeaafc41139f82557846c2"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -252,17 +252,22 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "ddf51a6366b222df8be2a8a0b2371ffcebf569cd5555b2b0efef5304932c6d35"
+hash = "ef5de957c934c3b1d24306fc59f6c36f6b0b1078d166855b1d499949acd3ea1c"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d255fb3d467e36e9f59142a4b57b5edbeb0da15371992ec9c704699227b9c679"
+hash = "87ee4a2a27dbdf90faa1d23534665bc5ae9934606d262433bc39bae0ac154d2a"
 metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c0e5950b4d2aed751ea9f9f64428fb71ddc0dfab0e2c1fa047c36f09ffb67993"
+hash = "a9324c8c36bba8cd2fd97433268f6a1d5b2a5b64bd1a6c6b651fc3ba4d592dfc"
 metafile = true
 
 [[files]]
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "73f77fa19f22f7193c9c7eb9f845cd34d11398750dde6ab5324d3bc1e9d6d2e6"
+hash = "f1268e7591dfcb13582d8bfc067f2954fa86bfdca374c0597128195c7d5a9809"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "bb7a1558b439174e61c3feb208352285859c4e7200d25e076a167f8dd09d55b5"
+hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "38648f818acbd965d0bb19259acfe1a41444fea8a5ead81ac8ecef0803a37d86"
+hash = "03007dbec06967fadd517024dc8b8b1e1b01696fd79965fa8403da6585d161fa"
 metafile = true
 
 [[files]]
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "31ae709ead04455fab16615162995f15bb896e7e51250e548924c30ff7d63d0e"
+hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
 metafile = true
 
 [[files]]
@@ -722,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8a72bad048457c616c690838c8d2f6f958c3a3f5cbc843f38e6e2eaa0d043c7b"
+hash = "48b63999e0f90e6197294a7dc80c66bb79ca13c8de12d82f9496ce71630e388b"
 metafile = true
 
 [[files]]
@@ -787,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cbebf4d9db9ee00364e7cc1a5bc62ccc8a087bf6eb691d0be22cca95842cf886"
+hash = "ed71c0d0d5dcc475a8077bb14b9ccdaccd1b009f9d57e12dea9cd44391d73fc6"
 metafile = true
 
 [[files]]
@@ -842,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0013e77e141600b9c62a0b7a49763f10cd7c88fbc9f84fd81e231a7db6ffd167"
+hash = "1b26d40f437075ed22f64b838ebd42a14fa5d0bb547f3d0ce6721c61c6d435b0"
 metafile = true
 
 [[files]]
@@ -897,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "c4f6052a8594dd470fe8ac2afebbd24cb24beaa3ee84faeb881768a97fed0c6a"
+hash = "52cef0793ecbd338a3414afce7348c7f03f340f2755ecc0fd293933c9b4e8e14"
 metafile = true
 
 [[files]]
