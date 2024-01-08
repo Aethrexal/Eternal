@@ -99,7 +99,6 @@
 - [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [ ] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
-- [ ] [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
 
 # H
 - [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
@@ -235,11 +234,6 @@
 - [ ] [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
   - UTeamCore
 
-# V
-- [ ] [Vampires Need Umbrellas](https://www.curseforge.com/minecraft/mc-mods/vampires-need-umbrellas)
-- [ ] [Vampirism - Become a vampire!](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
-  - Guide-API Village and Pillage
-
 # W
 - [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
   - WaterMeDIA
@@ -249,8 +243,6 @@
   - Balm
 - [ ] [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
   - CoroUtil
-- [ ] [Werewolves - Become a Beast!](https://legacy.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
-  - Vampirism
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X

@@ -22,7 +22,7 @@ hash = "fbea6d4254085d65fa52c281d2761b5efad40977023117a3121ef564a94db21e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3345a898bae5e52a2164ad33887eefec5d2b13ac46b16268fd917578a3af7630"
+hash = "0f4fce6fea21aab688f1789c04d7107313ba0092e933f709911a0fd6e23684f2"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -491,11 +491,6 @@ hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
 metafile = true
 
 [[files]]
-file = "mods/guide-api-village-and-pillage.pw.toml"
-hash = "c15730bdd8e9e5b54d80f82d18d965370b2242e9da27b6188e13896810b7e49f"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "fd8a16a5802d4f48130060357963caaf7e450afe047675f16d32ef2714d00159"
 metafile = true
@@ -847,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b26d40f437075ed22f64b838ebd42a14fa5d0bb547f3d0ce6721c61c6d435b0"
+hash = "619a019ab398c26a851e7715db6dc6f7e897d54e852686a321769b20df7b7290"
 metafile = true
 
 [[files]]
@@ -896,16 +891,6 @@ hash = "fbb5b70c175a9ce820b6c5b0c730b66835f96dbbb1f5fdb8eede33e69e36240b"
 metafile = true
 
 [[files]]
-file = "mods/vampires-need-umbrellas.pw.toml"
-hash = "2905c695fcea5c12cd5bef42a2385fc55d67e0c62e99badc916e8c65f86b5fe6"
-metafile = true
-
-[[files]]
-file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "52cef0793ecbd338a3414afce7348c7f03f340f2755ecc0fd293933c9b4e8e14"
-metafile = true
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "6e53c644a84a93612d7cd7deb41a9cf34d9fe8139c6c09ceb43bd46bf7e0192c"
 metafile = true
@@ -923,11 +908,6 @@ metafile = true
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "d8fa646169bd3ce57491d64ac97b36528aef6520a32df970495ad5a49a2f6dbc"
-metafile = true
-
-[[files]]
-file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "ab9a4465a07b1ef91d8b139f0aad53b380d9c0b58f4734f02d0f24672eb1abdd"
 metafile = true
 
 [[files]]

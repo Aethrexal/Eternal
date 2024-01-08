@@ -1,5 +1,20 @@
 # Changelog
 
+## 4.3.3
+
+### Removed
+
+- Vampirism
+- Vampires need umbrellas
+- Werewolves
+- Guide API
+
+### Updated
+
+- Supplementaries
+
+---
+
 ## 4.3.2
 
 ### Added
