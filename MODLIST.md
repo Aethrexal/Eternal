@@ -1,4 +1,8 @@
 # A
+- [ ] [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
+  - Resourceful Lib
+  - Resourceful Config
+  - Botarium
 - [ ] [Aether: Lost Content Addon](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content)
   - The Aether
   - Structure Gel API
@@ -8,6 +12,13 @@
   - CreativeCore
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
 - [ ] [Architectury API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+- [ ] [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
+  - Ars Nouveau
+  - Create
+- [ ] [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+  - Curios
+  - Patchouli
+  - GeckoLib
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
 
 # B
@@ -18,9 +29,10 @@
 - [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
+- [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
-- [ ] [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
+- [ ] [Caelus API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/caelus)
 - [ ] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 - [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
@@ -47,6 +59,7 @@
 
 # D
 - [ ] [Death Counter (Forge)](https://www.curseforge.com/minecraft/mc-mods/death-counter)
+- [ ] [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
 - [ ] [Diagonal Fences [Foge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
   - Puzzles Lib
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
@@ -59,9 +72,6 @@
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
-- [ ] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
-  - ETF
-- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client*
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
@@ -79,6 +89,7 @@
   - Placebo
 - [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
   - Placebo
+- [ ] [FerriteCore (Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**
   - MaFgLib
@@ -127,12 +138,14 @@
   - Architectury
 - [ ] [Lightning Wand 🌟 (Forge)](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)
   - Kiwi
+- [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 
 # M
 - [ ] [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - [ ] [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 - [ ] [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
 - [ ] [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+- [ ] [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
 - [ ] [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [ ] [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [ ] [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
@@ -142,6 +155,7 @@
 - [ ] [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [ ] [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) **Client**
 - [ ] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
+- [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
 - [ ] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
@@ -163,6 +177,14 @@
 # O
 - [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
   - Embeddium
+- [ ] [Origins++](https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus)
+  - Origins
+  - Pehkui
+  - XL Packets
+- [ ] [Origins (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-forge)
+  - Caelus API
+- [ ] [Origins: Classes (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge)
+  - Origins
 
 # P
 - [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
@@ -171,6 +193,7 @@
 - [ ] [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 - [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
+- [ ] [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 - [ ] [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
@@ -191,12 +214,10 @@
   - Cooking for Blockheads
 - [ ] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
 - [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [ ] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
 - [ ] [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
   - McJtyLib
-- [ ] [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
-  - McJtyLib
-  - RFTools Base
 - [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
 
 # S
@@ -212,6 +233,8 @@
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
+  - Puzzles Lib
 - [ ] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
@@ -226,13 +249,17 @@
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
   - Placebo
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
-- [ ] [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
+- [ ] [Too Many Glyphs](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)
+  - Ars Nouveau
 
 # U
 - [ ] [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 - [ ] [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
   - UTeamCore
+
+# V
+- [ ] [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
 
 # W
 - [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
@@ -246,6 +273,7 @@
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
+- [ ] [XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets)
 - [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
   - McJtyLib
   - RFTools Base

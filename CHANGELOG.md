@@ -1,5 +1,60 @@
 # Changelog
 
+## 4.4.0
+
+### Added
+
+- Origins
+- Caelus API
+- Origins: Classes
+- Origins++
+- Pehkui
+- XL Packets
+
+- Macaw's Paths and Pavings
+- Straw Statues
+
+- Voidscape
+- Deeper and Darker
+
+- Ars Nouveau
+- Ars Creo
+- Too Many Glyphs
+- ModernFix
+
+- FerriteCore
+- Ad Astra
+- Botarium
+- Resourceful Config
+- Login Protection
+
+### Removed
+
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Tough as Nails
+- RFTools Dimensions
+- Camera Mod
+
+### Updated
+
+- PneumaticCraft
+- Moonlight Lib
+- Every Compat
+- Pam's HarvestCraft 2 - Food Core
+
+### Changed
+
+- Forgematica
+  - Changed the tool from a stick to paper
+
+### Notes
+
+- You might want to increase the allocated RAM from default 6.
+- When you join the server next time you're going to see a new screen where you can choose your Origin. Be sure to read through each Origin as they all come with their own pros and cons! Once you've chosen your Origin you're able to choose a class to go with it.
+
+---
+
 ## 4.3.3
 
 ### Removed
