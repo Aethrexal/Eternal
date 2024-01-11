@@ -1,0 +1,17 @@
+name = "[ETF] Entity Texture Features - [Fabric & Forge]"
+filename = "entity_texture_features_forge_1.20.1-5.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e067381b52b3025cb3b99171d0f7c861df4afa28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5000636
+project-id = 568563
+
+[option]
+optional = true
+description = "ETF is a Fabric (Quilt compatible) & Forge mod that adds many new Entity Texture Features , including entity and player skin features!"

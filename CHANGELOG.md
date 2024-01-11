@@ -1,5 +1,45 @@
 # Changelog
 
+## 4.5.0
+
+### Added
+
+- Dimensional Dungeons
+- [EMF] Entity Model Features **Client**, **Optional(Requires ETF)**
+- [ETF] Entity Texture Features **Client**, **Optional**
+- Gateways to Eternity
+- Aphotic Attributes
+
+- Progressive Bosses
+- InsaneLib
+- Auto Leveling
+
+- Good Nights Sleep
+- Blue Skies
+- Simple Voice Chat
+
+### Removed
+
+- Origins
+- Caelus API
+- Origins: Classes
+- Origins++
+- XL Packets
+- Pehkui
+- Ping
+
+### Changed
+
+- Auto Leveling
+  - Max level is 30k to prevent any issues (Might be raised if it works out fine).
+
+### Notes
+
+- Progressive Bosses will make the different bosses (think it's only vanilla) more difficult each time you fight them. It's per player.
+- Auto leveling makes monsters more difficult the farther away you get from spawn.
+
+---
+
 ## 4.4.0
 
 ### Added

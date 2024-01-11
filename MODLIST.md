@@ -10,6 +10,7 @@
   - Citadel
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
+- [ ] [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
 - [ ] [Architectury API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 - [ ] [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
@@ -20,6 +21,7 @@
   - Patchouli
   - GeckoLib
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+- [ ] [Auto Leveling](https://www.curseforge.com/minecraft/mc-mods/auto-leveling)
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
@@ -28,11 +30,12 @@
   - Collective
 - [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+- [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+  - Structure Gel API
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
 - [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
-- [ ] [Caelus API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/caelus)
 - [ ] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 - [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
@@ -62,6 +65,7 @@
 - [ ] [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
 - [ ] [Diagonal Fences [Foge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
   - Puzzles Lib
+- [ ] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
@@ -72,6 +76,9 @@
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
+- [ ] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
+  - ETF
+- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client**
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
@@ -107,8 +114,11 @@
 - [ ] [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
 # G
+- [ ] [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity)
+  - Apothic Attributes (AttributesLib)
 - [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [ ] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
+- [ ] [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 # H
@@ -118,6 +128,7 @@
 # I
 - [ ] [Iceberg [Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg)
 - [ ] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [ ] [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib)
 - [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
 # J
@@ -177,14 +188,6 @@
 # O
 - [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
   - Embeddium
-- [ ] [Origins++](https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus)
-  - Origins
-  - Pehkui
-  - XL Packets
-- [ ] [Origins (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-forge)
-  - Caelus API
-- [ ] [Origins: Classes (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge)
-  - Origins
 
 # P
 - [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
@@ -193,13 +196,13 @@
 - [ ] [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 - [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
-- [ ] [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
-- [ ] [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [ ] [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
+- [ ] [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
+  - InsaneLib
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # R
@@ -231,6 +234,7 @@
   - Silent Lib
 - [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
+- [ ] [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
@@ -273,7 +277,6 @@
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
-- [ ] [XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets)
 - [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
   - McJtyLib
   - RFTools Base
