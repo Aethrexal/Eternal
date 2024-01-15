@@ -1,0 +1,18 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-forge-1.7.0-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/YsF3W35k/notenoughanimations-forge-1.7.0-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "f0638ee8456c4676c11b3f9a1eae7a48e0966800"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "YsF3W35k"
+
+[option]
+optional = true
+default = false
+description = "This mod brings a lot of missing third-person animations from the first-person or modifies them to be better representative to how they should look like or look like in the first-person."

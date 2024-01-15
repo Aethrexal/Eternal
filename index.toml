@@ -26,7 +26,7 @@ hash = "9dd54267ae6eb4d0841c01e9a7e461be24b863ff940704b08ec972cff4ba6eb0"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ea56ce0120256e8d01fc54f8e5d55aaf2f5c688ff2a30755f0525854143e2eb1"
+hash = "fbd9d61ae569eca92e4255970ed167224b35f2197409ebf1ae4c64b48577d8ee"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -190,17 +190,12 @@ hash = "b1bf3b1901bf6b8a3edee39f35636d641ef2c88112b6cbede7a36457f954b0f3"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
-metafile = true
-
-[[files]]
-file = "mods/aether-lost-content.pw.toml"
-hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
+hash = "3c08679ebb5fa9ccc964352e980c78af94a1ba62a138551e03a82be140a49dad"
 metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "0774ed9d6e4f6eee35bb6d3005136a9cb9aaffdbfd00c03a9987b64444547a63"
+hash = "409e17622385de35249a593dd82e06589adaed316014a3c5300c0fae3a5cc2be"
 metafile = true
 
 [[files]]
@@ -269,6 +264,11 @@ hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "fc875605a03954f22c8273aa3897b7004fc6118f4ac06076f223f6203baab271"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
 metafile = true
@@ -284,8 +284,13 @@ hash = "b831ca98d819f1d1be1630d8b9c2e46e4b442a2887c887b0f78c18271bb27989"
 metafile = true
 
 [[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "aa239ea808853365f2a0193d5d87f19b8446076b94a76404754cd980b6043f06"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
-hash = "84cd510282045b7b98fc6d6d26d0c129af5c959728ee94d03cea683cd687adb7"
+hash = "b5c5c84be85d1fff02c51bd5e700d0ac13fe29df4de15e2e9234f43923e183e7"
 metafile = true
 
 [[files]]
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cbf267a70305a13ff70ac8c649943937ce6a59ec708903e1265adf3b9b66a5a8"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
@@ -475,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "c7085f9b9d5c957864203242aefe1a66735aa4a491775dd811d25680b0d94dd8"
+hash = "2b1c421b1fa0a957c510ef8e89933a0118f773a14c43d32054edfe281363ec2d"
 metafile = true
 
 [[files]]
@@ -535,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "dc224b6f994ff0b4ec67d80f2eebcd72b8ca8dc2f4a88b562955e47f725ca631"
+hash = "3905f77085b8f4e389f7ba760b0d3c39ab0c481e922080f0f56bb4c2917b0bfa"
 metafile = true
 
 [[files]]
@@ -595,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "6af99b46cdbd8ad5010aa5092a5baa83048b82359f81a64ec1d0883473a1723a"
+hash = "c93b9ada543c78fce027ccdb42f19e148fd6c1299f96fff3dc27f46f99280039"
 metafile = true
 
 [[files]]
@@ -739,6 +744,11 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "d990a5773fe44c518beac4aca11b55390f76e915ed1b8cdef1a2d71cc6f786cc"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
@@ -784,6 +794,11 @@ hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "79d4d34c848aea93c2b21d661011ea366fb0d91ea3fa4a038148917904b1c595"
 metafile = true
@@ -791,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
 metafile = true
 
 [[files]]
@@ -805,12 +825,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "48b63999e0f90e6197294a7dc80c66bb79ca13c8de12d82f9496ce71630e388b"
+hash = "a6d2a47c63ad8d73f67de705591ff863cffa9e475463c81445e1dad0ed94084a"
 metafile = true
 
 [[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
-hash = "2ab73f973107e129f39c0415c3ecbfb27e03d20f675b36757e2229b6df14bf96"
+hash = "9a50f359c80885f8ef12c1161878d02f5f7496555d90358ecaad48456924a7fa"
 metafile = true
 
 [[files]]
@@ -870,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
+hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
 metafile = true
 
 [[files]]
@@ -1006,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "d8fa646169bd3ce57491d64ac97b36528aef6520a32df970495ad5a49a2f6dbc"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9114df638ca54822e5bc1647332feb11bdb823a89dfd200762f33fe2e4ef7e92"
 metafile = true
 
 [[files]]

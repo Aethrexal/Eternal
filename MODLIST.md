@@ -3,9 +3,6 @@
   - Resourceful Lib
   - Resourceful Config
   - Botarium
-- [ ] [Aether: Lost Content Addon](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content)
-  - The Aether
-  - Structure Gel API
 - [ ] [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
   - Citadel
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
@@ -29,10 +26,13 @@
 - [ ] [Beautified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
   - Collective
 - [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
+- [ ] [Better Combat [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
+  - playerAnimator
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
   - Structure Gel API
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
+- [ ] [Bobby Reforged](https://www.curseforge.com/minecraft/mc-mods/bobby-reforged) **Client**, **Optional**
 - [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
@@ -183,6 +183,7 @@
   - GeckoLib
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
   - Balm
+- [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
 # O
@@ -197,6 +198,7 @@
 - [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
+- [ ] [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -274,6 +276,7 @@
   - Balm
 - [ ] [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
   - CoroUtil
+- [ ] [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X

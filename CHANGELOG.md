@@ -1,5 +1,36 @@
 # Changelog
 
+## 4.5.1
+
+### Added
+
+- Bobby Reforged **Client**, **Optional**
+- Not Enough Animations **Client**, **Optional**
+- What Are They Up To
+- Better Combat
+- PlayerAnimator
+
+### Removed
+
+- Aether: Lost Content Addon
+
+### Updated
+
+- Puzzles Lib
+- Kiwi
+- GeckoLib
+- Realistic horse Genetics
+- Ad Astra
+- The Aether
+- Botarium
+- Moonlight Lib
+
+### Notes
+
+- Bobby Reforged is the same as Farsight, the only difference is that Bobby saves the chunk in a directory. Meaning you can leave the server and join back and the chunks in the dinstance will render. Unlike Farsight where it only caches it. Only **one** can be enabled at a time.
+
+---
+
 ## 4.5.0
 
 ### Added

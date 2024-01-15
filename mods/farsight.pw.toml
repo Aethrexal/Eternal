@@ -15,4 +15,4 @@ project-id = 495693
 [option]
 optional = true
 default = false
-description = "Farsight is a client-side util which lets you see farther on servers than the servers view distance. It works by having the client keep the chunks even when the server unloads them, up to a max distance of 64 chunks(configurable)."
+description = "DO NOT USE THIS WITH BOBBY         Farsight is a client-side util which lets you see farther on servers than the servers view distance. It works by having the client keep the chunks even when the server unloads them, up to a max distance of 64 chunks(configurable)."
