@@ -1,13 +1,13 @@
 name = "Kiwi 🥝 (Forge)"
-filename = "Kiwi-1.20.1-forge-11.5.0.jar"
+filename = "Kiwi-1.20.1-forge-11.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f75e1439f968be4d81ffb7ca74f10425dcf4f9b"
+hash = "254a4b17af09ab1548e1cc32a9a6bbe80ae2fa0e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5026680
+file-id = 5036957
 project-id = 303657

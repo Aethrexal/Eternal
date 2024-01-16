@@ -11,8 +11,3 @@ hash = "aed282079a18dc73e7aeefec61f563143d6bc390"
 [update.modrinth]
 mod-id = "SKI34J7B"
 version = "YSuoUM5A"
-
-[option]
-optional = true
-default = false
-description = "This mod is a forge port of Masa's mod code base, which basically contains all configurable options, a key binding system, support for doing most GUI code and other useful components for other mods to use."

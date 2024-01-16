@@ -26,7 +26,7 @@ hash = "9dd54267ae6eb4d0841c01e9a7e461be24b863ff940704b08ec972cff4ba6eb0"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fbd9d61ae569eca92e4255970ed167224b35f2197409ebf1ae4c64b48577d8ee"
+hash = "c5c407319ddc35ed1dbcf8bc611c437d19465bdb7bbe174653796030ab34c875"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -190,7 +190,7 @@ hash = "b1bf3b1901bf6b8a3edee39f35636d641ef2c88112b6cbede7a36457f954b0f3"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "3c08679ebb5fa9ccc964352e980c78af94a1ba62a138551e03a82be140a49dad"
+hash = "51e7e52508fdb91f9f8bea7eda3810490bccdc521f1cf1bcccfb0cee41e1e57a"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a9324c8c36bba8cd2fd97433268f6a1d5b2a5b64bd1a6c6b651fc3ba4d592dfc"
+hash = "70e58c2c4d61d4396b60b882e45a4621116a4e705570b5f96d468cfdc1798103"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8dc8a45e895275a0eb659a761849906492c15be08abc97c85af9337800994217"
+hash = "7f0b8a8bf86c0f9d80a6b2ac25f0a7a778251e652414c4822c2c628b904dfab8"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b6b025b64fb5ed5d33a2408fa62511bef25b5d97d40a6837480bed60c7b4716e"
+hash = "b73a74d05b13ed1f340c9951584f9ef990440d0d9886fdc1a5e8c7f566867609"
 metafile = true
 
 [[files]]
@@ -496,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "a356fb17539711fa32536d70fb1e86646aca4a36dd3c763dd960a894cdc24811"
 metafile = true
 
 [[files]]
@@ -600,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "c93b9ada543c78fce027ccdb42f19e148fd6c1299f96fff3dc27f46f99280039"
+hash = "34beb9e91fdf9d572daaf702e2f19a234b77a7866886b591c1a02081dd50de86"
 metafile = true
 
 [[files]]
@@ -670,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "6bb76aa5fe924f7e2fae3b70770068cec1f19f69a746ac3d2b8013c80977449b"
+hash = "2158991a6324a3f188b91395944b140883b68d68c9036afb5ec45664dbce0d0e"
 metafile = true
 
 [[files]]
@@ -739,6 +744,11 @@ hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "fd16f1525f9a375ad726a78569b16ffaacbd7b23ca2e41a09f1ce0b7e15fc800"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
@@ -750,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
+hash = "165612664bf8ecd6f5d3ff6a6181293cc1233116f72c71c7a1cbb8c59aca1944"
 metafile = true
 
 [[files]]

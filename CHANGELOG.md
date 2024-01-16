@@ -1,5 +1,23 @@
 # Changelog
 
+## 4.5.2
+
+### Added
+
+- Neruina - Ticking Entity Fixer
+- First-person model **Client**, **Optional**
+
+### Updated
+
+- CreativeCore
+- Embeddium
+- Every Compat
+- Kiwi
+- Not Enough Crashes
+- Ad Astra
+
+---
+
 ## 4.5.1
 
 ### Added

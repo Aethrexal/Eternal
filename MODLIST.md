@@ -97,6 +97,7 @@
 - [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
   - Placebo
 - [ ] [FerriteCore (Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ ] [First-person Model](https://modrinth.com/mod/first-person-model) **Client**, **Optional**
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**
   - MaFgLib
@@ -181,6 +182,7 @@
 # N
 - [ ] [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
   - GeckoLib
+- [ ] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
   - Balm
 - [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
