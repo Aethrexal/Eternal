@@ -1,5 +1,59 @@
 # Changelog
 
+## 4.6.0
+
+### Added
+
+- Skin Layers 3D **Client**
+- ExtraSounds Forge
+- Presence Footsteps
+- Anvil Restoration
+- Exposure
+- NiftyBlocks
+- Mystical Agriculture
+- Cucumber Library
+- Mystical Agradditions
+- Xaero's Minimap
+- Xaero's World Map
+- Open Parties and Claims
+
+### Updated
+
+- Macaw's Fences and Walls
+- Doggy Talents Next
+- [ETF] Entity Texture Features
+- [EMF] Entity Model Features
+- Ad Astra
+- Ars Nouveau
+- Moonlight Lib
+- Supplementaries
+- Every Compat
+- Kiwi
+- FTB Library
+- First-person Model
+
+### Removed
+
+- Voidscape
+- Fairy Lights
+
+### Changed
+
+- FTB Chunks
+  - Disabled the Minimap
+- Light Level Overlay
+  - Now displays number instead of the X
+- Open Parties and Claims
+  - If everyone in your party is inactive for 365 days the party will be deleted. Default was 7 days.
+
+### Notes
+
+- Presence Footsteps file is currently hosted in the GitHub Repo as I had to change the Forge version it requires to make it work.
+- Since we starting to use Xaero's Map instead, your waypoints for FTB Chunks map won't be transfered over. The FTB Chunks map can still be accessed, you just need to open the inventory and click the map on the top left corner, that's where you can find your waypoints as well.
+This won't last forever though as FTB Chunks will be removed in a future update.
+
+---
+
 ## 4.5.2
 
 ### Added

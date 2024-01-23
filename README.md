@@ -15,7 +15,7 @@ Not really much else to it, made so it also can be played with a server with fri
 1. Download [PrismLauncher](https://prismlauncher.org/download/)
 2. Click "Add Instance"
 3. On the left side press "Import from zip"
-4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/4.1.0/Eternal.zip` or download the [latest](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
+4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/4.1.1/Eternal.zip` or download the [latest](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
 5. Click "OK"
 6. Done, unless you wanna change RAM then keep reading
 
@@ -49,5 +49,7 @@ None of the mods are hosted in this repo, the packwiz-installer that comes with 
 But anyway; I do not take credit for any of the mods in this modpack.
 
 The only exception to the note above is **Eternally Random** which is my own little mod. It can be found on [Modrinth](https://modrinth.com/mod/eternally-random) and [CurseForge](https://curseforge.com/minecraft/mc-mods/eternally-random).
+
+But also [Presence Footsteps[Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) as I had to change the Forge version number in the mod.toml file.
 
 [Packwiz](https://github.com/comp500/packwiz) was used to generate these files.

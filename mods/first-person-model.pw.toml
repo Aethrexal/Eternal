@@ -1,18 +1,17 @@
 name = "First-person Model"
-filename = "firstperson-forge-2.2.4-mc1.20.1.jar"
+filename = "firstperson-forge-2.3.0-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/9uFe6RAK/firstperson-forge-2.2.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/Ao3IYF3s/firstperson-forge-2.3.0-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "1021f42552958705f9d17e5ace7443bfad427c14"
+hash = "b3e9d6faa2d8800611b4191a4564aa47b3277c86"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "9uFe6RAK"
+version = "Ao3IYF3s"
 
 [option]
 optional = true
-default = false
 description = "SITTING ON MODDED CHAIRS/MOUNTS DOESN'T LOOK RIGHT!         Farsight is a client-side util which lets you see farther on servers than the servers view distance. It works by having the client keep the chunks even when the server unloads them, up to a max distance of 64 chunks(configurable)."

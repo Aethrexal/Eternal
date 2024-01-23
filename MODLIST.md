@@ -1,3 +1,6 @@
+# #
+- [ ] [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) **Client**
+
 # A
 - [ ] [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
   - Resourceful Lib
@@ -7,6 +10,8 @@
   - Citadel
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
+- [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
+  - Collective
 - [ ] [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
 - [ ] [Architectury API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
@@ -58,6 +63,7 @@
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [ ] [Cucumber Library](https://www.curseforge.com/minecraft/mc-mods/cucumber)
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 
 # D
@@ -82,13 +88,14 @@
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
   - Moonlight Lib
+- [ ] [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure)
 - [ ] [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
   - Refined Storage
+- [ ] [ExtraSounds Forge](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge)
 - [ ] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
   - ZeroCore 2
 
 # F
-- [ ] [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [ ] [FallingTree (Forge&Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 - [ ] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client** ***Optional***
   - Cupboard
@@ -99,7 +106,7 @@
 - [ ] [FerriteCore (Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [First-person Model](https://modrinth.com/mod/first-person-model) **Client**, **Optional**
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
-- [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**
+- [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**, **Optional**
   - MaFgLib
   - I recommend watching [this video](https://www.youtube.com/watch?v=ApFkqk3CltU) for instructions.
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
@@ -134,6 +141,9 @@
 
 # J
 - [ ] [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
+- [ ] [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [ ] [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
+  - JourneyMap
 - [ ] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 # K
@@ -178,6 +188,10 @@
   - SuperMartijn642's Core Lib
   - SuperMartijn642's Config Lib
 - [ ] [MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+- [ ] [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+  - Mystical Agriculture
+- [ ] [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+  - Cucumber Library
 
 # N
 - [ ] [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
@@ -185,12 +199,14 @@
 - [ ] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
   - Balm
+- [ ] [NiftyBlocks](https://www.curseforge.com/minecraft/mc-mods/niftyblocks)
 - [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
 # O
 - [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
   - Embeddium
+- [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
 - [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
@@ -204,6 +220,7 @@
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [ ] [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
 - [ ] [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
   - InsaneLib
@@ -266,9 +283,6 @@
 - [ ] [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
   - UTeamCore
 
-# V
-- [ ] [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
-
 # W
 - [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
   - WaterMeDIA
@@ -282,6 +296,8 @@
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
+- [ ] [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [ ] [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
   - McJtyLib
   - RFTools Base
