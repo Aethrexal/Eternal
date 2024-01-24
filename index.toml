@@ -182,7 +182,7 @@ hash = "f774c951d1cb1e61be54fef834266f8a01b338f1da0820702389458fc749ae88"
 
 [[files]]
 file = "defaultconfig/openpartiesandclaims-server.toml"
-hash = "5a55b0cb6a842ed0e75fd1f92d8fed81e61d5716b43c7636be346cf4f4610eea"
+hash = "0ffc005c8a7a487342625951555cd767143ff21a25721dd3b0388bd4e6269c5d"
 
 [[files]]
 file = "defaultconfig/securitycraft-server.toml"
