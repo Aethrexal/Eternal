@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "410f6663d3168dfa63aac02d5f36ca78dc2e773ed7a4230922feb5d7d39e5460"
+hash = "f76eb4573984b2fe3ce1557c69864f7d35d42ed1c7e9dffa1c0250db4c182aa4"
 metafile = true
 
 [[files]]

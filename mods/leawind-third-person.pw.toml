@@ -15,4 +15,4 @@ project-id = 930880
 [option]
 optional = true
 default = false
-description = "REQUIRES YETANOTHERCONFIGLIB         This mod provides an improved third-person perspective."
+description = "This mod provides an improved third-person perspective."
