@@ -1,5 +1,47 @@
 # Changelog
 
+## 4.7.0
+
+### Added
+
+- Ice and Fire: Dragons
+- Leawind's Third Person **Optional**, **Client**
+- Sophisticated Backpacks
+- Sophisticated Core
+- LittleTiles
+- Create: Steam 'n' Rails
+
+- Inventory Sorter
+- Almost Unified
+- Create: Misc & Things
+- Create: Diesel Generators
+- Electrodynamics
+- Nuclear Science
+- Dynamic Electricity
+- Ballistix
+
+### Removed
+
+- Mouse Tweaks
+
+### Updated
+
+- Macaw's Paths and Pavings
+- Every Compat
+- WATERMeDIA
+- Puzzles Lib
+- Moonlight Lib
+- AmbientSounds
+- CreativeCore
+- Supplementaries
+
+### Changed
+
+- Supplementaries
+  - Disabled Red Merchant from spawning
+
+---
+
 ## 4.6.0
 
 ### Added

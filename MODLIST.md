@@ -8,6 +8,7 @@
   - Botarium
 - [ ] [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
   - Citadel
+- [ ] [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified)
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
@@ -27,6 +28,7 @@
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
+- [ ] [Ballisitx](https://www.curseforge.com/minecraft/mc-mods/ballistix)
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [ ] [Beautified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
   - Collective
@@ -62,9 +64,13 @@
 - [ ] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [ ] [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)
+- [ ] [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
+- [ ] [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 - [ ] [Cucumber Library](https://www.curseforge.com/minecraft/mc-mods/cucumber)
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+- [ ] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
 - [ ] [Death Counter (Forge)](https://www.curseforge.com/minecraft/mc-mods/death-counter)
@@ -76,9 +82,11 @@
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
   - Collective
+- [ ] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
 
 # E
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+- [ ] [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
@@ -134,8 +142,11 @@
 - [ ] [Hole Filler Mod](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)
 
 # I
+- [ ] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+  - Citadel
 - [ ] [Iceberg [Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg)
 - [ ] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [ ] [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [ ] [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib)
 - [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
@@ -152,6 +163,7 @@
 - [ ] [Kiwi 🥝 (Forge)](https://www.curseforge.com/minecraft/mc-mods/kiwi)
 
 # L
+- [ ] [Leawind's Third Person](https://www.curseforge.com/minecraft/mc-mods/leawind-third-person) **Client**, **Optional**
 - [ ] [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) **Client**
   - Prism
   - Iceberg
@@ -160,6 +172,8 @@
   - Architectury
 - [ ] [Lightning Wand 🌟 (Forge)](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)
   - Kiwi
+- [ ] [LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
+  - CreativeCore
 - [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 
 # M
@@ -183,7 +197,6 @@
 - [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - [ ] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
-- [ ] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) **Client**
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
   - SuperMartijn642's Core Lib
   - SuperMartijn642's Config Lib
@@ -202,6 +215,7 @@
 - [ ] [NiftyBlocks](https://www.curseforge.com/minecraft/mc-mods/niftyblocks)
 - [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+- [ ] [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science)
 
 # O
 - [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
@@ -257,6 +271,9 @@
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [ ] [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [ ] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+  - Sophisticated Core
+- [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
   - Puzzles Lib
