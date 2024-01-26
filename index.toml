@@ -26,7 +26,7 @@ hash = "9dd54267ae6eb4d0841c01e9a7e461be24b863ff940704b08ec972cff4ba6eb0"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f71c9387657fbe4c9f7b5a0187db9e09d42ae7f7616774da5dd865dd427e84cc"
+hash = "37f6b388ae53ea7546d5f33c129dba2fc4471f5655fb61729e874b845f077846"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -296,11 +296,6 @@ hash = "50cf3ca0c18c832d626682aa7c6a544dfa3cadd139327eca545593a846549e46"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.pw.toml"
-hash = "722be7806a099160e97c72ef662188223d6bb8d76bfe59ddf50a54d4afeb6663"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
@@ -496,11 +491,6 @@ hash = "39d7c5ae22bc81add73399d5bf75b633018f9a24afccd3e9c0c108926892d117"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-electricity.pw.toml"
-hash = "0d5deaff9c9f10781467fc9fd22492a4be9acf37c0deebb35b37353747dbd03e"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "23f60d031671337d14d68011dd30ba921abe7f84c3eb8e66c60df0b853c0dd40"
 metafile = true
@@ -508,11 +498,6 @@ metafile = true
 [[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "0bf7b07a3c3a7f5220f6a30c07a8ca0fcf51927553a5fa4f73d39e5ef07a440e"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "84fa4046e1fc0e2c3c2ddc35f25fe3359320b2deade1a77a370c90a376d827bc"
 metafile = true
 
 [[files]]
@@ -883,11 +868,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "165612664bf8ecd6f5d3ff6a6181293cc1233116f72c71c7a1cbb8c59aca1944"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "a41db9b774bad5be04780cc355032815d48e891592a6b733f2602ab77e8c5e30"
 metafile = true
 
 [[files]]

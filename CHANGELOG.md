@@ -1,5 +1,16 @@
 # Changelog
 
+## 4.7.1
+
+### Removed
+
+- Electrodynamics
+- Nuclear Science
+- Dynamic Electricity
+- Ballistix
+
+---
+
 ## 4.7.0
 
 ### Added

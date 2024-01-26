@@ -28,7 +28,6 @@
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
-- [ ] [Ballisitx](https://www.curseforge.com/minecraft/mc-mods/ballistix)
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [ ] [Beautified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
   - Collective
@@ -82,11 +81,9 @@
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
   - Collective
-- [ ] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
 
 # E
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
-- [ ] [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
   - Puzzles Lib
@@ -215,7 +212,6 @@
 - [ ] [NiftyBlocks](https://www.curseforge.com/minecraft/mc-mods/niftyblocks)
 - [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
 - [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
-- [ ] [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science)
 
 # O
 - [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
