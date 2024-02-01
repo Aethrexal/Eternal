@@ -164,6 +164,9 @@
 - [ ] [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) **Client**
   - Prism
   - Iceberg
+- [ ] [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
+  - Citadel
+  - Curios API
 - [ ] [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
   - Cloth Config
   - Architectury

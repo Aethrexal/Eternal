@@ -1,5 +1,47 @@
 # Changelog
 
+## 4.7.2
+
+### Added
+
+- L_Ender's Cataclysm
+
+### Updated
+
+- Moonlight Lib
+- The Aether
+- Curios API
+- Jade
+- CC: Tweaked
+- The Twilight FOrest
+- Ad Astra
+- Create Crafts & Additions
+- Every Compat
+- Resourceful Lib
+- Puzzles Lib
+- Embeddium
+- Comforts
+- GeckoLib
+- Chat Heads
+- Cupboard
+- Supplementaries
+- Botarium
+- Forgematica
+- First-person Model
+- JEI
+- MaFgLib
+
+### Changed
+
+- Progressive Bosses
+  - Disabled adventure mode for water temples if an Elder Guardian is close by.
+- Gravestone
+  - Sneaking on the grave will now get your items back as well.
+- Open Parties and Claims
+  - Heilicopter, Planes and Large planes have been added as an option to disable or enable others to interact, letting you enable it so people can get their things back if they land there.
+
+---
+
 ## 4.7.1
 
 ### Removed

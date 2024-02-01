@@ -1,16 +1,16 @@
 name = "First-person Model"
-filename = "firstperson-forge-2.3.0-mc1.20.1.jar"
+filename = "firstperson-forge-2.3.2-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/Ao3IYF3s/firstperson-forge-2.3.0-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/40BwJuPd/firstperson-forge-2.3.2-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "b3e9d6faa2d8800611b4191a4564aa47b3277c86"
+hash = "8bf40c047d3a117fd9ca58a11ee98fb1a569d4c7"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "Ao3IYF3s"
+version = "40BwJuPd"
 
 [option]
 optional = true
