@@ -105,6 +105,10 @@ file = "config/progressivebosses-common.toml"
 hash = "0849300c95b9a3948ec32a0fdbef0902cf20aec3183f9fed3ce92f88d438904a"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "8f340d9425d6d490e6f3b8c837d176238ac6e944568d1a1bf678732f6f38cfd5"
+
+[[files]]
 file = "config/rightclickharvest.toml"
 hash = "85dce0ae7a6e1e38ebb590e2df851036db7bcd086ca476581ed2efe3fa13ef22"
 
