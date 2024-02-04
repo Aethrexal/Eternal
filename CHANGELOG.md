@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.7.3
+
+### Added
+
+- Quark
+- Zeta
+- RFTools Utility
+
+### Updated
+
+- Chipped
+- Oculus
+- Every Compat
+- Macaw's Roofs
+- Supplementaries
+- Ad Astra
+- Embeddium
+- Exposure
+- First-person Model
+- Sophisticated Core
+- Sophisticated Backpacks
+
+---
+
 ## 4.7.2
 
 ### Added

@@ -239,6 +239,10 @@
   - InsaneLib
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
+# Q
+- [ ] [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+  - Zeta
+
 # R
 - [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
@@ -255,6 +259,9 @@
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
 - [ ] [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
   - McJtyLib
+- [ ] [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
+  - McJtyLib
+  - RFTools Base
 - [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
 
 # S
@@ -320,3 +327,4 @@
 
 # Z
 - [ ] [ZeroCore 2](https://legacy.curseforge.com/minecraft/mc-mods/zerocore)
+- [ ] [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)

@@ -26,7 +26,7 @@ hash = "9dd54267ae6eb4d0841c01e9a7e461be24b863ff940704b08ec972cff4ba6eb0"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7a74423374f454557026f2384ecf4575845f556c0a363a8dc032b41e243a1fa3"
+hash = "dac2e898fde61f534788e8b0cc790e8b84244b54d67d526d24134893e41a84f0"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -231,7 +231,7 @@ hash = "6d3a51e727d795ea8e0e4abf39ad88a1989bc553ef68df923c0b529c90c10454"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "01c2dfd6dd78954c5c0f095b2bc371b6ea8f37521b76255cbf83487d797d02b8"
+hash = "5e5edbb8a0efc9bc7598672f0826891b3d5abc97db329ab7583f4d650c07744f"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
+hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
+hash = "cacc272fbc39792570ea3e72ad8856cb0b923f69ecea2beb6b1560f00411d178"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e51dd77e77bc5e8291707f4691636639afbef30b640f8a46c4c1f50e6f35c7a7"
+hash = "e0b8bdd9fb14980b99f79d904d4e3b4e58b1551676a2fe6eb527751155a1ddad"
 metafile = true
 
 [[files]]
@@ -531,12 +531,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d5733ddd613b3a360a8efc03593bca2cf04e58eb5cb26fe7bfcc914dfe075c6b"
+hash = "fee90a2dfde9144736fd5a9001ce4240ba5f2c2a352bec0f7b575951997b1d1c"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "34a35839b7fa838d53f08c983be5780de3836584076f6012680c698ea24b1441"
+hash = "e865d328eb6badd94758241da83956ed1a5140931bf1afe87569dd812ac44686"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "c156827ed8cf022672f9a6d09c04a41a26924b75ca9bd31c4f6443fac18e2335"
+hash = "d0400f356428e0b13d2c699a461af9168513d424cea5cb57e6728c4badfa761e"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "18844b7f2a830c1d701ad2c0b9ac3ffbfd69b2abffa5ea80be9e1686e3c153de"
+hash = "814eb30339dae8d7aaf2e6d7f12a37300747c3142e6d4bb8dc2ce5ece43960b3"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "58abaf38f69d3183c5aa446a79e8961da63255efe693b7e86ae2efda369588ac"
+hash = "ae7b1da68ddb7ddfdd0b88a52f3e8c5816fe56a2d7002a18a528bb4d4d614cb8"
 metafile = true
 
 [[files]]
@@ -955,6 +955,11 @@ hash = "7a3bf97693ed052edf97f53e38a035244415b8fc0db346c8bac6efab2f457d94"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "97d45f3ca0f8eab2e22c1ef158b94e35dbd29632d852716e72dd923546969925"
+metafile = true
+
+[[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
 hash = "9a50f359c80885f8ef12c1161878d02f5f7496555d90358ecaad48456924a7fa"
 metafile = true
@@ -992,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "c79a31ab51998f7ecb2ef8f0c3397fe9eb4d079e1649d1850af3d8d7d531f673"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "d45a51ad9f1658df456f10f9b1dfba48429a2d3451b9f397bb7f49994d16c31f"
 metafile = true
 
 [[files]]
@@ -1056,12 +1066,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "87f65e6facf6f4cb44331ad7700f706bbbe6376678bcdac3feedc3d802d10732"
+hash = "d93b370935b00d2460bc6a29d1e04af19606962524e5e9dae5eb2fc232f3711c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ce696c09e68dd81a8b08a3e6a0fdc484a5ce0b2d9cde16ac71df9b86c0ec1de5"
+hash = "0efaf17ef62391554f3f4fb43c2892df00006a0bb25d74c83891721340c821cb"
 metafile = true
 
 [[files]]
@@ -1091,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "29aa7757b4d523a97ceca58477faa7b97141fa46cc46765b4386e4e40568bba6"
+hash = "e59744e5aecaf2bd60ac1cba1d0625e0cf84a599f956723f9a21342ed1887a0e"
 metafile = true
 
 [[files]]
@@ -1187,4 +1197,9 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "60fd10d77b6b1c06696b082895f75e1de441d9a3b31c5b6289461d0445318a5f"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "6a0428a47e610461e4a69031274e91e486a11db617dab1fd1602cd95103b35d6"
 metafile = true
