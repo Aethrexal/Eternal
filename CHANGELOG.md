@@ -1,5 +1,75 @@
 # Changelog
 
+## 4.7.4
+
+### Added
+
+- TexTrue's Embeddium Options
+- Amendments
+
+### Removed
+
+- FTB Chunks
+- FTB Library
+- FTB Teams
+
+
+### Updated
+
+- Not Enough Animations
+- Fusion
+- Create Crafts & Additions
+- Almost Unified
+- Resourceful Lib
+- Silent Gear
+- CreativeCore
+- Just Enough Items
+- Moving Elevators
+- AmbientSounds 5
+- Supplementeries
+- Sophisticated Core
+- Dimensional Dungeons
+- ExtraSounds
+- CC: Tweaked
+- Create: Diesel Generators
+- WATERMeDIA
+- Curios API
+- LittleTiles
+- Embeddium
+- Oculus
+- Magnesium Extras
+- Ales'x Caves
+- Botarium
+- Ice and Fire
+- PneumaticCraft
+- Athena
+- Puzzles Lib
+- Sophisticated Backpacks
+- Colletive
+- Weather, Storms & Tornadoes
+- Placebo
+- Simple Planes
+- Moonlight Lib
+- CoroUtil
+- FastWorkbench
+- Ad Astra
+- Architectury API
+- Mekanism Genreators
+- Handcrafted
+- Pam's HarvestCraft 2 - Food Core
+- Exposure
+- Doggy Talents Next
+- Every Compat
+- Quark
+- Mekanism
+- Citadel
+
+### Notes 
+
+- Supplemetnaries seperated into yet another mod called Amendments. So if you used any blocks that got moved to that mod and you feel like something's missing, then that's probably why.
+
+---
+
 ## 4.7.3
 
 ### Added

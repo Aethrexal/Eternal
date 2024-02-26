@@ -1,13 +1,13 @@
 name = "Dimensional Dungeons"
-filename = "dimdungeons-180-forge-1.20.0.jar"
+filename = "dimdungeons-191-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9051e61fc3144f10419d9cafc514a1ee372ba8c"
+hash = "25f2a5b506beaebee023abbefa04c61902f68d9d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4827968
+file-id = 5137249
 project-id = 352222

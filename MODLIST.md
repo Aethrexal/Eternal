@@ -11,6 +11,7 @@
 - [ ] [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified)
 - [ ] [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
   - CreativeCore
+- [ ] [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
   - Collective
 - [ ] [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
@@ -115,15 +116,6 @@
   - MaFgLib
   - I recommend watching [this video](https://www.youtube.com/watch?v=ApFkqk3CltU) for instructions.
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
-  - Architectury API
-  - FTB Library
-  - FTB Teams
-- [ ] [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
-  - Architectury
-- [ ] [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
-  - FTB Library
-  - Architectury API
 - [ ] [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
 # G
@@ -188,6 +180,7 @@
 - [ ] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**
 - [ ] [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) **Client**
 - [ ] [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) **Client**
+  - TexTrue's Embeddium Options
 - [ ] [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [ ] [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) **Client**
 - [ ] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
@@ -290,6 +283,8 @@
   - Moonlight Lib
 
 # T
+- [ ] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
+  - Embeddium
 - [ ] [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Tiny Gates](https://www.curseforge.com/minecraft/mc-mods/tiny-gates)
