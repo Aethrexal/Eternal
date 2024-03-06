@@ -1,5 +1,35 @@
 # Changelog
 
+## 4.7.5
+
+### Updated
+
+- Cupboard
+- Balm
+- Embeddium
+- Iceberg
+- Moonlight Lib
+- Supplementaries
+- Exposure
+- Sophisticated Core
+- Alex's Caves
+- Citadel
+- Almost Unified
+- Connectivity
+- Every Compat
+- FramedBlocks
+- Kiwi
+- Pam's HarvestCraft 2 - Food Extended
+- Amendments
+- InsaneLib
+- Cooking for Blockheads
+- Quark
+- Zeta
+- Sophistcated Backpacks
+- First-person model
+
+---
+
 ## 4.7.4
 
 ### Added
