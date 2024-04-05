@@ -3,9 +3,11 @@
 
 # A
 - [ ] [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
-  - Resourceful Lib
-  - Resourceful Config
-  - Botarium
+	- Resourceful Lib
+	- Resourceful Config
+	- Botarium
+- [ ] [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
+	- ForgeEndertech
 - [ ] [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
   - Citadel
 - [ ] [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified)
@@ -13,160 +15,143 @@
   - CreativeCore
 - [ ] [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
-  - Collective
-- [ ] [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
-- [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) **Client**
-- [ ] [Architectury API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
-- [ ] [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
-  - Ars Nouveau
-  - Create
-- [ ] [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-  - Curios
-  - Patchouli
-  - GeckoLib
+	- Collective
+- [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [ ] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
-- [ ] [Auto Leveling](https://www.curseforge.com/minecraft/mc-mods/auto-leveling)
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
+- [ ] [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
+	- Electrodynamics
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
-- [ ] [Beautified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
-  - Collective
-- [ ] [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
-- [ ] [Better Combat [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
-  - playerAnimator
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+- [ ] [Beutified Chat [Server](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
-  - Structure Gel API
-- [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
-- [ ] [Bobby Reforged](https://www.curseforge.com/minecraft/mc-mods/bobby-reforged) **Client**, **Optional**
+	- Structure Gel API
 - [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
+- [ ] [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [ ] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
-- [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+- [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) **Client**
 - [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
-  - Resourceful Lib
-  - Athena
+	- Resourceful Lib
+	- Athena
 - [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+	- Cupboard
 - [ ] [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
-- [ ] [Cloth Config API (Fabcri/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) **Client**
-- [ ] [Cluttered](https://www.curseforge.com/minecraft/mc-mods/cluttered)
+- [ ] [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [ ] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) **Server**
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [ ] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
-  - Cupboard
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
-  - Searchables
+	- Searchables
 - [ ] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
-  - Balm
+	- Balm
 - [ ] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
-- [ ] [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)
+	- Create
 - [ ] [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
+	- Create
 - [ ] [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
+	- Create
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
-- [ ] [Cucumber Library](https://www.curseforge.com/minecraft/mc-mods/cucumber)
+- [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+	- EpheroLib
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
-- [ ] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
-- [ ] [Death Counter (Forge)](https://www.curseforge.com/minecraft/mc-mods/death-counter)
-- [ ] [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
-- [ ] [Diagonal Fences [Foge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
-  - Puzzles Lib
+- [ ] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
+	- Puzzles Lib
 - [ ] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
+- [ ] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
-  - Collective
+	- Collective
+- [ ] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
+	- Structure Gel
+- [ ] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
+	- Electrodynamics
 
 # E
 - [ ] [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+- [ ] [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
-- [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
-  - Puzzles Lib
+- [ ] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
+	- Embeddium
 - [ ] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
   - ETF
-- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client**
+- [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
+	- Puzzles Lib
+- [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
+- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client**
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
-  - Moonlight Lib
+	- Moonlight Lib
 - [ ] [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure)
-- [ ] [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
-  - Refined Storage
-- [ ] [ExtraSounds Forge](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge)
 - [ ] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
-  - ZeroCore 2
+	- ZeroCore 2
 
 # F
-- [ ] [FallingTree (Forge&Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
-- [ ] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client** ***Optional***
-  - Cupboard
+- [ ] [Farsight [Forge](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
+	- Cupboard
 - [ ] [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
-  - Placebo
+	- Placebo
 - [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-  - Placebo
-- [ ] [FerriteCore (Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
-- [ ] [First-person Model](https://modrinth.com/mod/first-person-model) **Client**, **Optional**
+	- Placebo
+- [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ ] [First-person Model (Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/first-person-model) **Client**, **Optional**
 - [ ] [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
-- [ ] [Forgematica](https://modrinth.com/mod/forgematica?hl=en-US) **Client**, **Optional**
-  - MaFgLib
-  - I recommend watching [this video](https://www.youtube.com/watch?v=ApFkqk3CltU) for instructions.
+- [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
+- [ ] [Forgematica](https://modrinth.com/mod/forgematica) **Client**, **Optional**
+	- MaFgLib
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
 # G
-- [ ] [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity)
-  - Apothic Attributes (AttributesLib)
-- [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [ ] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
 - [ ] [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
+	- Structure Gel API
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 # H
 - [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
+	- Resourceful Lib
 - [ ] [Hole Filler Mod](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)
+- [ ] [Hyperbox](https://www.curseforge.com/minecraft/mc-mods/hyperbox)
 
 # I
 - [ ] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-  - Citadel
-- [ ] [Iceberg [Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg)
+	- Citadel
+- [ ] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
 - [ ] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
-- [ ] [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
-- [ ] [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib)
-- [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
-
-# J
-- [ ] [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
-- [ ] [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
-- [ ] [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
-  - JourneyMap
-- [ ] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 # K
 - [ ] [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
-  - Balm
-- [ ] [Kiwi 🥝 (Forge)](https://www.curseforge.com/minecraft/mc-mods/kiwi)
+	- Balm
 
+# J
+- [ ] [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+- [ ] [Jade Addons (Forge](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+	- Jade
+- [ ] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
+	
 # L
-- [ ] [Leawind's Third Person](https://www.curseforge.com/minecraft/mc-mods/leawind-third-person) **Client**, **Optional**
-- [ ] [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) **Client**
-  - Prism
-  - Iceberg
-- [ ] [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
-  - Citadel
-  - Curios API
 - [ ] [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
-  - Cloth Config
-  - Architectury
-- [ ] [Lightning Wand 🌟 (Forge)](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)
-  - Kiwi
+	- Architectury API
+	- Cloth Config
+- [ ] [LittlePictureFrames](https://www.curseforge.com/minecraft/mc-mods/littleframes)
+	- CreativeCore
+	- WATERMeDIA API
 - [ ] [LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
-  - CreativeCore
-- [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+	- CreativeCore
+- [ ] [Login Protection[Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+	- Cupboard
 
 # M
 - [ ] [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
@@ -177,149 +162,117 @@
 - [ ] [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [ ] [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [ ] [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
-- [ ] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**
-- [ ] [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) **Client**
-- [ ] [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) **Client**
-  - TexTrue's Embeddium Options
-- [ ] [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
-- [ ] [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) **Client**
+- [ ] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**, **Required if Forgematica is enabled**
+- [ ] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+	- Mekanism
 - [ ] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
 - [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
-- [ ] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-- [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - [ ] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
-- [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
+- [ ] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) **Client**
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
-  - SuperMartijn642's Core Lib
-  - SuperMartijn642's Config Lib
-- [ ] [MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
-- [ ] [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
-  - Mystical Agriculture
-- [ ] [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
-  - Cucumber Library
+	- SuperMartijn642's Core Lib
+	- SuperMartijn642's Config Lib
 
 # N
-- [ ] [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
-  - GeckoLib
 - [ ] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
-  - Balm
-- [ ] [NiftyBlocks](https://www.curseforge.com/minecraft/mc-mods/niftyblocks)
-- [ ] [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) **Client**, **Optional**
-- [ ] [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+	- Balm
+- [ ] [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) **Client**, **Optional**
+- [ ] [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science)
+	- Electrodynamics
 
 # O
-- [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Optional**, **Client**
-  - Embeddium
+- [ ] [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) **Client**, **Optional**
 - [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
-- [ ] [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
-- [ ] [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
-- [ ] [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
-- [ ] [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+- [ ] [Paintings with Dragons](https://www.curseforge.com/minecraft/mc-mods/paintings-with-dragons)
+- [ ] [Paintings++](https://www.curseforge.com/minecraft/mc-mods/paintings)
+	- Cloth Config
+	- Transparent
 - [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [ ] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
+- [ ] [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
-- [ ] [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
-  - Patchouli
+	- Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
-- [ ] [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
-- [ ] [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
-  - InsaneLib
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # Q
 - [ ] [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
-  - Zeta
+	- Zeta
 
 # R
+- [ ] [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 - [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
-- [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
-  - SuperMartijn642's Core Lib
-  - SuperMartijn642's Config Lib
-  - Fusion (Connected Textures)
-- [ ] [Refined Cooking](https://www.curseforge.com/minecraft/mc-mods/refined-cooking)
-  - SebestrnLib
-  - Refined Storage
-  - Cooking for Blockheads
+- [ ] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
 - [ ] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
+	- Refined Storage
+	- Polymorph
 - [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [ ] [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+	- Refined Storage
+- [ ] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [ ] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
-- [ ] [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
-  - McJtyLib
-- [ ] [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
-  - McJtyLib
-  - RFTools Base
 - [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
 
 # S
 - [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
-- [ ] [SebastrnLib](https://www.curseforge.com/minecraft/mc-mods/sebastrnlib)
 - [ ] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 - [ ] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+- [ ] [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 - [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
-  - Silent Lib
+	- Silent Lib
 - [ ] [Silent Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
-  - Silent Lib
-- [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+	- Silent Lib
+- [ ] [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [ ] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
-- [ ] [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [ ] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
   - Sophisticated Core
 - [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
-  - Puzzles Lib
+	- Puzzles Lib
 - [ ] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+- [ ] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [ ] [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
-  - Moonlight Lib
+	- Moonlight Lib
 
 # T
+- [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
 - [ ] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
-  - Embeddium
-- [ ] [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [ ] [Tiny Gates](https://www.curseforge.com/minecraft/mc-mods/tiny-gates)
-- [ ] [Tiny Redstone](https://www.curseforge.com/minecraft/mc-mods/tiny-redstone)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
-  - Placebo
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
-- [ ] [Too Many Glyphs](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)
-  - Ars Nouveau
+- [ ] [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent)
+- [ ] [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
+	- Collective
 
 # U
-- [ ] [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
-- [ ] [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
-  - UTeamCore
+- [ ] [Underground Villages](https://www.curseforge.com/minecraft/mc-mods/underground-villages)
 
 # W
-- [ ] [WATERFrAMES: Online Picture and Video Frame](https://www.curseforge.com/minecraft/mc-mods/waterframes)
-  - WaterMeDIA
-  - CreativeCore
-- [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia) **Client**
+- [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia)
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-  - Balm
-- [ ] [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
-  - CoroUtil
-- [ ] [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
+	- Balm
+- [ ] [What Are They Up To (Watnut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
+	- CoroUtil
+- [ ] [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
 - [ ] [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [ ] [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-- [ ] [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
-  - McJtyLib
-  - RFTools Base
 
 # Z
-- [ ] [ZeroCore 2](https://legacy.curseforge.com/minecraft/mc-mods/zerocore)
+- [ ] [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 - [ ] [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)

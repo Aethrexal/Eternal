@@ -1,5 +1,193 @@
 # Changelog
 
+## 4.8.0
+
+Started from a blank slate and I've:
+
+### Added/Re-added
+
+- Better Compatibility Checker
+- 3D Skin Layers **Client**
+- Almost Unified
+- Ad Astra
+- Resourceful Lib
+- Resourceful Config
+- Botarium
+
+- AmbientSounds 5 **Client**
+- CreativeCore
+- Supplementaries
+- Moonlight Lib
+- Comforts
+- Polymorph
+- Xaero's Minimap
+
+- Sophisticated Backpacks
+- Sophisticated Core
+- Oculus **Client**, **Optional**
+- Carry On
+- Create
+- The Twilight Forest
+- Embeddium **Client**
+- Server Performance - Smooth Chunk Save
+- Cupboard
+- Toast Control
+- Placebo
+
+- Amendments
+- Sound Physics Remastered
+- Create Crafts & Additions
+- FastWorkbench
+- Storage Drawers
+- FastFurnace
+- Mekanism
+- Create: Steam 'n' Rails
+- Refined Storage
+- Mekanism Generators
+- Farsight **Client**, **Optional**
+- Entity Model Features  **Client**, **Optional**
+- Entity Texture Features  **Client**, **Optional**
+- Blue Skies
+- Structure Gel API
+
+- Chunk Sending
+- Ice and Fire: Dragons
+- Security Craft
+- Refined Storage Addons
+- Jade
+- Jade Addons
+- FramedBlocks
+- Open Parties and Claims
+- Neruina - Ticking Entity Fixer
+- Login Protection
+- Embeddium Extra **Client**
+- PneumaticCraft: Repressurized
+- Patchouli
+- Double Doors
+- Collective
+- RightClickHarvest
+- Model Gap Fix **Client**
+- What Are They Up To
+- CoroUtil
+- GraveStone Mod
+- TexTrue's Embeddium Options
+
+- Refined Polymorphism
+- Tree Harvester
+- Create: Misc & Things
+- Advanced Chimneys
+- ForgeEndertech
+- Ultimate Car Mod
+- Simple Planes
+- Moving Elevators
+- SuperMartijn642's Core Lib
+- SuperMartijn642's Config Lib
+- Exposure
+- Redstone Pen
+- Just Enough Items
+- Mouse Tweaks **Client**
+- AppleSkin
+- Clumps **Server**
+- Waystones
+- Balm
+
+- Quark
+- Zeta
+- FerriteCore
+- Not Enough Animations **Client**, **Optional**
+- First-person Model **Client**, **Optional**
+- Chipped
+- Athena
+- NetherPortalFix
+- Macaw's Doors
+- Macaw's Bridges
+- Handcrafted
+- Serene Seasons
+- Macaw's Fences and Walls
+- Macaw's Windows
+- Bad wither no cookie **Client**
+- Repurposed Structures
+- Too Fast **Server**
+- CC: Tweaked
+
+- Construction Wand
+- KleeSlabs
+- Chat Heads **Client**
+- Macaw's Trapdoors
+- Macaw's Lights and Lamps
+- Macaw's Roofs
+- Pipez
+- Simply Light
+- Macaw's Paths and Pavings
+- Every Compat
+- WorldEdit
+- Diagonal Fences
+- Puzzles Lib
+- Dungeons Enhanced
+- Presence Footsteps
+- Hyperbox
+- Eternally Random
+
+- WI Zoom **Client**
+- Global XP
+- Enchanting Infuser
+- Dimensional Dungeons
+- Doggy Talents Next
+- Good Night's Sleep
+- Straw Statues
+- Underground Villages
+- Ice and Fire: Dragonseeker
+- Beautifed Chat **Server**
+- Forgematica **Client**, **Optional**
+- MaFgLib **Client**, **Required if Forgematica is enabled**
+
+- Tab Stats
+- LittlePictureFrames
+- WATERMeDIA API
+- Realistic Horse Genetics
+- Path Under Gates
+- Anvil Restoration
+- Hole Filler Mod
+- Easier Sleeping
+- Immersive Engineering
+- Modular Force Field Systems
+- Railcraft Reborn
+- Paintings with Dragons
+- Flux Networks
+- Extreme Reactors
+- ZeroCore 2
+- Ballistix
+- Electrodynamics
+- Nuclear Science
+- Dynamic Electricity
+
+- Silent Lib
+- Silent Gear
+- Silent Gems
+- Bluemap **Server**
+- Discord Integration **Server**
+- Do a Barrel Roll **Optional**
+- Paintings ++
+- Cloth Config
+- Transparent
+- Light Overlay **Client**
+- Architectury API **Client at the moment as only Light Overlay uses it**
+
+- Croptopia
+- EpheroLib
+- Cooking for Blockheads
+
+### Notes
+
+- You *might* have to update version of NeoForged yourself if it doesn't launch. To do that use [this](https://github.com/Rinnray/Eternal?tab=readme-ov-file#updating-neoforge) guide.
+
+- Ballistix might mess some Shaders up, if you do play with shaders and you notice anything weird then you're either gonna have to change or play without.
+
+- Previous version had 208 with all optionals enabled (Except bobby if you had farsight enabled and vice versa) and 200 mods without. This version have 175 mods with all optionals and 166 without.
+
+
+---
+
 ## 4.7.5
 
 ### Updated

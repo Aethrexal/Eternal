@@ -1,13 +1,13 @@
 name = "Silent's Gems"
-filename = "silents-gems-1.20.1-4.6.0.jar"
+filename = "silents-gems-1.20.1-4.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c76023b0af9dd4234261fb0de17c714bb8c0f46f"
+hash = "2dca75abd7df2c09b96533a4de13637868035c2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4606142
+file-id = 5193708
 project-id = 220311

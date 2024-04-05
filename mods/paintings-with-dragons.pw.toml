@@ -1,0 +1,13 @@
+name = "Paintings with Dragons"
+filename = "blackaures_paintings-1.20.1_forge_02.03.2024.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab137894f5750c8fe24bae3bad715bdde4fed49e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5150850
+project-id = 666907

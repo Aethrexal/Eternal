@@ -11,3 +11,7 @@ hash = "27dd39bccae147b9b8a9c5ce8478c2693a3ff1e1"
 [update.modrinth]
 mod-id = "SKI34J7B"
 version = "pi119Otk"
+
+[option]
+optional = true
+description = "**REQUIRED IF USING FORGEMATICA**!!!!!"

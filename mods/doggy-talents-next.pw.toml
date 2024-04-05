@@ -1,13 +1,13 @@
 name = "Doggy Talents Next"
-filename = "DoggyTalentsNext-1.20.1-1.18.8.jar"
+filename = "DoggyTalentsNext-1.20.1-1.18.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "08b5cb7f67e53d3fd7bddf2479fc020f43956f01"
+hash = "ecc90959b0379f62a46ca5e17cd9747e0df1fc3f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5125076
+file-id = 5208436
 project-id = 694492

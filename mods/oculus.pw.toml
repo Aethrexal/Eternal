@@ -14,4 +14,4 @@ project-id = 581495
 
 [option]
 optional = true
-description = "Oculus is an Unofficial Fork of Iris, made to work with Forge Mod Loader. Which is a shaders mod compatible with OptiFine shaderpacks."
+description = "Oculus is an Unofficial Fork of Iris, made to work with Forge Mod Loader. Which is a shaders mod compatible with OptiFine shaderpacks. Only have it installed if you're actually planning to play with Shaders as it can cause rendering bugs."

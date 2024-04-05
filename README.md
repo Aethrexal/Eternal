@@ -15,7 +15,7 @@ Not really much else to it, made so it also can be played with a server with fri
 1. Download [PrismLauncher](https://prismlauncher.org/download/)
 2. Click "Add Instance"
 3. On the left side press "Import from zip"
-4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/4.1.1/Eternal.zip` or download the [latest](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
+4. Then either copy this url and paste it `https://github.com/Rinnray/Eternal/releases/download/4.1.2/Eternal.zip` or download the [latest](https://github.com/Rinnray/Eternal/releases) the zip file and import it that way.
 5. Click "OK"
 6. Done, unless you wanna change RAM then keep reading
 
@@ -39,7 +39,7 @@ At times it might be needed for you to manually update the NeoForge version when
 3. Select "Version"
 4. Select "NeoForge" in the list
 5. Click "Change version" on the right side
-6. Select "47.1.81"
+6. Select "47.1.103"
 7. Click "OK" then "Close"
 8. Done
 

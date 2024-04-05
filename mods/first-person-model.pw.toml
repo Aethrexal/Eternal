@@ -14,4 +14,5 @@ version = "lAVzC1ft"
 
 [option]
 optional = true
-description = "SITTING ON MODDED CHAIRS/MOUNTS DOESN'T LOOK RIGHT!         Farsight is a client-side util which lets you see farther on servers than the servers view distance. It works by having the client keep the chunks even when the server unloads them, up to a max distance of 64 chunks(configurable)."
+description = "SITTING ON MODDED CHAIRS/MOUNTS DOESN'T LOOK RIGHT!         Enables the third-person Model in first-person, so you can experience Minecraft from Steve's real perspective."
+
