@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "51d51780a7cd6b878aec4dbd8da7c5c3da056cbb0bfd70daf6d66333848d9646"
+hash = "8573c691bd6b02959ba4c5fe2d71a571545886069c704cbda24455c220be38df"
 
 [[files]]
 file = "config/comforts-server.toml"
