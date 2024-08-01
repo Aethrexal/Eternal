@@ -1,5 +1,19 @@
 # Changelog
 
+## 6.0.2
+
+### Removed
+
+- Placebo
+- Toast Control
+- FastWorkbench
+
+### Added
+
+- Xaero's World Map
+
+---
+
 ## 6.0.1
 
 ### Removed

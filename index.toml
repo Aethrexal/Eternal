@@ -248,11 +248,6 @@ hash = "d22aea6116117849430f9e0ccbcb9e802778578993a5b3786c92355faf57a134"
 metafile = true
 
 [[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "23350ec67ce9cf11066bb531a12371f81fc6cfb400fe4c838ab621aa0b912696"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "825fcd41d694336e01c4cf83f56b37b13d634456acf48ce0975080e2aa73d16b"
 metafile = true
@@ -373,11 +368,6 @@ hash = "d760277a9585cad52a21c1241f650d978e60c1d3f97c8d1879cbcf5cd5cc482c"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "f85ea225b1842973787048fee59e2baff821349dcac41926ebd05928eedb427b"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "26a4f97c97b0a10af269606242111aca83f2bd08d025f39b70344b5be361acc9"
 metafile = true
@@ -448,11 +438,6 @@ hash = "fc39cc124c2df1c32c3b07d9995e69246d4162aad19f50625fea875af429ef29"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "9775812a092e19bcd6d153319e475dbcc2a539577362c2658ee502bf4968cc89"
-metafile = true
-
-[[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "b6dee338f2e5b5905e1ed23c71f81a6c91fb9532162d83c6b9446a871287f66a"
 metafile = true
@@ -490,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "62312c25a5407fcd64c1d13cdfa5671380a436d4025bc5840ee376a7ea759101"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7fa7c3278b046b868df4ab17660491db4f5fa73ed0f74228be16ecdde1ee83fe"
 metafile = true
 
 [[files]]

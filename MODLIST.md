@@ -63,8 +63,6 @@
 	- Balm
 - [ ] [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
 	- Cupboard
-- [ ] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-	- Placebo
 - [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
@@ -112,7 +110,6 @@
 - [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
-- [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 
 # R
@@ -135,7 +132,6 @@
 
 # T
 - [ ] [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
-- [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) **Client**
 
 # U
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
