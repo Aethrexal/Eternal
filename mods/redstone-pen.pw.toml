@@ -1,0 +1,13 @@
+name = "Redstone Pen"
+filename = "redstonepen-1.21-neoforge-1.11.37.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "936b15e7ab7887fdd13047534ebbeb197d8c6568"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5583949
+project-id = 461710

@@ -1,0 +1,13 @@
+name = "EpheroLib"
+filename = "EpheroLib-1.21-NEO-FORGE-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90781234547026089c809f3f4db4748408628d1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5549595
+project-id = 885449
