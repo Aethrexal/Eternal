@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2460372bdd72988f3ee4c17cd909d845a2403fc819e4da83601b6af9439628ed"
+hash = "51d51780a7cd6b878aec4dbd8da7c5c3da056cbb0bfd70daf6d66333848d9646"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -65,20 +65,12 @@ file = "config/waystones-server.toml"
 hash = "cd4de0e0943836eadf20b972200d468a05631c76c917b42a94cb44c5432ad161"
 
 [[files]]
-file = "journeymap/config/6.0/journeymap.core.config"
-hash = "4ba59fa25f65895f3f27e5eb5b6dbb79327b7515575cd8f140a622b5d583bf9d"
+file = "config/xaerominimap.txt"
+hash = "73ec127d30193550b0ae67f1c1d178cb50b8d91cfe5ecfa75ec0c405dec95740"
 
 [[files]]
-file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "439350a8386b7171c6bae890de4dec5e0858dd23a2b702f716422c45ee2c06d7"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "d689b202a27cad9d548cd69cc99814e5301fbedbcaccc7a7fc29aa3abd5567e2"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "616ac3f8581e19c71791c26d3f2f0c8aeb49fa3c1baade676c4ca27989057ba7"
+file = "config/xaeroworldmap.txt"
+hash = "d62a16518e104113940766b13d792c3712ad290187a47575b5b88989e1ca68be"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -276,26 +268,6 @@ hash = "f5ea83eefe5781fc9787fdabc5a1e6bcfd21ffc7e01204400a3186cf67115d11"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "d12c26285748c45c135b858e295ea920f2601f8c530272451c08e6a84aed5462"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "a43607c8db32dbea9734cae3c0e3c7576cde6245e2d9b02ac38956075daa9481"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "5f4fde9ef340218eb0f8868f6d62a4d3a947d91a1346a273a4e452cde0cc7734"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "247e8d043aadf731eebbab0973f27e6f265344b9f9ca0ddafd4b706766fbbf38"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "a20c33ed34350bef83912ba43aaf20789bf8b55995b1fbaaa5f5d6bc7031a9e8"
 metafile = true
@@ -333,16 +305,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "2a4b91ee5241337d5c3e5388e9c3bd5428e6cf163038acb2bed79181a6f52220"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "df61f356e5d12c0e275aebff279ddd881c69ccd3dddad2ccfa44ff494488059d"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "dd2fcf6865c91c771d1a6e216bbecc0f7a138e92856e6ca4680b826c3e6bc1c9"
 metafile = true
 
 [[files]]
@@ -403,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "f7d69adc0536636198c85a36318c2723fb03fc2219e66ae810d4798154c8739d"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d760277a9585cad52a21c1241f650d978e60c1d3f97c8d1879cbcf5cd5cc482c"
 metafile = true
 
 [[files]]
@@ -521,10 +488,19 @@ hash = "51f6302b8634f13aa2c3402aa97dd5359640256abba917bd1ef1d7f8c2f418dc"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "62312c25a5407fcd64c1d13cdfa5671380a436d4025bc5840ee376a7ea759101"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "92994ee92e7122957535fb70d39ea51f13aee4ad2af69a52548dd973dd5177bc"
 metafile = true
 
 [[files]]
-file = "serverconfig/ftbchunks-world.snbt"
-hash = "d6b816b7d341ef989d4b860ef7720048ac4618a35c72f3b8a58f77e2f219c342"
+file = "serverconfig/openpartiesandclaims-default-player-config.toml"
+hash = "f774c951d1cb1e61be54fef834266f8a01b338f1da0820702389458fc749ae88"
+
+[[files]]
+file = "serverconfig/openpartiesandclaims-server.toml"
+hash = "59f35d90ff64daa39831e1f34efdb668eca1b44ff27ee38d96f415d637d9c5d3"

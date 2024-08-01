@@ -68,18 +68,6 @@
 - [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
-	- FTB Library
-	- FTB Teams
-	- Architectury API
-- [ ] [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
-	- Architectury API
-- [ ] [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
-	- Architectury API
-	- FTB Library
-- [ ] [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat)
-	- Architectury API
-	- FTB Library
 - [ ] [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 	- Titanium
 
@@ -95,16 +83,13 @@
 # J
 - [ ] [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [ ] [JamLib](https://www.curseforge.com/minecraft/mc-mods/jamlib)
-- [ ] [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
-- [ ] [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
-	- JourneyMap
 - [ ] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [ ] [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 
 # L
 - [ ] [Light Overlay (Rif/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
 	- Cloth Config API
-	- Architectury
+	- Architectury API
 - [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)	
 	- Cupboard
 
@@ -122,6 +107,9 @@
 # N
 - [ ] [Neurina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
 - [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) **Server**
+
+# O
+- [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
 - [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
@@ -164,6 +152,9 @@
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 	- Balm
 - [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+
+# X
+- [ ] [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 # Z
 - [ ] [ZeroCore 2](https://legacy.curseforge.com/minecraft/mc-mods/zerocore)

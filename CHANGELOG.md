@@ -1,5 +1,27 @@
 # Changelog
 
+## 6.0.1
+
+### Removed
+
+- FTB XMod Compat
+- FTB Library
+- FTB Teams
+- FTB Chunks
+- JourneyMap
+- JourneyMap Integration
+
+### Added
+
+- Open Parties and Claims
+- Xaero's Minimap
+
+### Notes
+
+- Xaero's World Map currently have some issues and will be installed when it's been fixed.
+
+---
+
 ## 6.0.0
 
 ### Changed
