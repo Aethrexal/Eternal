@@ -332,11 +332,6 @@ hash = "f84c49cf8d72c37d2da4665253c336e838794b323b16222ec0cb148997f144c3"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "415b51af1dba5faf22588b20b61bc934f2b84d646985268851946adbdbf619ca"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "196b94baf1086ee906951689069e80b3712acc1129bb5c17353473d9449b71c7"
 metafile = true

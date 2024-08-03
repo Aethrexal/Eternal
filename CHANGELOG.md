@@ -18,6 +18,10 @@
 - Measurements
 - Tom's Simple Storage Mod
 
+### Removed
+
+- Modern Industrialization
+
 ### Changed
 
 - Removed XP cost of using waystones.

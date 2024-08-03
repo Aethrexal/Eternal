@@ -94,7 +94,6 @@
 # M
 - [ ] [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)
 - [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
-- [ ] [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
 - [ ] [MonoLib](https://www.curseforge.com/minecraft/mc-mods/monolib)
 - [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
