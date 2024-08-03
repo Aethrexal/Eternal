@@ -1,5 +1,30 @@
 # Changelog
 
+## 6.0.3
+
+### Updated
+
+- WATERMeDIA: Multimedia API
+- Redstone Pen
+- AppleSkin
+- FramedBlocks
+- Jade
+- CreativeCore
+- Building Gadgets
+
+### Added
+
+- Railcraft Reborn
+- Measurements
+- Tom's Simple Storage Mod
+
+### Changed
+
+- Removed XP cost of using waystones.
+- Advanced wireless terminal for Tom's storage doesn't require beacon anymore.
+
+---
+
 ## 6.0.2
 
 ### Removed

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8573c691bd6b02959ba4c5fe2d71a571545886069c704cbda24455c220be38df"
+hash = "2bb21f645172a073f48c9aa2e56449ca5ff141bb7318ad5be7dec61c43973273"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -53,16 +53,20 @@ file = "config/securitycraft-client.toml"
 hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
 [[files]]
+file = "config/toms_storage-server.toml"
+hash = "a402db7b75dd713886f9a22e19e5356ee654182f1a210a4b0bf219b996f4854a"
+
+[[files]]
 file = "config/waystones-client.toml"
 hash = "00dc8607c506f6785f33f5d96b5f8c297f944c34a6d75d09cc6e249a9f842d23"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "44848e190d749eb8792c375a3a75697b46b83bb53cc6b6ee0eda749785340ec1"
+hash = "2bd3cd1b38ae47783840535365950a5ff330686878d89c2e03e7bc4bf76ecb9e"
 
 [[files]]
 file = "config/waystones-server.toml"
-hash = "cd4de0e0943836eadf20b972200d468a05631c76c917b42a94cb44c5432ad161"
+hash = "9bcb308cc6e3a86572bf44f17dcb5309e14e625e00b536728ce06c312ba0021d"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -94,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "c14c12771d20b73f8cf639489bcde8554987a7d4405b51253f152555f2d24070"
+hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
 
 [[files]]
@@ -124,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
-hash = "47f3718c124a49d496da8fdc72b4f0ba4f6b30b52d9adf5a523d3ff92ec9aa87"
+hash = "bfaf05ad16f843ebcae51b2ed135fdc5de73a19e46937db570a8dcf59f966075"
 metafile = true
 
 [[files]]
@@ -184,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d26c3464082c452af784b7fd17417e5257ae216442dbc947066ee7c6fa8671e3"
+hash = "e7971f50569821c500fbb5f76868043cd0a85bac9cadd1bc1474b3e05b01fe57"
 metafile = true
 
 [[files]]
@@ -259,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "f5ea83eefe5781fc9787fdabc5a1e6bcfd21ffc7e01204400a3186cf67115d11"
+hash = "feb86b069af80ff7ca020c358b7986499f6eb9d64595fcb6d174383e7b53ac11"
 metafile = true
 
 [[files]]
@@ -289,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a1d5e07e73b076c25e776bcd01c3b7e0b05474d34d557a6e5d85152b08ffd6c5"
+hash = "8ec61cc48b6eaf267ad17c23b5518df4e39161bd04e3c8fec1ec9b802d456f20"
 metafile = true
 
 [[files]]
@@ -315,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "30ce71691274a3b1a1c02d47cdafa7dea5fb0295d0c354b97a93aa79462718bc"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "19a4e73fa0814cda9b1ab666b72d0368322779898c52225baf1a2f6a4477bb5e"
 metafile = true
 
 [[files]]
@@ -373,8 +382,13 @@ hash = "26a4f97c97b0a10af269606242111aca83f2bd08d025f39b70344b5be361acc9"
 metafile = true
 
 [[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "e915e795ce58b60dff82ec779fd1a01d82be34290adea428fa0bb1b846fbfd55"
+metafile = true
+
+[[files]]
 file = "mods/redstone-pen.pw.toml"
-hash = "7f7a7f6d25aabe4915627490720123d1e5ecf5f7cd61bb1d36506335c8dd77fe"
+hash = "2b7798c71b410ec5d84bc3bd10ec83d66f2066367366fc96479d570fe81127d0"
 metafile = true
 
 [[files]]
@@ -438,6 +452,11 @@ hash = "fc39cc124c2df1c32c3b07d9995e69246d4162aad19f50625fea875af429ef29"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "ef25ea0b628e48daea1c8cb3f76b6b3dfb4e163c1dcf99dec138a3ce062ee09a"
+metafile = true
+
+[[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "b6dee338f2e5b5905e1ed23c71f81a6c91fb9532162d83c6b9446a871287f66a"
 metafile = true
@@ -459,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ff13ae962f55525534b3cd7bc5da6ba74eaefa82bcb6c377093ba09560148f60"
+hash = "852d4484892ca01af3b75dcb33a3152f48765215df657f5a47985c6fd2a3c87e"
 metafile = true
 
 [[files]]
