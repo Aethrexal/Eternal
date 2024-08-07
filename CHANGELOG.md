@@ -1,5 +1,25 @@
 # Changelog
 
+## 6.0.4
+
+### Updated
+
+- Neoforge
+- JamLib
+- FramedBlocks
+- Searchables
+- Controlling
+- FallingTree
+- Clumps
+- Building Gadgets
+- Just Enough Items
+
+### Added
+
+- PneumaticCraft: Repressurized
+
+---
+
 ## 6.0.3
 
 ### Updated

@@ -1,13 +1,13 @@
 name = "Clumps"
-filename = "Clumps-neoforge-1.21-18.0.0.1.jar"
+filename = "Clumps-neoforge-1.21-18.0.0.2.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "71029cb859754a0221ffc59639faae96459f1544"
+hash = "bca070de35885ff47501e5c49ade933d9c056ae6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5430025
+file-id = 5600958
 project-id = 256717

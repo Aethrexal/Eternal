@@ -110,6 +110,7 @@
 - [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
+- [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 
 # R

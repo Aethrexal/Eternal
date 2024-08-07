@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2bb21f645172a073f48c9aa2e56449ca5ff141bb7318ad5be7dec61c43973273"
+hash = "3bba3e8b2f9fc441e6f84c3a7f3089f1b28df1f6bacc271fddb7d6098e197848"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
-hash = "bfaf05ad16f843ebcae51b2ed135fdc5de73a19e46937db570a8dcf59f966075"
+hash = "db4bb2486ed22fe31bd1f4c433bdcf5757e9038f5b27e88d1523e608dfe01f75"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "fe2b8129fb7bd77a44515986d12435c6cc9a54d23b526091a8ae80fff4a9d74b"
+hash = "683235a5978e55a8e94a2678c57504e51ee49d2745748de74d50bfa50e53e7d3"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a15f1237ca56890d6f697ca31d7ce651280188a27fa33a94f33a6d6becee3f6e"
+hash = "421d8371559e1ebee209b26245ffc4dd9298c605b52ebe2c9914e07d387d056a"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "f3a17232a878800a41e3c00adb026d7f8a1b01d72899634084c1f98646022624"
+hash = "87edf9b71df24a7302ade693069a07384c6fd9c034a1b2a216013036543da854"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "feb86b069af80ff7ca020c358b7986499f6eb9d64595fcb6d174383e7b53ac11"
+hash = "8cc68b12f634bf3094b2bb6031017c30332fd2911989ffe7d3be018a7c9100d2"
 metafile = true
 
 [[files]]
@@ -298,12 +298,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "1bcfe202804f41e7bab7ebac5d914e1703390e4f2da49be3500ea2139d247ea8"
+hash = "e8972c4a5025293cb6c12c7c7ebdc768cc38b679b027e14ef9827b6e71007a97"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a4b91ee5241337d5c3e5388e9c3bd5428e6cf163038acb2bed79181a6f52220"
+hash = "63af0da1d476de30471d111e1ea9ef412a102a8114eaf03d03401fdaff70d337"
 metafile = true
 
 [[files]]
@@ -372,6 +372,11 @@ hash = "d760277a9585cad52a21c1241f650d978e60c1d3f97c8d1879cbcf5cd5cc482c"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "fcc273d73f213685e3c2900222c900b198c01453bcd740e53a8a9532004302fa"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "26a4f97c97b0a10af269606242111aca83f2bd08d025f39b70344b5be361acc9"
 metafile = true
@@ -403,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "bbff6db3eb28949e3675bc5a77b5b13327ef7b64bf725ea8f7041ec7beaa7812"
+hash = "d24c1637b7950b491c62573eea7008d9b4f26e7bae7ec0b90ba6016ab8adf45d"
 metafile = true
 
 [[files]]

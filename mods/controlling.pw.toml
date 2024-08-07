@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-neoforge-1.21-18.0.3.jar"
+filename = "Controlling-neoforge-1.21-18.0.4.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "7058cccb59fe6ef76f2aeff12fb0c6a00c4c4b7b"
+hash = "ce9b5c343a50ceda2d6ab9885b301297a5c92550"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5582556
+file-id = 5603226
 project-id = 250398
