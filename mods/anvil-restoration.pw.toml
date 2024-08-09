@@ -1,13 +1,13 @@
 name = "Anvil Restoration"
-filename = "anvilrestoration-1.21.0-2.3.jar"
+filename = "anvilrestoration-1.21.1-2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "48a45e21b9648f4b5923e84206f7e7bd96520fa6"
+hash = "b48b47d2fd6ee6c87f95d273cafcdc3b3f129342"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5573003
+file-id = 5609848
 project-id = 523801

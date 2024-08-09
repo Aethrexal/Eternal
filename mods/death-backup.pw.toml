@@ -1,13 +1,13 @@
 name = "Death Backup"
-filename = "deathbackup-1.21.0-3.4.jar"
+filename = "deathbackup-1.21.1-3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "238646e0c5deebbbbeef0d72806e9f6813357689"
+hash = "f34f40f0c2151c0bb901177fc3b899c6b2e06f19"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5572748
+file-id = 5609754
 project-id = 411571

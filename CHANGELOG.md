@@ -1,5 +1,30 @@
 # Changelog
 
+## 6.0.5
+
+### Updated
+
+- Neoforge
+- Beutified Chat
+- PneumaticCraft
+- Ultimate Car Mod
+- Just Enough Items
+- Starter Kit
+- Doggy Talents Next
+- Gravestone Mod
+- Anvil Restoration
+- Death Backup
+- Modular Force Field Systems
+- Collective
+- Sound Physics Remastered
+
+### Added
+
+- Pipez
+- EMI
+
+---
+
 ## 6.0.4
 
 ### Updated

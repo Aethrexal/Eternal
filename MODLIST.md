@@ -53,6 +53,7 @@
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [ ] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
 	- Embeddium
+- [ ] [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
 - [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
 - [ ] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)	
 	- ZeroCore 2
@@ -110,6 +111,7 @@
 - [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 
 # P
+- [ ] [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 
