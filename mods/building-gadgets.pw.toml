@@ -1,13 +1,13 @@
 name = "Building Gadgets"
-filename = "buildinggadgets2-1.3.6.jar"
+filename = "buildinggadgets2-1.3.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7871de42c8047a76a5f85692d831d0a5e504432d"
+hash = "c40573655dec427c9ab3ada53c55b0283c5fdcc2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5596474
+file-id = 5615703
 project-id = 298187

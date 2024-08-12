@@ -67,8 +67,6 @@
 - [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
-	- Titanium
 
 # G
 - [ ] [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) **Server**
@@ -78,6 +76,9 @@
 - [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
 	- Resourceful Lib
 - [ ] [Hyperbox](https://www.curseforge.com/minecraft/mc-mods/hyperbox)
+
+# I
+- [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
 # J
 - [ ] [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
@@ -131,12 +132,16 @@
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
 	- Collective
+- [ ] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 
 # T
-- [ ] [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [ ] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
+- [ ] [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+	- SuperMartijn642's Config Lib
+	- SuperMartijn642's Core Lib
+- [ ] [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 
 # U
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)

@@ -1,5 +1,41 @@
 # Changelog
 
+## 6.1.0
+
+### Updated
+
+- Minecraft
+- Neoforge
+- EMI
+- Building Gadgets
+- ModernFix
+- WorldEdit
+- Handcrafted
+- Cosmetic Armor Reworked
+- Security Craft
+- WATERMeDIA: Multimedia API
+- PneumaticCraft
+- MonoLib
+- Dis-Enchanting Table
+
+### Added
+
+- Storage Drawers
+- Trash Cans
+- Iron Chests
+- Traveler's Backpack
+
+### Removed
+
+- Functional Storage
+- Titanium
+
+### Notes
+
+- You might have to launch the pack twice to get Minecraft to actually update.
+
+---
+
 ## 6.0.5
 
 ### Updated
