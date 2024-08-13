@@ -1,5 +1,23 @@
 # Changelog
 
+## 6.1.1
+
+### Updated
+
+- Storage Drawers
+- Embeddium
+
+### Removed
+
+- Travelers backpack
+
+### Added
+
+- Sophisticated Backpacks
+- Sophisticated Core
+
+---
+
 ## 6.1.0
 
 ### Updated

@@ -132,6 +132,9 @@
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
 	- Collective
+- [ ] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+	- Sophisticated Core
+- [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [ ] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
@@ -141,7 +144,6 @@
 - [ ] [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 	- SuperMartijn642's Config Lib
 	- SuperMartijn642's Core Lib
-- [ ] [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 
 # U
 - [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)

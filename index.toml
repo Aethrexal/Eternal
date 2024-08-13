@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c08101d1d9ce8d88fdcd787853aab4fadfd0b07e2046118d4dfb6a4346cbc836"
+hash = "8721d4c9cc053691a685769b0c5d85720d5df0e22f7d39b4b690ab15d02e76da"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -62,11 +62,11 @@ hash = "00dc8607c506f6785f33f5d96b5f8c297f944c34a6d75d09cc6e249a9f842d23"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "2bd3cd1b38ae47783840535365950a5ff330686878d89c2e03e7bc4bf76ecb9e"
+hash = "533100123f39bb908f88d09affa8d6896d889967fea1eb6709a025b68ad85b0d"
 
 [[files]]
 file = "config/waystones-server.toml"
-hash = "9bcb308cc6e3a86572bf44f17dcb5309e14e625e00b536728ce06c312ba0021d"
+hash = "91b01ac06f5e9859e726e8b19f654bfdf721d8a6b174872f5972c5fe7587dfb5"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2bdc5c7faa5bf54daebd9f0b003bbc0756175a13d90e4140a29df0cf705d03d9"
+hash = "dd5396f14282b18d9b1a05326345802b1d573a8846048865924cd1c76bda2fce"
 metafile = true
 
 [[files]]
@@ -437,6 +437,16 @@ hash = "48a5ab0b253645d471eaaa3fcea0ecf3cbee772a344cb7d6606cb61ee16f6a52"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "185e725253f3f9014b75343f828ad5554a3f26cfb023e411f2f6160796d6d988"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "836954bb02f261b868f962286ed55b0a6800937e384779b8685d0a9351626ba5"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "198c34f25d1edb3c2f1d5dfdc9f0ae7a4eacc43831c9d4f337c07de4cf208d8a"
 metafile = true
@@ -448,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "8f1c288536ca25b5c8bc16403febefd34bcb25f75c81e53b200657f0f8ef84ac"
+hash = "31df240bd48f760992a78c1d971da12ee53ebaebaa681a6cd394cf2b50471c2c"
 metafile = true
 
 [[files]]
@@ -469,11 +479,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "34ca91912a7aee7784e5d76c5ba2d8f9a66d33d3a6dfc65d3bda3c2887dd9184"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack.pw.toml"
-hash = "78f239805963e9aaafd0f0206f20730393baeb6d0fe43b548d3cc683cb51acbf"
 metafile = true
 
 [[files]]
