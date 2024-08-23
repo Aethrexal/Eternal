@@ -1,5 +1,51 @@
 # Changelog
 
+## 6.1.2
+
+### Updated
+
+- Neoforge
+- Railcraft Reborn
+- Xaero's Minimap
+- Cooking for Blockheads
+- Farming for Blockheads
+- Moving Elevators
+- Searchables
+- SuperMartijn642's Core Lib
+- JEI
+- FallingTree
+- Clumps
+- FramedBlocks
+- WATERFrAMES Media Displays
+- ZeroCore 2
+- GraveStone Mod
+- Carry On
+- CreativeCore
+- Sophisticated Backpacks
+- Jade
+- Security Craft
+- Trash Cans
+- Balm
+- Sophisticated Core
+- Storage Drawers
+- Athena
+- Doggy Talents Next
+- Extreme Reactors
+- AmbientSounds 6
+- Controlling
+- NetherPortalFix
+- Embeddium
+- Collective
+- Cloth Config API
+- ModernFix
+- Mouse Tweaks
+- Tom's Simple Storage Mod
+- Waystones
+- KleeSlabs
+- 3D Skin Layers
+
+---
+
 ## 6.1.1
 
 ### Updated
