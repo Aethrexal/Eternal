@@ -1,5 +1,47 @@
 # Changelog
 
+## 6.2.0
+
+### Updated
+
+- NeoForge
+- Jade
+- Neruina
+- SuperMartijn642's Core Lib
+- ZeroCore 2
+- Embeddium
+- WATERMeDIA
+- GraveStone Mod
+- Waystones
+- WATERFrAMES
+- Moving Elevators
+- PneumaticCraft
+- Xaero's World Map
+- CreativeCore
+- Chipped
+- Doggy Talents Next
+- FallingTree
+- More Red
+- Resourceful Lib
+- Polymorph
+- Farming for Blockheads
+- Balm
+- Farsight
+- AEMI
+- ModernFix
+- AmbientSounds 6
+- Controlling
+- Extreme Reactors
+- Pipez
+- Just Enough Items
+- Dis-Enchanting Table
+
+### Added
+
+- The Twilight Forest
+
+---
+
 ## 6.1.2
 
 ### Updated
