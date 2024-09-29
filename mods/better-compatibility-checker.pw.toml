@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "BetterCompatibilityChecker-neoforge-21.0.1+mc1.21.jar"
+filename = "BetterCompatibilityChecker-neoforge-21.1.0+mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6b43bc148e8fb7d440a1d226e2d7d170237ab15a"
+hash = "dbda052b69a0f0015bdeac8177c5fce94937f338"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5432277
+file-id = 5711701
 project-id = 551894

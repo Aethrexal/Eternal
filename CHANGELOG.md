@@ -1,5 +1,52 @@
 # Changelog
 
+## 6.3.0
+
+### Updated
+
+- NeoForge
+- AmbientSounds 6
+- Jade
+- Doggy Talents Next
+- Connectivity
+- PneumaticCraft
+- Cloth Config API
+- The Twilight Forest
+- SuperMartijn642's Core Lib
+- Cooking for Blockheads
+- CreativeCore
+- ZeroCore 2
+- Sophisticated Core
+- More Red
+- WATERFrAMES
+- Storage Drawers
+- Controlling
+- Extreme Reactors
+- Pipez
+- Sophisticated Backpacks
+- WATERMeDIA
+- Waystones
+- Better Compatibility Checker
+- Ultimate Car Mod
+- Titanium
+- Modular Force Field Systems
+- Redstone Pen
+- Just Enough Items
+- Comforts
+- Functional Storage
+
+### Added
+
+- Diagonal Fences
+- Puzzles Lib
+- Diagonal Walls
+- Furnish
+- Vic's Point Blank
+- GeckoLib
+- Touhou Little Maid
+
+---
+
 ## 6.2.0
 
 ### Updated

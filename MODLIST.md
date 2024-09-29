@@ -44,6 +44,10 @@
 # D
 - [ ] [Death Backup](https://www.curseforge.com/minecraft/mc-mods/death-backup)
 	- Collective
+- [ ] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
+	- Puzzles Lib
+- [ ] [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)
+	- Puzzles Lib
 - [ ] [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
 	- MonoLib
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
@@ -67,8 +71,10 @@
 - [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [ ] [Furnish](https://www.curseforge.com/minecraft/mc-mods/furnish)
 
 # G
+- [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [ ] [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) **Server**
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
@@ -115,6 +121,7 @@
 - [ ] [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
 # R
 - [ ] [Railcraft Reborn](https://legacy.curseforge.com/minecraft/mc-mods/railcraft-reborn)
@@ -142,6 +149,7 @@
 # T
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
+- [ ] [Touhou Little Maid](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 - [ ] [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 	- SuperMartijn642's Config Lib
 	- SuperMartijn642's Core Lib
@@ -152,6 +160,8 @@
 
 # V
 - [ ] [Vein Mining (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
+- [ ] [Vic's Point Blank](https://www.curseforge.com/minecraft/mc-mods/vics-point-blank)
+	- GeckoLib
 
 # W
 - [ ] [WATERFrAMES: Media Displays](https://www.curseforge.com/minecraft/mc-mods/waterframes)
