@@ -302,11 +302,6 @@ hash = "848a3174c9cb4b2e26f74d595052edf7f880b93323613f223750cd29d2b9aec1"
 metafile = true
 
 [[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "9bd1f8550b751aa0c3229e0efe2b749d3e555694cc1ef3dc4c2b05b0fdfc2b0a"
-metafile = true
-
-[[files]]
 file = "mods/furnish.pw.toml"
 hash = "351f556c545644dfe3e54683cb47f0c1a420d36fcc5c8551ac2466d66dc49bff"
 metafile = true
