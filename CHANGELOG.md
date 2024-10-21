@@ -1,5 +1,56 @@
 # Changelog
 
+## 6.4.0
+
+### Updated
+
+- NeoForge
+- FerriteCore
+- Resourceful Lib
+- WATERFrAMES
+- Jade
+- GraveStone Mod
+- Sophisticated Backpacks
+- ZeroCore 2
+- Sophisticated Core
+- Tom's simple storage Mod
+- Chipped
+- Puzzles Lib
+- Creative Core
+- MonoLib
+- Ultimate Car Mod
+- Xaero's Minimap
+- Storage Drawers
+- Comforts
+- PneumaticCraft
+- WorldEdit
+- Moving Elevators
+- Trash Cans
+- EMI
+- Extreme Reactors
+- Balm
+- FramedBlocks
+- JEI
+- Security Craft
+
+### Added
+
+- XK's Decoration
+- Trade Cycling
+- Amendments
+- Moonlight Lib
+- Do a Barrel Roll
+- Forgified Fabric API
+- Macaw's Stairs
+- Additional Enchanted Miner
+- Scalable Cat's Force
+
+### Removed
+
+- Functional Storage
+
+---
+
 ## 6.3.0
 
 ### Updated

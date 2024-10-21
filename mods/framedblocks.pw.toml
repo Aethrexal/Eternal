@@ -1,13 +1,13 @@
 name = "FramedBlocks"
-filename = "FramedBlocks-10.1.4.jar"
+filename = "FramedBlocks-10.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ae55eb767e310793462891f5b9b0235e6f6815c"
+hash = "af6a072c45cce193963a62c26f1346c17725b6ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5629510
+file-id = 5780907
 project-id = 441647

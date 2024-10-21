@@ -1,0 +1,13 @@
+name = "XK's Decoration"
+filename = "XKDeco-NeoForge-1.21.1-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7e4c9ce06094620fa98dd75b02b6378ce2d69a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5778681
+project-id = 497637

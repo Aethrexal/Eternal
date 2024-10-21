@@ -1,0 +1,13 @@
+name = "Scalable Cat's Force"
+filename = "ScalableCatsForce-NeoForge-3.5.1-build-2-with-library.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6230eb64b89feb80dc92d94db48b662a1d15d106"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5739482
+project-id = 320926

@@ -1,0 +1,17 @@
+name = "Forgified Fabric API"
+filename = "forgified-fabric-api-0.104.0+2.0.15+1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "683bc2b130e7677a637269a9dfaa155ec7bf3d91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5808197
+project-id = 889079
+
+[option]
+optional = true
+description = "Fabric API is the library for essential hooks and interoperability mechanisms for mods."
