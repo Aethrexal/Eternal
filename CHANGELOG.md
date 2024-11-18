@@ -1,5 +1,62 @@
 # Changelog
 
+## 6.5.0
+
+### Updated
+
+- NeoForge
+- WaterMeDIA API
+- Waystones
+- FerriteCore
+- Just Enough Items
+- JamLib
+- Storage Drawers
+- Jade
+- Moving Elevators
+- Trash Cans
+- CreativeCore
+- EMI
+- Sophisticated Core
+- FramedBlocks
+- GeckoLib
+- Architectury API
+- Forgified Fabric API
+- Moonlight Lib
+- Connectivity
+- RightClickHarvest
+- Sophisticated Backpacks
+- Titanium
+- Extreme Reactors
+- MonoLib
+- Xaero's minimap
+- PneumaticCraft
+- AmbientSounds 6
+- The Twilight Forest
+- Railcraft Reborn
+- ZeroCore 2
+- Collective
+- Searchables
+- Puzzles Lib
+- Croptopia
+- Neruina
+- WATERFrAMES
+- Cooking for Blockheads
+- EpheroLib
+- Additional Enchanted Miner
+- Tohou Little maid
+- Doggy Talents Next
+- ModernFix
+- 3D Skin Layers
+
+### Added
+
+- Double Doors
+- Doggy Talents Next's Community Skin Expansion
+- MES - Moog's End Structures
+- MNS - Moog's Nether Structures
+
+---
+
 ## 6.4.0
 
 ### Updated

@@ -39,7 +39,7 @@ At times it might be needed for you to manually update the NeoForge version when
 3. Select "Version"
 4. Select "NeoForge" in the list
 5. Click "Change version" on the right side
-6. Select "21.1.72"
+6. Select "21.1.80"
 7. Click "OK" then "Close"
 8. Done
 

@@ -1,13 +1,13 @@
 name = "Searchables"
-filename = "Searchables-neoforge-1.21.1-1.0.1.jar"
+filename = "Searchables-neoforge-1.21.1-1.0.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e9e24d903f265017b87c46b39db0ee4a4aa856c7"
+hash = "5b8a0b43a474c066371b2e16f9bfb88622552a74"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5623799
+file-id = 5831692
 project-id = 858542

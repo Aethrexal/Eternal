@@ -58,6 +58,10 @@
 - [ ] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Client**
 	- Forgified Fabric API
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [ ] [Doggy Talents Next's Community Skin Expansion](https://www.curseforge.com/minecraft/mc-mods/dtn-community-skin-expansion)
+	- Doggy Talents Next
+- [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
+	- Collective
 
 # E
 - [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
@@ -109,6 +113,8 @@
 # M
 - [ ] [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)
 - [ ] [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)
+- [ ] [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+- [ ] [MNS - Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures)
 - [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
 - [ ] [MonoLib](https://www.curseforge.com/minecraft/mc-mods/monolib)
@@ -118,6 +124,7 @@
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 	- SuperMartijn642's Config Lib
 	- SuperMartijn642's Core Lib
+- [ ] [MSS - Moog's Soaring Structures](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)
 
 # N
 - [ ] [Neurina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
