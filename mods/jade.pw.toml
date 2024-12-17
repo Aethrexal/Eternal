@@ -1,13 +1,13 @@
 name = "Jade 🔍"
-filename = "Jade-1.21.1-NeoForge-15.8.3.jar"
+filename = "Jade-1.21.1-NeoForge-15.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee4d7bd9dd071c02aa47ab787952f1173e6c3195"
+hash = "d777f4cb7c3934c2a0d771a8255905349045411f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5884231
+file-id = 5992846
 project-id = 324717

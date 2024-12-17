@@ -1,5 +1,48 @@
 # Changelog
 
+## 6.7.0
+
+### Updated
+
+- NeoForged
+- 3D Skin Layers
+- Polymorph
+- Sound Physics Remastered
+- XK's Decorations
+- Functional Storage
+- CreativeCore
+- Xaero's World Map
+- Ultimate Car Mod
+- Doggy Talents Next
+- RightClickHarvest
+- Diagonal Fences
+- Moonlight Lib
+- Additional Enchanted Miner
+- Connectivity
+- JamLib
+- Open Parties and Claims
+- Security Craft
+- ZeroCore 2
+- Neruina
+- Server Performance
+- Building Gadgets
+- Pneumaticcraft
+- Forgified Fabric API
+- Jade
+- The Twilight Forest
+- Sophisticated Backpacks
+- Storage Drawers
+- Scalable Cat's Force
+- Sohpisticated Core
+- ModernFix
+- WATERMeDIA
+- AmbientSounds 6
+- Diagonal Walls
+- Extreme Reactors
+- WATERFrAMES
+
+---
+
 ## 6.5.0
 
 ### Updated
@@ -800,7 +843,7 @@
 - Ballistix
 	- Reduced Nuclear size
 	- Reduced Nuclear duration
-	
+
 ### Notes
 
 - Disabled channels for AE2
@@ -1119,7 +1162,7 @@ Started from a blank slate and I've:
 - Mekanism
 - Citadel
 
-### Notes 
+### Notes
 
 - Supplemetnaries seperated into yet another mod called Amendments. So if you used any blocks that got moved to that mod and you feel like something's missing, then that's probably why.
 

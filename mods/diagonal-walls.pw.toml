@@ -1,13 +1,13 @@
 name = "Diagonal Walls"
-filename = "DiagonalWalls-v21.1.0-1.21.1-NeoForge.jar"
+filename = "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "91104a0491bdd16464eceb632fadd74da2fba6ff"
+hash = "f2aed3ac68f5cc5e41ccc9d493f2706b0df53296"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5731822
+file-id = 5918894
 project-id = 969422
