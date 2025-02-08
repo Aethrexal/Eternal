@@ -25,6 +25,10 @@ file = "config/cosmeticarmorreworked-common.toml"
 hash = "edbaa5d8ae337740680176304e29533810124a2ce319be0914cfeb3a3874646e"
 
 [[files]]
+file = "config/doggytalents-server.toml"
+hash = "522467a9cc9b7f543547bef198af1775aa93140affdd2374f95e3a96bcdf96c9"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "1d07ee25ef66356b56b362f9eb97ae03d7d1244be0f9cba2a52546eb272ae63f"
 
@@ -83,10 +87,6 @@ hash = "4dbfe6f9ff1e7d8031283a75f9c953c476bdc4b1b8840afd66cd82818eeef1ca"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "1b1daf3050ff255ce54b187eb13221e688665388c69fd0dfaf03c45212226e18"
-
-[[files]]
-file = "doggytalents-server.toml"
-hash = "522467a9cc9b7f543547bef198af1775aa93140affdd2374f95e3a96bcdf96c9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
