@@ -1,6 +1,6 @@
 name = "Forgified Fabric API"
 filename = "forgified-fabric-api-0.107.0+2.0.23+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
