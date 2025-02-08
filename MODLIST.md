@@ -402,6 +402,50 @@ This is just so I can copy paste it
 - [ ] [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)
 	- *Licence*: GNU GPLv3
 
+# Y
+- [ ] [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge)
+	- *Licence*: GNU GPLv3
+- [ ] [YUNG's Better Desert Temples (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Dungeons (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better End Island (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Jungle Temples (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Mindhsafts (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Nether Fortresses (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Ocean Monuments (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Strongholds (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Better Witch Huts (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+- [ ] [YUNG's Bridges (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- YUNG's API
+
 # Z
 - [ ] §? [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 	- *Licence*: ARR

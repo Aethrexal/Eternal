@@ -6,7 +6,7 @@ This whole README is currently being worked on.
 
 I made this pack in hopes to keep me playing with the same world for years to come, so the pack includes mods that hopefully will be updated eventually to where I can update the pack to 'newer' versions of Minecraft as well; but also mods that I like to use when I play modded minecraft.
 
-Not really much else to it, made so it also can be played with a server with friends.
+Not really much else to it, made so it also can be played with a server with friends and their friends, and some random people I've invited.
 
 ## Instructions
 

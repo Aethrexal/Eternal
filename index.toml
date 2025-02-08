@@ -714,6 +714,61 @@ hash = "28f01b206bb38e911b48f6ee86b6a534e4ace01e057e441775f57c35421770a1"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "1d2251d0958affef0a90edb3acb44250bb5d3bc90539cdf2bbea41ffa28c6ade"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
+hash = "71be9c07be2bddc714966397c8c24a0dbb56c74c3215222d3084ec12ad7039e6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-neoforge.pw.toml"
+hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "cc41580a5c56304ddb348f65c23baa0bbda2b89a56535a81d045ae49d372eec3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
+hash = "6dc8b6b822d296d026dc2685f57da95746e57f30f501640801546ba7a259b520"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
+hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "f31730c0959a26773d0f05b9603b30bf43d6872bb7e46f45dff81b90d99547e6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-neoforge.pw.toml"
+hash = "aa8b30f1fedc700205ffb96c2a92e0deedbbe42f3d95d64c2fcc1228fdd049aa"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-neoforge.pw.toml"
+hash = "7a4c5666b0592f4d4ae3ffdb79f365a64fd53cb0de496ae125fb4b88630d32dc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
+hash = "537a140266ce5c290490e4712935590ff40deeaa0af68f54fcf56157a82eb953"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-neoforge.pw.toml"
+hash = "400918237e259461717e6d85ad9e648054e901b372e1cfc180622e276f3df8c7"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "c29236bb2a63c8a4a886b83d1809c0fb0d240348b4855025030fc2281fd6adb2"
 metafile = true

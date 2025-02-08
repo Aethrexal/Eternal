@@ -1,5 +1,23 @@
 # Changelog
 
+## 7.0.2
+
+### Added
+
+- YUNG's API
+- YUNG's Better End Island
+- YUNG's Better Mineshafts
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Better Nether Fortresses
+- YUNG's Better Jungle Templates
+- YUNG's Better Ocean Monuments
+- YUNG's Better Dungeons
+- YUNG's Better Desert Temples
+
+---
+
 ## 7.0.1
 
 ### Added
