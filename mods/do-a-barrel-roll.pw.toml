@@ -1,6 +1,6 @@
 name = "Do a Barrel Roll"
 filename = "do_a_barrel_roll-neoforge-3.7.2+1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
