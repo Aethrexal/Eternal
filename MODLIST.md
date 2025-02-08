@@ -188,6 +188,12 @@ This is just so I can copy paste it
 		- Architectury API
 		- SuperMartijn642's Config Lib
 
+# H
+- [ ] [Horse Expert](https://www.curseforge.com/minecraft/mc-mods/horse-expert)
+	- *Licence*: MPL 2.0
+	- *Dependencies*:
+		- Puzzles Lib
+
 # I
 - [ ] [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 	- *Licence*: GNU LGPLv3
@@ -217,6 +223,8 @@ This is just so I can copy paste it
 	- *Dependencies*:
 		- Architectury API
 		- Cloth Config API
+- [ ] [Living Things](https://www.curseforge.com/minecraft/mc-mods/living-things)
+	- *Licence*: CC BY-NC-ND 4.0
 - [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 	- *Licence*: ARR
 	- *Dependencies*:
@@ -296,6 +304,8 @@ This is just so I can copy paste it
 	- *Licence*: GNU GPLv3
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 	- *Licence*: GNU LGPLv3
+- [ ] [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+	- *Licence*: MPL 2.0
 
 # R
 - [ ] § [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)

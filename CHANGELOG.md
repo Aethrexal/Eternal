@@ -1,5 +1,19 @@
 # Changelog
 
+## 7.0.1
+
+### Added
+
+- Horse Expert
+- Puzzles Lib
+- Living Things
+
+### Notes
+
+- Changed mods so they're either server, client or both directly in the `pw.toml` files instead of relying on Mod Optimizer. That mod will be client only so it cleans up any old versions and stuff.
+
+---
+
 ## 7.0.0
 
 ### Added
@@ -142,6 +156,8 @@
 ### Notes
 
 - Mod excluded in this list is Bluemap as it's per server basis and I add that manually to the server.
+
+---
 
 ## 6.7.0
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6d25b6104a8f3abf64e957cb1413d6e259e9d86d0720ff100eed30476a6c45be"
+hash = "f572525ad06da7f3e8c2ab6a9316ab4b2d29b05a5727f8de75beabd746b189fa"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ef0cd06e24408818d3faff4e2fa7dff87a414d39b1b8b91c518e1fd0d5402357"
+hash = "feb430a2b77e65c510320b8b0a30fd9066e36cd40ec6a3038507dc2ea9e4676e"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautified-chat-server.pw.toml"
-hash = "dd278ecd0de5962dc67814388cb675c4105e47ac50357361ea4338efb66c2e73"
+hash = "b863003c443c91a245f875ba59337a4f93caecece7a18255f0b4fe64398aabe3"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c5df6a939b23ea1dc348989e5185d7ad7d7e65557531e1a1ec16cb57ab8f9b29"
+hash = "29c12984642ee56b4a2c933f34c4605ee1b65d356da3d9d60074ca3d49e6df72"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "0eac5dfa4c1f4687532e7f0a70800e4ec1d6b931b44785a50bb5673c9d2322c5"
+hash = "fb39010a27557ce0a50415b84ee38eebd2a61888a1c7aadfcecae2d5e9a6381b"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "4523d0910a02a509680982a4e3ae37a2929df6b46ea796a83746a309d6ab31f5"
+hash = "173c02bd227e837e5ca25b690c1be6b70c25eecdb58092f1ca7070b005d2a1b3"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "2502d0958ae5aca77e8408b513ac29222fc01ee923c5bc22a261831a9d290502"
+hash = "a9f5ffc7747ba6621f2366d34052f8f81ae9923cc41060ed273ebc421cfa5c6e"
 metafile = true
 
 [[files]]
@@ -374,8 +374,13 @@ hash = "8c34400550b41a682221a8eebdf8dbe82c1b4d2ce24e0a738bd30bbb932cf506"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "fbd996f88dd06859110841a2b4716285b6b491f54aef2dd9ca59b0978718dd93"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "d566dd41f5982298b588744c4150c15de0e43ac176081a81c6c7e89905c8fb91"
+hash = "2c7dc6cbfca32fdfeadbfb4d64ce3e74d3f1ce66edb100bb0e4b795c02496a4e"
 metafile = true
 
 [[files]]
@@ -405,7 +410,12 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "c9a79c8e684a727cfb60a1644a0306a3401375bdac808f4c9ba3f8321a9ff678"
+hash = "b005c8168c11898a2b3883f5a96fe0fdb3e21119ad2ebb27a921443c86e065e0"
+metafile = true
+
+[[files]]
+file = "mods/living-things.pw.toml"
+hash = "4a3be325d2c419a9e350546fe1030e29d91892fd2262ab6acec4d670db66912a"
 metafile = true
 
 [[files]]
@@ -455,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "176315847d74c7b2dd39471b09da612f7cb8293fe754fbcecee15e79bd2fcca0"
+hash = "fdd006310581166036f331a95adc9cef032914fece1aabacfbfbc4fa609fde85"
 metafile = true
 
 [[files]]
@@ -480,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/mods-optimizer.pw.toml"
-hash = "1b55fda1a25280c03739d56ecf24bf1a36c61724536aef9eb136edf375788aaf"
+hash = "fff09256a25018a0598006ee802193015ae9b94008989673db943717939429d9"
 metafile = true
 
 [[files]]
@@ -505,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -535,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/notes.pw.toml"
-hash = "43cfb38c1ec0f3d902ffc0f29cf7bcd0d96b018e0658ff5be7db14cf9c9572fe"
+hash = "c3d6d34c0a43cefd719da0fab35793e0fd0517b25bf4b3efe1dfe73250dd050d"
 metafile = true
 
 [[files]]
@@ -556,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e113a523a10dfc48b6c8c57628ab163f846637bcd03f58b67ec52eac90a9c18a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "890affb43553577e1b9ab80420472deb5de735b009b524d48591c901a0c8f57c"
 metafile = true
 
 [[files]]
@@ -580,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
@@ -680,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "878f5ea1aac33cf511f140200e20637bc5aa3bf5538ccdf54af21562506da033"
+hash = "d06a206370f28ea1deb96488525fb951de75db873c50e537d6b4a05bf3668006"
 metafile = true
 
 [[files]]
@@ -695,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "b62752faf8c3e0c8b39ed4e7ed92102249013417f87d411a9b964e0ba9f363ca"
+hash = "28f01b206bb38e911b48f6ee86b6a534e4ace01e057e441775f57c35421770a1"
 metafile = true
 
 [[files]]
