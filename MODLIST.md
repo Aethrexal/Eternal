@@ -1,198 +1,397 @@
+Mods marked with § is critical for the modpack and removing those might force you to restart your world. Mods marked with §? I'm unsure about and would need to be tested as it's being worked on.
+
+Some mods, marked or not, if removed will still need to be cleaned up in the world (for example decoration mods) once they've been removed. But *shouldn't* break anything.
+Take the list with a grain of salt and always test before and after.
+
+This is just so I can copy paste it
+```
+- [ ] []()
+	- *Licence*: 
+```
+
 # #
-- [ ] [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) **Client**
+- [ ] [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+	- *Licence*: tr7zw Protective License
 
 # A
 - [ ] [Additional Enchanted Miner](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
-	- Scalable Cat's Force
-- [ ] [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)	
-	- ForgeEndertech
-- [ ] [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) **Client**
-	- CreativeCore
-- [ ] [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
-	- Moonlight Lib
+	- *Licence*: GNU LGPLv3
+	- *Dependencies*:
+		- Scalable Cat's Force
+- [ ] [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- ForgeEndertech
+- [ ] [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified)
+	- *Licence*: ARR
+- [ ] [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+	- *Licence*: GNU LGPLv3
+	- *Dependencies*:
+		- CreativeCore
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
-	- Collective
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Collective
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [ ] [Architectury API (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
-- [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+	- *Licence*: Public Domain
+- [ ] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+	- *Licence*: ARR
+- [ ] § [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+	- *Licence*: ARR
 
 # B
+- [ ] [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie)
+	- *Licence*: MIT
+- [ ] [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
+	- *Licence*: AURILISDEV LICENSE
+	- *Dependencies*:
+		- Electrodynamics
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
-- [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
-- [ ] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
-	- Collective
+	- *Licence*: ARR
+- [ ] [Beautifed Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Collective
+- [ ] [BetterCompatibitlity Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+	- *Licence*: ARR
 - [ ] [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+	- *Licence*: MIT
 
 # C
+- [ ] [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
+	- *Licence*: ARR
 - [ ] [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
-- [ ] [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
-	- Resourceful Lib
-	- Athena
-- [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric) **Server**
+	- *Licence*: GNU LGPLv3
+- [ ] § [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Resourceful Lib
+		- Athena
+- [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Cupboard
 - [ ] [Cloth Config API (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-- [ ] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) **Server**
+	- *Licence*: GNU LGPLv3
+- [ ] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+	- *Licence*: MIT
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
-- [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
-- [ ] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
-	- Cupboard
-- [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
-	- Searchables
+	- *Licence*: ARR
+- [ ] [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+	- *Licence*: GNU LGPLv3
+- [ ] [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Cupboard
+- [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Searchables
 - [ ] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
-	- Balm
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Balm
+- [ ] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
+	- *Licence*: ARR
 - [ ] [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+	- *Licence*: Minecraft Mod Public License
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
-- [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
-	- EpheroLib
+	- *Licence*: GNU LGPLv3
+- [ ] § [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- EpheroLib
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+	- *Licence*: ARR
 
 # D
+- [ ] [Dark Mode Everywhere](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere)
+	- *Licence*: MIT
+	- Optional
 - [ ] [Death Backup](https://www.curseforge.com/minecraft/mc-mods/death-backup)
-	- Collective
-- [ ] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
-	- Puzzles Lib
-- [ ] [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)
-	- Puzzles Lib
-- [ ] [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
-	- MonoLib
-- [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
-- [ ] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Client**
-	- Forgified Fabric API
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Collective
+- [ ] [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- MonoLib
+- [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration)
+	- *Licence*: MIT
+- [ ] [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+	- *Licence*: GNU LGPLv3
+	- Optional
+- [ ] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- Forgified Fabric API
+	- Optional
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
-- [ ] [Doggy Talents Next's Community Skin Expansion](https://www.curseforge.com/minecraft/mc-mods/dtn-community-skin-expansion)
-	- Doggy Talents Next
+	- *Licence*: GNU LGPLv3
 - [ ] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
-	- Collective
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Collective
 
 # E
-- [ ] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
-- [ ] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
-	- Embeddium
-- [ ] [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
-- [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
-- [ ] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)	
-	- ZeroCore 2
+- [ ] § [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
+	- *Licence*: AURILISDEV LICENSE
+- [ ] § [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
+	- *Licence*: GNU LGPLv3
+- [ ] § [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- GeckoLib
+- [ ] §? [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- ZeroCore 2
 
 # F
 - [ ] [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
-- [ ] [Farmin for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
-	- Balm
-- [ ] [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
-	- Cupboard
-- [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+	- *Licence*: GNU LGPLv3
+- [ ] [Farsight [Forge/Neo]](https://www.curseforge.com/minecraft/mc-mods/farsight)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Cupboard
+	- Optional
+- [ ] [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Balm
+- [ ] § [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+	- *Licence*: ARR
+- [ ] [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
+	- *Licence*: MPL 2.0
 - [ ] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
+	- *Licence*: ARR
 - [ ] [Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)
-- [ ] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [ ] [Furnish](https://www.curseforge.com/minecraft/mc-mods/furnish)
+	- *Licence*: Apache-2.0
+	- Optional
+- [ ] § [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+	- *Licence*: GNU LGPLv3
 
 # G
-- [ ] [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
-- [ ] [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) **Server**
+- [ ] § [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+	- *Licence*: MIT
+- [ ] [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore)
+	- *Licence*: ARR
+- [ ] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Cloth Config
 - [ ] [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
-
-# H
-- [ ] [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
-	- Resourceful Lib
-- [ ] [Hyperbox](https://www.curseforge.com/minecraft/mc-mods/hyperbox)
+	- *Licence*: ARR
+- [ ] [GriefLogger](https://www.curseforge.com/minecraft/mc-mods/grieflogger)
+	- *Licence*: Apache-2.0
+	- *Dependencies*:
+		- Architectury API
+		- SuperMartijn642's Config Lib
 
 # I
-- [ ] [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- [ ] [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+	- *Licence*: GNU LGPLv3
+	- *Dependencies*:
+		- Sodium
+	- Optional
 
 # J
-- [ ] [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
+- [ ] [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+	- *Licence*: CC-BY-NC-SA 4.0
 - [ ] [JamLib](https://www.curseforge.com/minecraft/mc-mods/jamlib)
+	- *Licence*: MIT
+- [ ] [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+	- *Licence*: ARR
 - [ ] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
-- [ ] [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+	- *Licence*: MIT
 
+# K
+- [ ] [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Balm
+		
 # L
-- [ ] [Light Overlay (Rif/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
-	- Cloth Config API
-	- Architectury API
-- [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)	
-	- Cupboard
+- [ ] [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+	- *Licence*: Apache-2.0
+	- *Dependencies*:
+		- Architectury API
+		- Cloth Config API
+- [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Cupboard
 
 # M
+- [ ] [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+	- *Licence*: ARR
+- [ ] [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+	- *Licence*: ARR
+- [ ] [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+	- *Licence*: MIT
+- [ ] [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+	- *Licence*: ARR
+- [ ] [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+	- *Licence*: MIT
+- [ ] §? [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+	- *Licence*: ARR
 - [ ] [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)
+	- *Licence*: ARR
+- [ ] [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+	- *Licence*: ARR
+- [ ] [MapFrontiers](https://www.curseforge.com/minecraft/mc-mods/mapfrontiers)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- JourneyMap
+		- Forge Config API Port
 - [ ] [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)
+	- *Licence*: MIT
 - [ ] [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+	- *Licence*: GNU LGPLv3
 - [ ] [MNS - Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures)
-- [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+	- *Licence*: GNU LGPLv3
+- [ ] [Mods Optimizer](https://modrinth.com/mod/mods-optimizer)
+	- *Licence*: MIT
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
+	- *Licence*: ARR
 - [ ] [MonoLib](https://www.curseforge.com/minecraft/mc-mods/monolib)
-- [ ] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
-- [ ] [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
-- [ ] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) **Client**
+	- *Licence*: SPDX: Unlicense
+- [ ] § [More Red](https://www.curseforge.com/minecraft/mc-mods/more-red)
+	- *Licence*: MIT
+- [ ] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+	- *Licence*: BSD
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
-	- SuperMartijn642's Config Lib
-	- SuperMartijn642's Core Lib
+	- *Licence*: ARR
+	- *Dependencies*:
+		- SuperMartijn642's Core Lib
+		- SuperMartijn642's Config Lib
 - [ ] [MSS - Moog's Soaring Structures](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)
+	- *Licence*: GNU LGPLv3
+- [ ] [Multibeds](https://www.curseforge.com/minecraft/mc-mods/multibeds)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- ShetiPhianCore
+- [ ] [MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+	- *Licence*: GNU LGPLv3
 
 # N
-- [ ] [Neurina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
-- [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) **Server**
-
-# O
-- [ ] [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
+- [ ] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
+	- *Licence*: MIT
+- [ ] [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Balm
+- [ ] [Notes](https://www.curseforge.com/minecraft/mc-mods/notes)
+	- *Licence*: CC-BY-NC-SA 4.0
+	- Optional
+- [ ] §? [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science)
+	- *Licence*: AURILISDEV LICENSE
+	- *Dependencies*:
+		- Electrodynamics
 
 # P
-- [ ] [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
-- [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [ ] § [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
+	- *Licence*: ARR
+- [ ] §? [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+	- *Licence*: GNU GPLv3
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-- [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+	- *Licence*: GNU LGPLv3
 
 # R
-- [ ] [Railcraft Reborn](https://legacy.curseforge.com/minecraft/mc-mods/railcraft-reborn)
-- [ ] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
-- [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
+- [ ] § [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)
+	- *Licence*: MIT
+- [ ] § [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
+	- *Licence*: MIT
 - [ ] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
-	- JamLib
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Architectury API
+		- JamLib
 
 # S
 - [ ] [Scalable Cat's Force](https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force)
-- [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
-- [ ] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
-- [ ] [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) **Server**
-	- Cupboard
+	- *Licence*: Apache-2.0
+- [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables)
+	- *Licence*: MIT
+- [ ] §? [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+	- *Licence*: MIT
+- [ ] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- GlitchCore
+- [ ] [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
+	- *Licence*: ARR
+- [ ] [Simple Planes](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
+	- *Licence*: ARR
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+	- *Licence*: MIT
+- [ ] [Small Ships](https://modrinth.com/mod/small-ships)
+	- *Licence*: ARR
+- [ ] [Sodium](https://modrinth.com/mod/sodium)
+	- *Licence*: GNU LGPLv3
+- [ ] [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged/relations/dependencies)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Sodium
+		- Sodium/Embeddium Extras 
+- [ ] [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+	- *Licence*: GNU LGPLv3
+	- *Dependencies*:
+		- Sodium
+		- Sodium/Embeddium Options 
+		- Reese's Sodium Options
+- [ ] [Sodium/Embeddium Options API](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api)
+	- *Licence*: GNU LGPLv3
+	- *Dependencies*:
+		- Sodium
+- [ ] §? [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+	- *Licence*: GNU GPLv3
+	- *Dependencies*:
+		- Sophisticated Core
+- [ ] §? [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+	- *Licence*: GNU GPLv3
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
-- [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
-	- Collective
-- [ ] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-	- Sophisticated Core
-- [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
-- [ ] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+	- *Licence*: GNU GPLv3
+- [ ] [Staaaaaaaaaaaack (Stxck)](https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack)
+	- *Licence*: MIT
+- [ ] § [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+	- *Licence*: MIT
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+	- *Licence*: ARR
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+	- *Licence*: ARR
 
 # T
-- [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [ ] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
+- [ ] §? [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+	- *Licence*: GNU GPLv3?
 - [ ] [Touhou Little Maid](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
+	- *Licence*: MIT
 - [ ] [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
-- [ ] [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
-	- SuperMartijn642's Config Lib
-	- SuperMartijn642's Core Lib
+	- *Licence*: ARR
 
 # U
-- [ ] [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
-- [ ] [Underground Villages](https://www.curseforge.com/minecraft/mc-mods/underground-villages)
-
-# V
-- [ ] [Vein Mining (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
-- [ ] [Vic's Point Blank](https://www.curseforge.com/minecraft/mc-mods/vics-point-blank)
-	- GeckoLib
+- [ ] [Ultimate Car mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
+	- *Licence*: ARR
 
 # W
-- [ ] [WATERFrAMES: Media Displays](https://www.curseforge.com/minecraft/mc-mods/waterframes)
-	- CreativeCore
-	- WATERMeDIA: Multimedia API
-- [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia) **Client**
+- [ ] [WATERFrAMES: Multimedia Displays](https://www.curseforge.com/minecraft/mc-mods/waterframes)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- WATERMeDIA: Multimedia API
+		- CreativeCore
+- [ ] [WATERMeDIA: Multimedia API](https://www.curseforge.com/minecraft/mc-mods/watermedia)
+	- *Licence*: ARR
 - [ ] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-	- Balm
-- [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-
-# X
-- [ ] [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- [ ] [XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- Balm
+- [ ] [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- CoroUtil
+- [ ] [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)
+	- *Licence*: GNU GPLv3
 
 # Z
-- [ ] [ZeroCore 2](https://legacy.curseforge.com/minecraft/mc-mods/zerocore)
+- [ ] §? [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
+	- *Licence*: ARR

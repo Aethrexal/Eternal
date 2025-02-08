@@ -1,6 +1,6 @@
 name = "Beautified Chat [Server]"
 filename = "beautifiedchatserver-1.21.1-2.6.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

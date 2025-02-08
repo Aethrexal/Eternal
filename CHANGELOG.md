@@ -1,5 +1,148 @@
 # Changelog
 
+## 7.0.0
+
+### Added
+
+- Mods Optimizer
+- Just Enough Items
+- Mouse Tweaks
+- Apple Skin
+- Clumps
+- Controlling
+- Searchables
+- Jade
+
+- Soidum
+- Sodium/Embeddium Extras
+- Sodium/Embeddium Options API
+- Reese's Sodium Options
+- Sodium/Embeddium Dynamic Lights
+- NetherPortalFix
+- Balm
+- Neruina - Ticking Entity Fixer
+- Almost Unified
+
+- GriefLogger
+- Architectury API
+- SuperMartijn642's Config Lib
+- JourneyMap
+- FallingTree
+- BetterCompatibility Checker
+- Eternally Random
+- GeckoLib
+
+- Dark Mode Everywhere
+- Polymorph
+- KleeSlabs
+- Chipped
+- Resourceful Lib
+- Aethea
+- AmbientSounds 6
+- CreativeCore
+- Comforts
+
+- Storage Drawers
+- Carry On
+- Sophisticated Backpacks
+- Sophisticated Core
+- Bad Wither No Cookie - Reloaded
+- PneumaticCraft: Repressurized
+- GraveStone Mod
+- Serene Seasons
+- GlitchCore
+- What Are They Up To
+- CoroUtil
+
+- FramedBlocks
+- Moving Elevators
+- SuperMartijn642's Core Lib
+- Doggy Talents Next
+- MapFrontiers
+- Dis-Enchanting Table
+- MonoLib
+- Measurements
+- Light Overlay
+- Cloth Config API
+- Iris Shaders
+- Forge Config API Port
+
+- Flux Networks
+- Cosmetic Armor Reworked
+- Pipez
+- Additional Enchanted Miner
+- Scalable Cat's Force
+- Cooking for Blockheads
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Windows
+- Macaw's Roofs
+- Macaw's Fences and Walls
+- Macaw's Stairs
+- Macaw's Lights and Lamps
+- Macaw's Paths and Pavings
+
+- Farming for Blockheads
+- Security Craft
+- MVS - Moog's Voyager Structures
+- MES - Moog's End Structures
+- MNS - Moog's Nether Structures
+- MSS - Moog's Soaring Structures
+- WI Zoom
+- Simply Light
+- Camera Mod
+- Simple Planes
+- Trade Cycling
+- Small Ships
+- Discord Integration
+- 3D Skin Layers
+
+- Death Backup
+- Collective
+- Anvil Restoration
+- Beautified Chat [Server]
+- Sound Phystics Remastered
+- WATERFrAMES: Multimedia Displays
+- WATERMeDIA: Multimedia API
+- Advanced Chimneys
+- ForgeEndertech
+- Chunk Sending
+- Cupboard
+- Connectivity
+- Login Protection
+- Staaaaaaaaaaaack
+
+- The Twilight Forest
+- Distant Horizons
+- Do a Barrel Roll
+- Forgified Fabric API
+- Global XP
+- More Red
+- Double Doors
+- Croptopia
+- Modulear Force Field Systems
+- Farsight
+- MultiBeds
+- ShetiPhianCore
+- Touhou Little Maid
+- Notes
+- EpheroLib
+
+- Building Gadgets
+- Electrodynamics
+- Nuclear Science
+- Ballistix
+- Extreme Reactors
+- ZeroCore 2
+- Waystones
+- RightClickHarvest
+- JamLib
+- Ultimate Car Mod
+
+### Notes
+
+- Mod excluded in this list is Bluemap as it's per server basis and I add that manually to the server.
+
 ## 6.7.0
 
 ### Updated

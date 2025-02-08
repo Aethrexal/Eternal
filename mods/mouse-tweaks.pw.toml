@@ -1,6 +1,6 @@
 name = "Mouse Tweaks"
 filename = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

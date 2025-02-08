@@ -1,17 +1,17 @@
 name = "Forgified Fabric API"
-filename = "forgified-fabric-api-0.107.0+2.0.22+1.21.1.jar"
-side = "client"
+filename = "forgified-fabric-api-0.107.0+2.0.23+1.21.1.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8292a8f26291442726531ea142190f509eccc3ec"
+hash = "547b95184e1d570e7c5b9631c79c3bad2e7eb309"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5998326
+file-id = 6136650
 project-id = 889079
 
 [option]
 optional = true
-description = "Fabric API is the library for essential hooks and interoperability mechanisms for mods."
+description = "Only needed to be enabled if using: Do a Barrel Roll."

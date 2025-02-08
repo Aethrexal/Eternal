@@ -1,16 +1,16 @@
 name = "Eternal"
 author = "Aethrexal"
-version = "6.7.0"
+version = "7.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fbb761460fe56270cb923d82f16ab216b3d5ce5418fcba656bc54b064b369aa1"
+hash = "80e942c98b6d149f87e417fb2c70e1dc0c3d84a7affb20af646a523d144d37cf"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.90"
+neoforge = "21.1.116"
 
 [options]
 acceptable-game-versions = ["1.21"]

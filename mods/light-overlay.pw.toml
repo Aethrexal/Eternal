@@ -1,6 +1,6 @@
 name = "Light Overlay (Rift/Forge/Fabric)"
 filename = "light-overlay-12.0.0-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "AmbientSounds 6"
 filename = "AmbientSounds_NEOFORGE_v6.1.4_mc1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

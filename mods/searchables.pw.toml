@@ -1,6 +1,6 @@
 name = "Searchables"
 filename = "Searchables-neoforge-1.21.1-1.0.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
