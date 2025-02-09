@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2c408f586dcacb287fa3dffd59095d76e209b2fddfdba91b6d8254c56a6e9b51"
+hash = "ab940a00ae55ac8bfc976eccb339a3a096e882db7bb8a59cb84edfda16e1f1c5"
 
 [[files]]
 file = "config/camera-client.toml"
 hash = "96354d40fa4568c5ee25b208d5dbafb7d77dff249bdb7289a5f1f06c0ce68a01"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "255dbd12d7a79c0b3cf551fb3ec092aacc6e1d936cab33607870e2f00f344470"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -140,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "cd8e134bf9e4a82fe28fb045e1f4a78727fbc39fc3f5bfe71bba899dc44a1f63"
+hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
 
 [[files]]
@@ -150,12 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a5a83659c200b625f45a9e98fdeefcfea698c96100eb75e6fefc3adeb962e047"
-metafile = true
-
-[[files]]
-file = "mods/beautified-chat-server.pw.toml"
-hash = "b863003c443c91a245f875ba59337a4f93caecece7a18255f0b4fe64398aabe3"
+hash = "0e0e7f632ff488b75909e3345c1ea0a9bcbc3c7ab37e6539bdc4e2a85f3763e7"
 metafile = true
 
 [[files]]
@@ -181,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "766794fd8abb18e15b0bcbd2de09557120702f8e015b56012632ad4e4cae7408"
 metafile = true
 
 [[files]]
@@ -249,18 +253,28 @@ hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "1751576548c9e0a87aa407a1526f45301637de78a5c4753ab1ca4ad6bdbe4207"
+metafile = true
+
+[[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "fb39010a27557ce0a50415b84ee38eebd2a61888a1c7aadfcecae2d5e9a6381b"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
+file = "mods/death-backup.pw.toml"
+hash = "9ee92a5a2fd949e940ade1f4f95c91bbab5a2acabe03bfcf28eb4b743bfe9131"
 metafile = true
 
 [[files]]
-file = "mods/death-backup.pw.toml"
-hash = "9ee92a5a2fd949e940ade1f4f95c91bbab5a2acabe03bfcf28eb4b743bfe9131"
+file = "mods/diagonal-fences.pw.toml"
+hash = "ccf138728720547f232c6c1f969fe525bcd08322fdb81602651d1ad774fdbba5"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "36899ae409d7c9bf4a5b322328f3eba6c8de4812a4f8594140a4953b05d62f88"
 metafile = true
 
 [[files]]
@@ -295,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "f980ac090e61b73ddd3f995ea08c0b0fa1b75df5f8f02e4e2ffb20fb74ca0519"
+hash = "4981867020cee6d7c100a9b3ea4641f9baa3be83bf404fe80608fdd6e596cbf5"
 metafile = true
 
 [[files]]
@@ -315,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "ac218fc138e38817faa51e2d290b215f9aa19fb36366d3bb3079440a95bac702"
+hash = "18bed04971fe0a96f3b95b1de8432ece1ef918bf48e1367fcd1872db7352503c"
 metafile = true
 
 [[files]]
@@ -560,12 +574,22 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "669d6c3b4bb8202fe76e8ff5cb12c736cb4f6731802e317f1ec44b71afcca0eb"
+hash = "8c14f95c5df05a8b23a17472a01b71c7a3400148035c26c5f6787b263b8e9f88"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "bbbf86073fc55d8b1a23e5ffe1ef0dcd470625263ec09bd302adcdf23f9898cd"
 metafile = true
 
 [[files]]
@@ -624,6 +648,21 @@ hash = "c46f4a42b155a73db6b22e423220f139dd39186ff193728214fc94c5342d7f86"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "fe46dedb41a65d3d5fbf5d155b41e35a5408b59208a9845333d0730a2148a58f"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "796ef84c8eae487df2ed33f98061f218740bb1e45ec2c2ad56ced186a50dfd1b"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "d461c955a41d6b8455d08677d340e39ccb1aa8a398ddaf903a5d10f851f0bd1d"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "1c676e168d5e1f21446922b8e330921afcf8f4eb2c479a175be00eefee4b4591"
 metafile = true
@@ -645,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9050cb92f35f8057726ec547ba3306726a1a4f3b5ed0d147b70d2dc30dcff582"
+hash = "ab62ac9b05aa8006916a718e2fc0a0caf658f2bbb83ec2b2dbc8f446be9f4673"
 metafile = true
 
 [[files]]
@@ -684,13 +723,18 @@ hash = "130f04ff53fcd4cdb82fd357ae36a8fd7ef16f8f3de38d348dec6e7ba24d866b"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "9775812a092e19bcd6d153319e475dbcc2a539577362c2658ee502bf4968cc89"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid.pw.toml"
-hash = "d3d3b4f1ecb7d4fd465224462eee4ff7e190a33c440870621f5a9a6edde9f409"
+hash = "30fdc406ee0a15ad27924d8b6deeea25ef541bfa871b9b8856d1b71073c033ba"
 metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "04e45adcd7863720e1951aa24cd8e656567f8b3a0c69c986d2ea29737e169058"
+hash = "fdc043eb1846f798c85df005c1e0a88bcf62c192b9826d980c2d691f03f97192"
 metafile = true
 
 [[files]]

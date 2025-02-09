@@ -1,5 +1,41 @@
 # Changelog
 
+## 7.1.0
+
+### Updated
+
+- Electrodynamics
+- Touhou Little Maid
+- Balm
+- FallingTree
+- Nuclear Science
+- Sodium
+- Bad Wither No Cookie
+
+### Added
+
+- Patchouli
+- Chunk Loaders
+- Toast Control
+- Placebo
+- Curios API
+- Silent Gear
+- Silent Lib
+- Silent Gems
+- Diagonal Fences
+- Diagonal Walls
+
+### Removed
+
+- Discord Integration (Will just add it manually to server)
+- Beautifed Chat
+
+### Notes
+
+- The Chunk Loaders becomes disabled after you've been inactive for 14 days
+
+---
+
 ## 7.0.3
 
 ### Added

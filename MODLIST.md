@@ -9,7 +9,7 @@ This is just so I can copy paste it
 	- *Licence*: 
 ```
 
-# #
+# \#
 - [ ] [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 	- *Licence*: tr7zw Protective License
 
@@ -50,10 +50,6 @@ This is just so I can copy paste it
 		- Electrodynamics
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 	- *Licence*: ARR
-- [ ] [Beautifed Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server)
-	- *Licence*: ARR
-	- *Dependencies*:
-		- Collective
 - [ ] [BetterCompatibitlity Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 	- *Licence*: ARR
 - [ ] [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
@@ -69,6 +65,11 @@ This is just so I can copy paste it
 	- *Dependencies*:
 		- Resourceful Lib
 		- Athena
+- [ ] [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+	- *Licence*: ARR
+	- *Dependencies*:
+		- SuperMartijn642's Core Lib
+		- SuperMartijn642's Config Lib
 - [ ] [Chunk Sending[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
 	- *Licence*: ARR
 	- *Dependencies*:
@@ -105,6 +106,8 @@ This is just so I can copy paste it
 		- EpheroLib
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 	- *Licence*: ARR
+- [ ] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
+	- *Licence*: GNU LGPLv3
 
 # D
 - [ ] [Dark Mode Everywhere](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere)
@@ -114,12 +117,18 @@ This is just so I can copy paste it
 	- *Licence*: ARR
 	- *Dependencies*:
 		- Collective
+- [ ] [Diagnoal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
+	- *Licence*: MPL 2.0
+	- *Dependencies*:
+		- Puzzles Lib
+- [ ] [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)
+	- *Licence*: MPL 2.0
+	- *Dependencies*:
+		- Puzzles Lib
 - [ ] [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 	- *Licence*: ARR
 	- *Dependencies*:
 		- MonoLib
-- [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration)
-	- *Licence*: MIT
 - [ ] [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 	- *Licence*: GNU LGPLv3
 	- Optional
@@ -302,8 +311,12 @@ This is just so I can copy paste it
 		- Electrodynamics
 
 # P
+- [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+	- *Licence*: CC-BY-NC-SA 4.0
 - [ ] § [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
 	- *Licence*: ARR
+- [ ] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
+	- *Licence*: MIT
 - [ ] §? [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 	- *Licence*: GNU GPLv3
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -335,6 +348,17 @@ This is just so I can copy paste it
 		- GlitchCore
 - [ ] [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
 	- *Licence*: ARR
+- [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Silent Lib
+- [ ] [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Silent Lib
+		- Silent Gear
+- [ ] [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+	- *Licence*: MIT
 - [ ] [Simple Planes](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 	- *Licence*: ARR
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
@@ -378,6 +402,10 @@ This is just so I can copy paste it
 # T
 - [ ] §? [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 	- *Licence*: GNU GPLv3?
+- [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+	- *Licence*: MIT
+	- *Dependencies*:
+		- Placebo
 - [ ] [Touhou Little Maid](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 	- *Licence*: MIT
 - [ ] [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
