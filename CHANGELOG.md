@@ -1,5 +1,14 @@
 # Changelog
 
+## 7.0.3
+
+### Added
+
+- FerriteCore
+- AllTheLeaks
+
+---
+
 ## 7.0.2
 
 ### Added

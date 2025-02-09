@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8c109c39ad0b9fd5f58c1064576a3c774d7615a3164397bd7ac49e51c359d165"
+hash = "2c408f586dcacb287fa3dffd59095d76e209b2fddfdba91b6d8254c56a6e9b51"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "5a4ec68c36b46a5435d76e14e17766b42d6b59efe4950951fb21c80cc95984e3"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "6f36110fe3800dd27fe9c5929e57b33d13b037f83e8db054ff659c10f6709d6d"
 metafile = true
 
 [[files]]
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "173c02bd227e837e5ca25b690c1be6b70c25eecdb58092f1ca7070b005d2a1b3"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]

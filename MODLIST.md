@@ -22,6 +22,8 @@ This is just so I can copy paste it
 	- *Licence*: ARR
 	- *Dependencies*:
 		- ForgeEndertech
+- [ ] [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+	- *Licence*: MIT
 - [ ] [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified)
 	- *Licence*: ARR
 - [ ] [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
@@ -159,6 +161,8 @@ This is just so I can copy paste it
 	- *Licence*: ARR
 	- *Dependencies*:
 		- Balm
+- [ ] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+	- *Licence*: MIT
 - [ ] § [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 	- *Licence*: ARR
 - [ ] [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
