@@ -1,5 +1,16 @@
 # Changelog
 
+## 7.1.1
+
+### Updated
+
+- Sophisticated backpacks
+- Sophisticated Core
+- GriefLogger
+- Eternally Random
+
+---
+
 ## 7.1.0
 
 ### Updated

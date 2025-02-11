@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ab940a00ae55ac8bfc976eccb339a3a096e882db7bb8a59cb84edfda16e1f1c5"
+hash = "302cebc51db0d64cd2c913e2221914342cfb66aeeac80bb2e55ac7547468c939"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternally-random.pw.toml"
-hash = "b8a9cc9296ea76e28fb83f20bfe0558ba3395359907aadfdaeb042e77b7baac9"
+hash = "19f642f0b40a5dc6438d9484e0387f1c9602dc16d6bd5edd1ca19c8eb8c871dc"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/grieflogger.pw.toml"
-hash = "8c34400550b41a682221a8eebdf8dbe82c1b4d2ce24e0a738bd30bbb932cf506"
+hash = "68a9e75daf29458492aef5b368da631290390e760a038ddc352b1e36633efadd"
 metafile = true
 
 [[files]]
@@ -689,12 +689,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "905c4d9aa9f78e8c1f5617dac5ae294298fdbbba55d3d4f135593079bcf51130"
+hash = "a348e5281988fc8b508ddb996addb5972c0d5daf773276aa0b2f69c32a76fd3c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ead1b9e4d35564cc49e46714f978efc9efd25cd613433fa0b847f61c35b6b13d"
+hash = "d8ed0ce4d4e66cf01b59e0cea1b350376b4d9eefdc85a6b7ef4d904d6b732a7c"
 metafile = true
 
 [[files]]
