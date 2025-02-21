@@ -1,5 +1,40 @@
 # Changelog
 
+## 7.1.2
+
+### Updated
+
+- NeoForge
+- Balm
+- Double Doors
+- Do a Barrel Roll
+- PneumaticCraft
+- Death backup
+- Electrodynamics
+- Better compatibility Checker
+- Jade
+- Connectivity
+- Iris Shaders
+- Cooking for Blockheads
+- Silent Gear
+- Anvil Restoration
+- JourneyMap
+- Doggy Talents Next
+- GriefLogger
+- Serene Seasons
+- Ballistix
+- Trade Cycling
+- WATERMeDIA
+- MNS - Moog's Nether Structures
+- Sophisticated Backpacks
+- Ambient Sounds 6
+- Farming for Blockheads
+- Collective
+- Sophisticated Core
+- Sodium
+
+---
+
 ## 7.1.1
 
 ### Updated
