@@ -1,5 +1,37 @@
 # Changelog
 
+## 7.2.0
+
+### Updated
+
+- NeoForge
+- FramedBlocks
+- Macaw's Paths and Pavings
+- WATERMeDIA API
+- YUNG's API
+- Ballistix
+- Collective
+- FallingTree
+- JamLib
+- Sophisticated Backpacks
+- Connectivity
+- AllTheLeaks
+- Balm
+- RightClickHarvest
+- Simply Light
+- Waystones
+- MSS
+- Touhou Little Maid
+- Puzzles Lib
+- Sophisticated Core
+- Better Compatibility Checker
+
+### Added
+
+- Create
+
+---
+
 ## 7.1.2
 
 ### Updated
@@ -11,7 +43,6 @@
 - PneumaticCraft
 - Death backup
 - Electrodynamics
-- Better compatibility Checker
 - Jade
 - Connectivity
 - Iris Shaders

@@ -98,6 +98,8 @@ This is just so I can copy paste it
 	- *Licence*: ARR
 - [ ] [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 	- *Licence*: Minecraft Mod Public License
+- [ ] § [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+	- *Licence*: MIT
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 	- *Licence*: GNU LGPLv3
 - [ ] § [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
